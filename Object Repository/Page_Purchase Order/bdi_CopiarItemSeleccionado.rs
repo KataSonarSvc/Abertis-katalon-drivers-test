@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_CopiarItemSeleccionado</name>
+   <tag></tag>
+   <elementGuidId>39f39a7b-74ea-4eb3-822e-81f7b7191931</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/div/article/div[2]/div/div/div[1]/div[2]/div[1]/div/button[1]/span/span[2]/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>9a69e081-285f-42a4-9d6c-eb8c1051360a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content</value>
+      <webElementGuid>dff280b1-b898-4c50-93c3-dc83822a18ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copiar itens selecionados</value>
+      <webElementGuid>50e6662e-2c7e-48a8-8a5b-d1e8772acee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content&quot;)</value>
+      <webElementGuid>5702a624-c216-4283-bff1-ab7435663410</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_El interlocutor comercial 500011934 se_882754</name>
+   <tag></tag>
+   <elementGuidId>3862aacb-1f71-4c3c-8ce1-a9f9af16a2f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='msgarea']//span[contains(@id, 'sbar_msg-icon') and contains(@class, 'lsMessageBar__icon--Ok')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0b123018-8bde-4e7f-8bba-6a831583149e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>9cb6b49a-a9b6-4e63-bd9c-2793aea3ebb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e3061df7-5852-4ea7-88e8-d522d31ae885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wnd[0]/sbar_msg-txt</value>
+      <webElementGuid>2c74cce5-4489-4d86-a663-26b93988acd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsMessageBar__text lsMessageBar__text--overflow</value>
+      <webElementGuid>9b399adc-ec0b-410a-8c3b-8ad880fc9bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>El interlocutor comercial 500011934 se ha creado</value>
+      <webElementGuid>7e7033da-51c9-4850-9a05-cb5e0f1c7306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El interlocutor comercial 500011934 se ha creado</value>
+      <webElementGuid>3a543875-84b9-439f-8d40-bdea89a55182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/sbar_msg-txt&quot;)</value>
+      <webElementGuid>47bf4538-ee9e-4622-8af0-090d730efe9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BP Crear Cliente new/Page_Visualizar Organizacin 500011934, rol _e50ca7/iframe_Ms_application-BusinessPartner-creat_97ef72</value>
+      <webElementGuid>7dafebb8-191f-4651-8e5e-3457d47c808a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='wnd[0]/sbar_msg-txt']</value>
+      <webElementGuid>a78fc839-7b3e-4053-be52-e8ea73238266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wnd[0]/sbar_msg']/span[2]</value>
+      <webElementGuid>2fd0ad29-312f-4f06-bdfb-66171e0d9794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perfil de crédito'])[2]/following::span[3]</value>
+      <webElementGuid>69c2abbe-8f27-4125-9c4d-e46138b8ba16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deudor: Ampliación esp.país 2'])[2]/following::span[4]</value>
+      <webElementGuid>9c456853-3a9c-48b5-bdc1-0c5c87722059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I'])[2]/preceding::span[2]</value>
+      <webElementGuid>485e9f40-a5ef-47e1-9fe9-986d19225faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='El interlocutor comercial 500011934 se ha creado']/parent::*</value>
+      <webElementGuid>0ea82ecc-70a2-4c1c-8d20-46d44aac3147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/span[2]</value>
+      <webElementGuid>90dca310-c65f-4427-bfed-b6896a404d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'wnd[0]/sbar_msg-txt' and @title = 'El interlocutor comercial 500011934 se ha creado' and (text() = 'El interlocutor comercial 500011934 se ha creado' or . = 'El interlocutor comercial 500011934 se ha creado')]</value>
+      <webElementGuid>e4d36408-3e5c-40b6-a2bf-26fbbf4cfe83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

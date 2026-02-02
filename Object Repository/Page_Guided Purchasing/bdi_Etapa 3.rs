@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Etapa 3</name>
+   <tag></tag>
+   <elementGuidId>ef5184d0-6484-4c75-ad4d-a220e9a62eec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zcompraguiada-create-component---View1--idPurchasingData-nextButton-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/section/div/section/div[2]/button/span/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>d05bf70c-3486-43ad-a50a-c723180efe90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zcompraguiada-create-component---View1--idPurchasingData-nextButton-BDI-content</value>
+      <webElementGuid>2005b753-05c8-4de5-95d7-537a0f6e8d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Etapa 3</value>
+      <webElementGuid>200ac3f7-d2eb-40ba-bb1f-138aecf82c86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zcompraguiada-create-component---View1--idPurchasingData-nextButton-BDI-content&quot;)</value>
+      <webElementGuid>f21115b7-0c85-416c-a8cf-171d9bf895b3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

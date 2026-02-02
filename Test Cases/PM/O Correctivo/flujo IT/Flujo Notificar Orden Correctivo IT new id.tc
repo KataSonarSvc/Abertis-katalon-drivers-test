@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Notificar Orden Correctivo IT new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d73ccab-2fba-4d86-b8e2-190afa4c7bcc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8d9b82c-26e0-4d89-a24c-47194c12f410</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>236d6fcf-49d9-4ee0-8034-c39bce8c6cb5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a8d9b82c-26e0-4d89-a24c-47194c12f410</id>
+      <masked>false</masked>
+      <name>testo_esplicativo</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>236d6fcf-49d9-4ee0-8034-c39bce8c6cb5</id>
+      <masked>false</masked>
+      <name>data_inizio_reparazione</name>
+   </variable>
+</TestCaseEntity>

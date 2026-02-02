@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Añadir actividad OP IT new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>920c5039-d569-4d33-b25a-55631d6518a0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a8c9cae-a419-4e68-80a2-386f07f83186</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a8c9cae-a419-4e68-80a2-386f07f83186</id>
+      <masked>false</masked>
+      <name>activita</name>
+   </variable>
+</TestCaseEntity>

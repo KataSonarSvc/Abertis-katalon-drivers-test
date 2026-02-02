@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TipoImp</name>
+   <tag></tag>
+   <elementGuidId>edcb974f-c41c-452a-8de0-71f3721ea285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/div/section/div/div[2]/div/section[2]/section[2]/div[2]/div/div[1]/div/div/div/table/tbody/tr/td[5]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__item485-content > div.sapMSLIDiv.sapMSLIInfoMiddle > div.sapMSLITitleOnly</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>41aa377d-1f18-4f97-96e9-164cf4d521fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLITitleOnly</value>
+      <webElementGuid>ec2d6521-882e-4a91-b739-57c48b6a328f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>O</value>
+      <webElementGuid>0434a5ec-014d-41b3-8764-6f5fdd36fea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item485-content&quot;)/div[@class=&quot;sapMSLIDiv sapMSLIInfoMiddle&quot;]/div[@class=&quot;sapMSLITitleOnly&quot;]</value>
+      <webElementGuid>061c6493-48d5-4145-9682-9b64dd767242</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item485-content']/div/div</value>
+      <webElementGuid>b4bd4995-cf41-4f30-8bc2-21242f220d6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centro de custo'])[1]/following::div[3]</value>
+      <webElementGuid>16546f7f-a2ba-46d4-a9d3-a56d0fff8b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::div[4]</value>
+      <webElementGuid>2057b9b3-a6e6-47a7-ae54-e0d4b21c7a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projeto CAPEX'])[1]/preceding::div[1]</value>
+      <webElementGuid>ff32ef4b-64ee-4182-9ea0-dd9b8185412a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P'])[1]/preceding::div[2]</value>
+      <webElementGuid>22aafeef-9d92-4063-a440-827426fb6d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='O']/parent::*</value>
+      <webElementGuid>286028fe-6f60-4aeb-aa86-7fcdedfe951f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div</value>
+      <webElementGuid>de7829d2-0b60-4aa5-9fab-ac17ca224dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'O' or . = 'O')]</value>
+      <webElementGuid>0a7c0e9f-2272-4f9b-8006-5b49cf3c5577</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

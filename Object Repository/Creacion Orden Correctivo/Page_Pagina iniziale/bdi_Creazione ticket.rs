@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Creazione ticket</name>
+   <tag></tag>
+   <elementGuidId>5fc0cb27-9d44-4a33-8cf9-69ef1e655f1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__label0-allMyAppsView--oItemsContainerlist-0-bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='__label0-allMyAppsView--oItemsContainerlist-0-bdi']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>60dd7cd2-dd51-4f06-a455-7e0250eb4012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__label0-allMyAppsView--oItemsContainerlist-0-bdi</value>
+      <webElementGuid>c095fb30-65ec-456a-97c7-31dd7b4bc7f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Creazione ticket</value>
+      <webElementGuid>c2c81133-856f-42f4-956f-e7dbaa60d840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__label0-allMyAppsView--oItemsContainerlist-0-bdi&quot;)</value>
+      <webElementGuid>748ae4e6-db64-449a-8bc2-8c2d5e40d3b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='__label0-allMyAppsView--oItemsContainerlist-0-bdi']</value>
+      <webElementGuid>c31a0baa-749c-472c-bc69-593811b69576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__label0-allMyAppsView--oItemsContainerlist-0-text']/bdi</value>
+      <webElementGuid>2c331b1e-5b98-424d-8656-2ebf89757c9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creazione ticket'])[2]/following::bdi[1]</value>
+      <webElementGuid>9ebc49a5-d8f7-4dba-8c7e-916f88f50b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Invoice Management'])[1]/following::bdi[1]</value>
+      <webElementGuid>a41bc178-0251-4843-9da8-c70f942e79e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sel. categoria'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>e275128f-f8e6-48fb-970c-ec9798c72a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pagina iniziale'])[2]/preceding::bdi[2]</value>
+      <webElementGuid>503e206d-aefc-436b-a28a-3243716af535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bdi</value>
+      <webElementGuid>6734cdf5-9ea5-4fcb-bff5-545174cd3501</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = '__label0-allMyAppsView--oItemsContainerlist-0-bdi' and (text() = 'Creazione ticket' or . = 'Creazione ticket')]</value>
+      <webElementGuid>15a84a76-37c4-40b6-aa31-f6a70b7430ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Afficher plus_application-zpurchasereq_133b34</name>
+   <tag></tag>
+   <elementGuidId>ce85acaa-d330-46eb-9bfd-bae073873295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaserequisition-createMP-component---cartView--idButtonPosition-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='application-zpurchaserequisition-createMP-component---cartView--idButtonPosition-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06484901-0ddb-4a4c-a1c0-6b65f4adb145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaserequisition-createMP-component---cartView--idButtonPosition-inner</value>
+      <webElementGuid>64a2104d-0a8f-48cd-89a4-935fe6e4e6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnIconFirst sapMBtnAccept</value>
+      <webElementGuid>1b973cea-7d38-4e59-9588-b4b0eab37222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaserequisition-createMP-component---cartView--idButtonPosition-inner&quot;)</value>
+      <webElementGuid>2798b80c-3215-4862-8599-cba78b548fbd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaserequisition-createMP-component---cartView--idButtonPosition-inner']</value>
+      <webElementGuid>a8878f9c-7c36-4bb8-bfb3-0ad1f187deac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='application-zpurchaserequisition-createMP-component---cartView--idButtonPosition']/span</value>
+      <webElementGuid>6b8bf998-cb60-40ef-ab4a-fffb1c55a4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afficher plus'])[5]/following::span[3]</value>
+      <webElementGuid>3cbac3e4-e07a-4631-9105-104f1d4d598f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clé de pays/région'])[1]/following::span[8]</value>
+      <webElementGuid>bafcf4d8-a2eb-41fa-96e6-e612b00a8ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='accept'])[1]/preceding::span[2]</value>
+      <webElementGuid>775c6b6b-a0e3-4d5f-bc3e-8fbba7f35b7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plus'])[3]/preceding::span[7]</value>
+      <webElementGuid>69f58181-3aea-4e3d-89ec-8124130d4661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/footer/div/button/span</value>
+      <webElementGuid>4be8c8c7-bf1e-46e1-95c9-80832107ab7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'application-zpurchaserequisition-createMP-component---cartView--idButtonPosition-inner']</value>
+      <webElementGuid>689d5e7a-0fba-4063-84a2-d192c1cf128a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

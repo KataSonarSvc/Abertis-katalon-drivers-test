@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab_Datos de Adjudicacion</name>
+   <tag></tag>
+   <elementGuidId>e63f5717-1bf2-4d73-8db8-d2f63fda570a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>31c140b6-30b9-4f9f-8704-a78d4bec82fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor-inner</value>
+      <webElementGuid>6641685d-92e4-4246-8964-33c07d373b27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnDefault</value>
+      <webElementGuid>18646888-1980-436e-b315-33088449d89e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos de Adjudicación</value>
+      <webElementGuid>516f7d21-6d71-40be-a297-4a1081dc9328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor-inner&quot;)</value>
+      <webElementGuid>2440db43-69cf-4bb4-8335-5cd1c2716bc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor-inner']</value>
+      <webElementGuid>d7c378c4-edfd-44a0-8ef1-c17d6e9c17c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor']/span</value>
+      <webElementGuid>42d092dc-2e57-47e5-90a8-3a1a794c26f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Histórico de documentos'])[2]/following::span[1]</value>
+      <webElementGuid>8e03b1de-192e-4090-b85d-a43ed0641582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estrategia Liberación'])[2]/following::span[3]</value>
+      <webElementGuid>02fbbdf4-8b36-459b-aa07-45b61ca7ba50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activar elemento para ir a la sección en la página'])[1]/preceding::span[2]</value>
+      <webElementGuid>06c4249b-f8eb-4bf6-8ded-778aeeae7dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[5]/span</value>
+      <webElementGuid>f3d3ba84-e07c-4d9d-be84-c2eaf1171d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionAwardData-anchor-inner' and (text() = 'Datos de Adjudicación' or . = 'Datos de Adjudicación')]</value>
+      <webElementGuid>d8e00d35-3e2f-4a5e-8a63-5a4bba6d6944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

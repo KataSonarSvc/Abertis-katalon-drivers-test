@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado documentos medicion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>edd2c58f-8325-4a30-8d0c-28bf91344327</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_X01</name>
+   <tag></tag>
+   <elementGuidId>ea376439-cbb0-4166-954f-d55209150089</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog0-table-rows-row1-col0 > div.sapUiTableCellInner.sapUiTableFirstColumnCell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='__dialog0-table-rows-row1-col0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>42bb71b7-a5ad-4399-a57a-195eea2c3517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner sapUiTableFirstColumnCell</value>
+      <webElementGuid>3e509741-a317-444b-856e-e726e27b7162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X01</value>
+      <webElementGuid>4e86bd4d-05bb-4dfe-9d28-0ade1bdef4fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog0-table-rows-row1-col0&quot;)/div[@class=&quot;sapUiTableCellInner sapUiTableFirstColumnCell&quot;]</value>
+      <webElementGuid>f25c5448-f0ae-45a4-95fe-7dfdef2ac60a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog0-table-rows-row1-col0']/div</value>
+      <webElementGuid>63e9d4a4-7b29-4cfa-b3de-a7ecd9f05784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OBS-Gr Compras Ref'])[1]/following::div[1]</value>
+      <webElementGuid>16973dad-d7c3-408e-9012-eb95147a5594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REF'])[1]/following::div[2]</value>
+      <webElementGuid>a74c3134-d485-4dc9-8a22-8d6777a945cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Direccion General'])[1]/preceding::div[1]</value>
+      <webElementGuid>9b172e44-98cd-4de7-b4fa-ca8b6bca98d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div</value>
+      <webElementGuid>9e3755fa-b794-4d7e-a1f5-073748990c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'X01' or . = 'X01')]</value>
+      <webElementGuid>3c109da7-3d77-4f2d-86fd-1a29593eb6ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

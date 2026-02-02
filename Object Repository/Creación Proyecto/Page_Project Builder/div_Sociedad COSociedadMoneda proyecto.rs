@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sociedad COSociedadMoneda proyecto</name>
+   <tag></tag>
+   <elementGuidId>5b295a2e-e15f-4e5e-a95e-f18856dafe54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:1:4:1:2B256::4:52-scrl-cnt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f2bbf84-a783-4cb7-bc52-9a8372bbe4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:1:4:1:2B256::4:52-scrl-cnt</value>
+      <webElementGuid>d933e707-9e8e-43ea-a169-098c1817bb74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height  urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>388a8826-5bd4-41bd-914c-e084f9e566f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sociedad COSociedadMoneda proyecto</value>
+      <webElementGuid>d70c3825-3339-4b30-8e13-deeb3759366c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1:4:1:2B256::4:52-scrl-cnt&quot;)</value>
+      <webElementGuid>528ca776-845c-4c59-a71f-c68d86c37483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Creación Proyecto/Page_Project Builder/iframe_Ms_application-Project-process-iframe</value>
+      <webElementGuid>7f557b1a-55ad-4633-ae1a-a93a61065459</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1:4:1:2B256::4:52-scrl-cnt']</value>
+      <webElementGuid>3f6cfe56-0f25-44b7-abd3-ed12166ea47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1:4:1:2B256::4:52-scrl']/div</value>
+      <webElementGuid>5f249b88-a20d-4999-945e-be790080e8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organización'])[1]/following::div[2]</value>
+      <webElementGuid>f3766159-4519-4456-91a5-411e1606a887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='S'])[3]/following::div[4]</value>
+      <webElementGuid>4de75a92-d943-42fa-92b4-35e760e64811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr[2]/td/table/tbody/tr/td/div/div</value>
+      <webElementGuid>7d99683c-b0e8-4cf2-adbb-bf9ea2c5c965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:1:4:1:2B256::4:52-scrl-cnt' and (text() = 'Sociedad COSociedadMoneda proyecto' or . = 'Sociedad COSociedadMoneda proyecto')]</value>
+      <webElementGuid>3ecd7269-01a5-46bd-8353-5ddcb2ffe3ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

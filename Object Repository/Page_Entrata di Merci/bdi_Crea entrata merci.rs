@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Crea entrata merci</name>
+   <tag></tag>
+   <elementGuidId>3d50aac1-f94e-4292-ae52-dc51b9435d17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>c17fb816-c749-467e-b704-4c37988ee11b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content</value>
+      <webElementGuid>0f90296f-839b-4467-83c7-9d314bfaa538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crea entrata merci</value>
+      <webElementGuid>b3722c59-40ed-4a88-afcb-4a1de4d0f464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content&quot;)</value>
+      <webElementGuid>4ef9a9cb-295e-4017-9392-0034cef60014</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content']</value>
+      <webElementGuid>2c9dafba-2027-4383-a5cc-4d152c742927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-content']/bdi</value>
+      <webElementGuid>74216243-f4d3-4532-947d-a356569ae9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EUR'])[2]/following::bdi[1]</value>
+      <webElementGuid>e3213bf3-2d1a-4c17-b88e-7504ebf04144</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A4 Trading S.r.l. (1336)'])[1]/following::bdi[1]</value>
+      <webElementGuid>621105d8-a2aa-44c0-99ce-e8f58d2ab0b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Esplodi testata'])[2]/preceding::bdi[1]</value>
+      <webElementGuid>e833be8e-05f0-41cf-8642-a71b4d6731bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprimi testata'])[2]/preceding::bdi[1]</value>
+      <webElementGuid>0ec24847-83f5-4b4b-ad5a-93635ab7cc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crea entrata merci']/parent::*</value>
+      <webElementGuid>287a7de8-5c96-4f2f-9079-0272b658c2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/span/span/bdi</value>
+      <webElementGuid>83a3bb07-45ea-4694-a012-22c922752c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content' and (text() = 'Crea entrata merci' or . = 'Crea entrata merci')]</value>
+      <webElementGuid>5d5f1b46-2226-485e-9559-ff1ffbc4f62a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

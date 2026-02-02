@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_E152050003</name>
+   <tag></tag>
+   <elementGuidId>b315c94a-877e-419d-827f-983c2f7acfc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog2-table-rows-row0-col0 > div.sapUiTableCellInner.sapUiTableFirstColumnCell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='__dialog2-table-rows-row0-col0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73a7e714-61d4-4c23-8541-1f730bc3ccbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner sapUiTableFirstColumnCell</value>
+      <webElementGuid>1e26ab36-dcaa-445c-8978-207a3b33f888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>E152050003</value>
+      <webElementGuid>73e823fa-95d7-4aab-a35a-fb313177e914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog2-table-rows-row0-col0&quot;)/div[@class=&quot;sapUiTableCellInner sapUiTableFirstColumnCell&quot;]</value>
+      <webElementGuid>ced8da7e-4e27-431f-8688-1fbf873f0ebc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog2-table-rows-row0-col0']/div</value>
+      <webElementGuid>6f5e99e3-676b-43f1-a5ce-0e53ba3f9c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[6]</value>
+      <webElementGuid>cc4b5681-0323-460a-b2c8-e4d5840aa3db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost Center'])[1]/following::div[9]</value>
+      <webElementGuid>f636e524-429a-496b-8c3e-0ed2bfa3f65a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E. Mersey'])[1]/preceding::div[1]</value>
+      <webElementGuid>0dac8df2-5995-4f6c-a095-242f6ca84c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/td/div</value>
+      <webElementGuid>e47a7722-c65c-4470-acdd-e0e4d5deba86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'E152050003' or . = 'E152050003')]</value>
+      <webElementGuid>e55168d3-f324-4a40-b549-455706e71391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

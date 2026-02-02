@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notificar Orden correctivo Unae new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>873ae4ee-c9fe-4215-b4f6-c60809caf267</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e063d422-737d-4779-8249-8dca47f59928</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e063d422-737d-4779-8249-8dca47f59928</id>
+      <masked>false</masked>
+      <name>orden</name>
+   </variable>
+</TestCaseEntity>

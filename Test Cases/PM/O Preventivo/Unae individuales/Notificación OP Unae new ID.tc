@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notificación OP Unae new ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a561bc1-ceb8-4f16-9116-9c4698507a6d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96983012-9c92-471c-931a-a87745257011</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>96983012-9c92-471c-931a-a87745257011</id>
+      <masked>false</masked>
+      <name>orden</name>
+   </variable>
+</TestCaseEntity>

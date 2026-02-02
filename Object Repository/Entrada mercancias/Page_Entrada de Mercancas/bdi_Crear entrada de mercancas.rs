@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Crear entrada de mercancas</name>
+   <tag></tag>
+   <elementGuidId>67fc813b-2f55-4ef6-a033-1b59e67237a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>cefcd4f4-be56-44cb-8d93-60882a9893cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content</value>
+      <webElementGuid>4b1c6042-86dd-4526-b75f-7ca0c11b9ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear entrada de mercancías</value>
+      <webElementGuid>31057e2b-f331-4c75-b814-40b8c6a223bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content&quot;)</value>
+      <webElementGuid>36ffb206-6127-41d7-aa9c-accab027fa29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content']</value>
+      <webElementGuid>18a6729a-12f4-4384-ae66-de30e8ec22ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-content']/bdi</value>
+      <webElementGuid>414d4d66-a617-490f-b0b7-bad80ff061f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ctrl+E'])[1]/following::bdi[1]</value>
+      <webElementGuid>fc47fafa-a1d9-4e33-bbc5-6a1f02d0b511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::bdi[1]</value>
+      <webElementGuid>d411685c-987c-473a-85a8-ed1f4ac0badf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrada de Mercancías'])[2]/preceding::bdi[1]</value>
+      <webElementGuid>911c730b-aa08-4ffc-9af3-3df19e08a874</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Crear entrada de mercancías']/parent::*</value>
+      <webElementGuid>37f7f478-3560-4820-aa9c-ca88fc27c6a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bdi</value>
+      <webElementGuid>25f388a5-d589-4033-8832-0800f61abe93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--edit-BDI-content' and (text() = 'Crear entrada de mercancías' or . = 'Crear entrada de mercancías')]</value>
+      <webElementGuid>d32e2657-e8d7-4f97-975c-08fd5d92da5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

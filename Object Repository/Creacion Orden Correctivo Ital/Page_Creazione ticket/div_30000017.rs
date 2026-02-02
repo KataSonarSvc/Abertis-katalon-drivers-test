@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_30000017</name>
+   <tag></tag>
+   <elementGuidId>19a7051c-80ac-4aef-abf1-6aeb2f2e6834</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog0-table-rows-row0-col0 > div.sapUiTableCellInner.sapUiTableFirstColumnCell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='__dialog0-table-rows-row0-col0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>297e2616-1b80-46f0-950a-88f7e63e0cf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner sapUiTableFirstColumnCell</value>
+      <webElementGuid>cfd0b88e-0089-4315-a29a-d66acf7867ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30000017</value>
+      <webElementGuid>2d3fa3be-ca51-4e03-b56a-36f8400f8dcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog0-table-rows-row0-col0&quot;)/div[@class=&quot;sapUiTableCellInner sapUiTableFirstColumnCell&quot;]</value>
+      <webElementGuid>9e56a71c-196e-48fb-8e59-ff1d0811fb4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog0-table-rows-row0-col0']/div</value>
+      <webElementGuid>8598a273-71d1-43db-8b14-ff04f596cbc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nome'])[1]/following::div[6]</value>
+      <webElementGuid>d9814979-bd43-473b-a0b1-46d17bc521b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centro di lavoro principale'])[1]/following::div[9]</value>
+      <webElementGuid>5c3a86cf-0ab8-4125-befe-472959ea40d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAB_IMP'])[1]/preceding::div[1]</value>
+      <webElementGuid>3f6e3db2-cd6b-478a-9fb0-c5a510bebf28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ADAMI, ALDINA'])[1]/preceding::div[3]</value>
+      <webElementGuid>b1a7f645-607b-40a1-b2a4-53a3692677e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/td/div</value>
+      <webElementGuid>2f097436-ad5d-435b-819d-864c64655a6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30000017' or . = '30000017')]</value>
+      <webElementGuid>d38b59a0-aa39-46d0-bade-92cb015a8e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

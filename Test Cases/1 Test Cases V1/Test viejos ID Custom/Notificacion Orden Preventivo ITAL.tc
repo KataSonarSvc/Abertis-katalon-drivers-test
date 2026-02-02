@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notificacion Orden Preventivo ITAL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a870332-7c8e-4c34-ae0e-116bf55d55f9</testCaseGuid>
+</TestCaseEntity>

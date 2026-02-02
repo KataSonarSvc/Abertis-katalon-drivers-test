@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Iniciar</name>
+   <tag></tag>
+   <elementGuidId>ce7f4f19-4583-43ef-a0d2-4812bfbc931a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/article/div[2]/header/div/div/div[1]/div/div[8]/div/div[2]/div/div[4]/button&#xd;
+&#xd;
+/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/article/div[2]/header/div/div/div[1]/div/div[7]/div/div[2]/div/div[4]/button/span[1]/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>7c879eaa-4de1-40be-bad8-20b4f4c5b1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>com.abertis.mm.zpurchaserequisitionlr::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosPurchaseRequisitionLR--listReportFilter-btnGo-BDI-content</value>
+      <webElementGuid>b6694339-2bf9-4baa-a9d8-299e5b546d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar</value>
+      <webElementGuid>3827a4e0-1ddc-4cc0-99ed-612813d3129f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zpurchaserequisitionlr::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosPurchaseRequisitionLR--listReportFilter-btnGo-BDI-content&quot;)</value>
+      <webElementGuid>e1c04347-6741-470b-8125-ce4f606dbf9b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

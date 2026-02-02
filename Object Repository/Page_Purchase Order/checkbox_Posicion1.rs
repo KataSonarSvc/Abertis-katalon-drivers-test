@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_Posicion1</name>
+   <tag></tag>
+   <elementGuidId>8e004fa2-660b-444b-9462-cd385258075d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>circle.sapMRbBInn</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__item245-__clone149-selectSingle&quot;)/div[@class=&quot;sapMRbB sapMRbHoverable&quot;]/svg[@class=&quot;sapMRbSvg&quot;]/circle[@class=&quot;sapMRbBInn&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[4]/div/div/div/div/section/div/div[2]/div/section[2]/section[2]/div[2]/div/div[1]/div/div/div/table/tbody/tr[1]/td[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>ff03bda0-db49-49e7-8734-0f265974a711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>22%</value>
+      <webElementGuid>a1eebe12-9ae3-43ff-8067-6b077c38b1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>3ec333c6-a4ff-4455-b3a4-63e89bdc44d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMRbBInn</value>
+      <webElementGuid>dcfc31d6-2205-4d50-8c0b-5d97e4cc34e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item245-__clone149-selectSingle&quot;)/div[@class=&quot;sapMRbB sapMRbHoverable&quot;]/svg[@class=&quot;sapMRbSvg&quot;]/circle[@class=&quot;sapMRbBInn&quot;]</value>
+      <webElementGuid>f68dbac3-211c-4582-98f6-8d5c2d9f8c8b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

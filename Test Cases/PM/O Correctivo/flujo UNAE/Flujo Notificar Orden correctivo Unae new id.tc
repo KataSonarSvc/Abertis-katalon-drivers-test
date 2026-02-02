@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Notificar Orden correctivo Unae new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9655e062-187c-46d9-827c-0914d25850d1</testCaseGuid>
+</TestCaseEntity>

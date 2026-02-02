@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>PM Creación Orden Preventivo España</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2a4da0ad-3fcf-4d1e-9e97-ae1b5f9ef767</testSuiteGuid>
+   <testCaseLink>
+      <guid>f82d1c09-4e71-4595-9f38-63cd09d354fb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Creación Orden Preventivo Unae New ID</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/DATA PM CREACIÓN ORDEN PREVENTIVO ESP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CI ORDEN</value>
+         <variableId>40c66c19-85a0-4b66-a52e-332a79be3c1b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CE PLANIF</value>
+         <variableId>0b8484b2-a935-4c57-b84c-39d41b3649ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TEXTO ORDEN</value>
+         <variableId>66a7e16b-a64e-41f5-9121-ab9b31458ea1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RS.PTO.TR</value>
+         <variableId>f777fff6-6981-45a0-8d08-10492ae9b4f2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIC.TECN</value>
+         <variableId>cbee3c99-d3d0-42c8-9dbe-e715508e1578</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EQUIPO</value>
+         <variableId>3d2eb774-56cc-4874-8ad3-143e02bc2a3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SINTOMA</value>
+         <variableId>c9d157b2-c8bd-4786-b9a7-ce0e839294f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>S1</value>
+         <variableId>025c157e-d0a9-49c7-b124-748b2e28bdb4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CAUSA</value>
+         <variableId>2b0e0456-5ac4-4eff-b7dd-b44f160ea9a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>41fb9c7e-bf70-4d47-b5a2-b3ec67179d46</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>C1</value>
+         <variableId>6597dc65-106f-4884-8f02-4a511d96426c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

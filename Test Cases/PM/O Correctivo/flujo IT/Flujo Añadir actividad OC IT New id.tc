@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Añadir actividad OC IT New id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8d1dd26b-ba5a-431f-82b1-64c717740ac3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b1f048f-1bbc-46eb-b22c-8d37bfbcfc75</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b1f048f-1bbc-46eb-b22c-8d37bfbcfc75</id>
+      <masked>false</masked>
+      <name>attivita</name>
+   </variable>
+</TestCaseEntity>

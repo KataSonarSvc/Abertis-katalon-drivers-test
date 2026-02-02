@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Liberar Orden Correctivo Unae new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1836e6b2-8a68-4ad5-96ed-ef46540261a6</testCaseGuid>
+</TestCaseEntity>

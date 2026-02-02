@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cierre OP UNAE new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e9849a9e-08c8-4a7e-b726-5b9cc1cd3810</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>42e9a10f-6417-46d5-b2d7-faeed8a9d6c9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>42e9a10f-6417-46d5-b2d7-faeed8a9d6c9</id>
+      <masked>false</masked>
+      <name>orden</name>
+   </variable>
+</TestCaseEntity>

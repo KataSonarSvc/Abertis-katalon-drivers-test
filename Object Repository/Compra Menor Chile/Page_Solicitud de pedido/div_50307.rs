@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_50307</name>
+   <tag></tag>
+   <elementGuidId>f7c2eaf4-9222-4130-bb2a-5da139517861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog1-table-rows-row0-col0 > div.sapUiTableCellInner.sapUiTableFirstColumnCell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='__dialog1-table-rows-row0-col0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ebb174b7-ad42-497b-bf99-b4fbd886a063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner sapUiTableFirstColumnCell</value>
+      <webElementGuid>2c692f70-5362-4e25-b1bd-3d69f3c4ad34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50307</value>
+      <webElementGuid>3cbe9618-4a3a-4e8a-bd85-d45618fa182e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog1-table-rows-row0-col0&quot;)/div[@class=&quot;sapUiTableCellInner sapUiTableFirstColumnCell&quot;]</value>
+      <webElementGuid>8474faf9-281e-4ef1-a446-7edbf64fee08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog1-table-rows-row0-col0']/div</value>
+      <webElementGuid>32eba672-f7b5-4a84-b98d-96308292adc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Borrado'])[2]/following::div[6]</value>
+      <webElementGuid>f9372901-2765-487d-9443-53e082f325df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo de artículos'])[2]/following::div[9]</value>
+      <webElementGuid>f134a388-9f33-45fd-904d-7ac7824a7060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Combustibles'])[1]/preceding::div[1]</value>
+      <webElementGuid>636727f0-1948-4e23-a5ff-19067c152621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZSER'])[1]/preceding::div[2]</value>
+      <webElementGuid>17ee8f48-10ae-49a7-9a4c-8ee5f6dac08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/td/div</value>
+      <webElementGuid>4a862fd4-2316-4878-9b21-e300a5005310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '50307' or . = '50307')]</value>
+      <webElementGuid>b44a3c15-afdc-4203-88b9-8c23bc4bbdc5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

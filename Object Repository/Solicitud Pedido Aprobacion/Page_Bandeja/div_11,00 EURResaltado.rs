@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11,00 EURResaltado</name>
+   <tag></tag>
+   <elementGuidId>f08654a4-554c-4d8f-8489-27efc3f4c083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-1-content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMObjLTopRow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eca1e376-f161-495a-8f56-af3142a5afbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMObjLTopRow</value>
+      <webElementGuid>c34c1d4d-8ed5-4c98-aaeb-baa2a5de90fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11,00  EURResaltado</value>
+      <webElementGuid>11dba897-d4ea-4312-b338-6bf76652fcd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-1-content&quot;)/div[@class=&quot;sapMObjLTopRow&quot;]</value>
+      <webElementGuid>51ee3e81-0ef8-4482-819d-9acd83ee952d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-1-content']/div</value>
+      <webElementGuid>03c4313b-eba6-443a-bdaa-7f1e918cbe41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selección múltiple'])[1]/following::div[12]</value>
+      <webElementGuid>8b776fb5-dee6-4471-a79d-65c51be3e868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzón general de compras (1)'])[1]/following::div[13]</value>
+      <webElementGuid>514b2eab-c1cb-4775-bee7-25aeec8cb92e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abertis Infraestructuras'])[1]/preceding::div[5]</value>
+      <webElementGuid>3d5e6f12-00eb-41ad-88f7-29f7935999fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div</value>
+      <webElementGuid>5f2a8af8-e21e-47b8-8057-0df850c8031a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '11,00  EURResaltado' or . = '11,00  EURResaltado')]</value>
+      <webElementGuid>0c99e4d4-8769-4216-a0c6-23e5f6027182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

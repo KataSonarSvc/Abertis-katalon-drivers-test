@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DATA COMPRA CONTRA CONTRATO MX</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>025ffe80-f12c-4f9b-a4ec-28bee9c6e7d9</dataFileGUID>
+   <dataSourceUrl>Data Files/Excel/COMPRAS/COMPRA CONTRA CONTRATO/DATA CREAR CONTRATOS imp O - MEX.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

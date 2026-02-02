@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Borrar filtros</name>
+   <tag></tag>
+   <elementGuidId>439401f4-8217-417c-bd4c-698a378d9a51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#u4766 > td.urMnuTxt > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='u4766']/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7db79f69-c724-4eb5-b1fa-2439a5983143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sap-ls-style</name>
+      <type>Main</type>
+      <value>;white-space:nowrap</value>
+      <webElementGuid>ebff3edb-c184-455b-a9d8-44e12101435c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Borrar filtros</value>
+      <webElementGuid>c2dacf0a-14a7-48bb-93bc-68d2dd14dc27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u4766&quot;)/td[@class=&quot;urMnuTxt&quot;]/span[1]</value>
+      <webElementGuid>47ac0a13-40d4-4b5c-bd04-be54f5841ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Creación de Facturas con pedido sin diferencias/Page_rea de trabajo de VIM Invoice  Todas l_8ce86e/iframe_Ms_application-zgui_opt_vim_wp-displ_b9e7ed</value>
+      <webElementGuid>d6ac516f-7909-4754-bb48-0a7a2bc9d289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='u4766']/td[3]/span</value>
+      <webElementGuid>b308e1af-0717-4f0d-81e4-372295f7738e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fijar filtro...'])[1]/following::span[4]</value>
+      <webElementGuid>b69503dc-2d9a-481e-9e42-bcdc9dc218dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suplencia para:'])[3]/following::span[35]</value>
+      <webElementGuid>870a93ba-9d89-4134-97b1-05ea783cf85c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Borrar filtros']/parent::*</value>
+      <webElementGuid>9a8bc7f3-77a4-46ae-8684-48fbff9c4229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/span</value>
+      <webElementGuid>e25b72e5-92bb-4349-acd7-030ad8673058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Borrar filtros' or . = 'Borrar filtros')]</value>
+      <webElementGuid>5e1d0d42-9424-4586-bed2-993ff26993da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

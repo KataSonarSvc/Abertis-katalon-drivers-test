@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aprobacin contratos</name>
+   <tag></tag>
+   <elementGuidId>249e062e-4c84-40f6-a98f-7d39b03df7c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile19-title-inner']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile19-title-inner > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df241b22-f368-45cb-9cb0-9a7551b6816d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aprobación contratos</value>
+      <webElementGuid>1b039736-c3e5-4875-b186-c066c9363978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile19-title-inner&quot;)/span[1]</value>
+      <webElementGuid>554b25c0-7de3-4357-88ed-5b53a553cdf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile19-title-inner']/span</value>
+      <webElementGuid>01756d01-e0ba-41e9-9715-cf8dbec895d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[2]/following::span[6]</value>
+      <webElementGuid>310872ac-b4ba-4c8a-80b7-37e5786ccbb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[7]/following::span[9]</value>
+      <webElementGuid>797bebbf-e65c-4b4b-9287-1aebad54b899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendientes aprobar'])[1]/preceding::span[1]</value>
+      <webElementGuid>42fa82a0-34fe-4e0b-8985-64d541a08773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aprobación']/parent::*</value>
+      <webElementGuid>11dd505f-ee8b-4890-a8e7-c639832a43b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/span/span/span</value>
+      <webElementGuid>df997269-c842-4ef4-bacb-91d5d84512d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Aprobación contratos' or . = 'Aprobación contratos')]</value>
+      <webElementGuid>566ead8e-bb56-4dba-a17d-f55a1387c800</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

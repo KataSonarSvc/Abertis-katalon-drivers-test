@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Añadir actividad OA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2675c087-73b8-49f3-a520-52c779609a86</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>77b50ce5-a619-4985-89f0-7aae26919095</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d4f17a50-0c2f-4d9a-81fd-acaf7a51aecb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77b50ce5-a619-4985-89f0-7aae26919095</id>
+      <masked>false</masked>
+      <name>orden</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d4f17a50-0c2f-4d9a-81fd-acaf7a51aecb</id>
+      <masked>false</masked>
+      <name>cltexes</name>
+   </variable>
+</TestCaseEntity>

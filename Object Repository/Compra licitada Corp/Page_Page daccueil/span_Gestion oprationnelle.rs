@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gestion oprationnelle</name>
+   <tag></tag>
+   <elementGuidId>45b73182-a30d-44a9-9003-763c225ee8c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>98f4b4d4-2398-4898-a8f6-4e1887e5db86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner</value>
+      <webElementGuid>17d4ae88-adb0-413f-bce7-de704b01f6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>d4aafd69-f9d2-4905-8940-b71c21b51d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestion opérationnelle</value>
+      <webElementGuid>a6da476f-89e4-4f0e-9feb-e1dc796c707b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner&quot;)</value>
+      <webElementGuid>cf79731d-fb93-43fc-b758-2f9a5200c6f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner']</value>
+      <webElementGuid>2b197fca-9269-4062-aaa0-0f9e54880664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title']/span</value>
+      <webElementGuid>4ecdc3bc-77ab-4b45-a4ee-74b69ba0f2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plus'])[11]/following::span[5]</value>
+      <webElementGuid>f3034759-2a60-4e4f-af2b-28820e21de54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pages'])[1]/following::span[8]</value>
+      <webElementGuid>72aa75e0-6336-444d-a201-35d023920993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACHATS OPÉRATIONNELS'])[2]/preceding::span[1]</value>
+      <webElementGuid>f1d2ed14-3479-444f-88be-80099683514f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tâches à faire'])[1]/preceding::span[5]</value>
+      <webElementGuid>f944762c-866f-47ef-9508-88cbe2e7126c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gestion opérationnelle']/parent::*</value>
+      <webElementGuid>ec1042e6-d292-4da1-a919-1176209c438c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/span/span</value>
+      <webElementGuid>5dc6e310-ec73-4b93-b570-e55289661a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner' and (text() = 'Gestion opérationnelle' or . = 'Gestion opérationnelle')]</value>
+      <webElementGuid>5aa7cc36-371c-455a-b5df-6c435920867d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aprobacin de Compras</name>
+   <tag></tag>
+   <elementGuidId>c5b12ceb-6182-46b1-afb0-c00f8a66b3f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile28-title-inner']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile28-title-inner > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e750925c-0ddb-4658-8a4e-299a88be116a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aprobación de Compras</value>
+      <webElementGuid>a7d41473-1618-4fd8-bbd7-fdb101e2a17d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile28-title-inner&quot;)/span[1]</value>
+      <webElementGuid>904b9793-da05-496a-9e06-c90d4090be69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile28-title-inner']/span</value>
+      <webElementGuid>45a58ab2-4dd4-4a54-a9da-55fe23a578d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[2]/following::span[6]</value>
+      <webElementGuid>12f8c233-c661-4ffd-a9c2-972b6c7fec7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[5]/following::span[9]</value>
+      <webElementGuid>49d465d0-e2cc-4aa7-a6c6-8ca7db993f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendientes de aprobar'])[1]/preceding::span[1]</value>
+      <webElementGuid>e212864f-0238-44dc-b52f-167b022b80d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Aprobación de']/parent::*</value>
+      <webElementGuid>57473c0d-4187-41fd-961e-e169df5d49ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/span/span/span</value>
+      <webElementGuid>c02e42a7-2cfc-4208-bc92-643822a7b78c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Aprobación de Compras' or . = 'Aprobación de Compras')]</value>
+      <webElementGuid>2bc3f727-3e20-4cc6-88d0-8a8723638058</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Mais Dados</name>
+   <tag></tag>
+   <elementGuidId>775f07ca-829d-4885-aa62-9b4aeb268321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[4]/div/div/div/div/section/div/div[2]/div/section[2]/section[2]/div[2]/div/div[1]/div/div/div/div[1]/button[1]/span/span[2]/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-createPOfromContract-component---detail--idMoreDataPosition-BDI-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>825b2544-7f42-440e-ab82-2cea48784ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-createPOfromContract-component---detail--idMoreDataPosition-BDI-content</value>
+      <webElementGuid>b901a811-88fd-4fa6-9604-3e424328fb87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mais Dados</value>
+      <webElementGuid>4a970b50-ab4c-49d3-b6b7-6592f992a274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-createPOfromContract-component---detail--idMoreDataPosition-BDI-content&quot;)</value>
+      <webElementGuid>e7c5b40f-ffe9-4343-bc72-4de709b1581d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Crear Ubicacion NEW ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>589d1de8-5144-4fdb-acd6-d931a1a66d2f</testCaseGuid>
+</TestCaseEntity>

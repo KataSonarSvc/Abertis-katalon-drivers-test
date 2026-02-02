@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Paso 2</name>
+   <tag></tag>
+   <elementGuidId>27cdd8ab-4a07-42d2-b1e7-cd7f1178556b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zcompraguiada-create-component---View1--general-nextButton-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='application-zcompraguiada-create-component---View1--general-nextButton-BDI-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>463ee8a6-2816-40bc-9384-0344101601a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zcompraguiada-create-component---View1--general-nextButton-BDI-content</value>
+      <webElementGuid>c317dc18-20dc-4fdc-bde1-bf32590c1837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Paso 2</value>
+      <webElementGuid>5cbd18b8-718d-40da-b4b6-c74ab964010a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zcompraguiada-create-component---View1--general-nextButton-BDI-content&quot;)</value>
+      <webElementGuid>6398bd49-da31-46aa-aecb-47652b57a1a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='application-zcompraguiada-create-component---View1--general-nextButton-BDI-content']</value>
+      <webElementGuid>804856cf-48e4-45cf-9266-cf597c26e04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='application-zcompraguiada-create-component---View1--general-nextButton-content']/bdi</value>
+      <webElementGuid>5b1ec6f6-3156-4089-bb0b-6c61bf3c6a68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMP_MX (COMP_MX)'])[1]/following::bdi[1]</value>
+      <webElementGuid>32ed9581-0ab0-43fa-9f16-68f39869e9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Para qué responsable (receptor)?'])[1]/following::bdi[1]</value>
+      <webElementGuid>ef2ec198-c639-42c7-8a89-b382c38634de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos de la compra'])[2]/preceding::bdi[1]</value>
+      <webElementGuid>a0260c9b-f15a-4280-9f64-271ed7924aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Material o servicio requerido'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>2688fcb3-ad74-426b-8948-8d649c230b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Paso 2']/parent::*</value>
+      <webElementGuid>5b811d39-f724-405b-be8e-b88495473ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/button/span/span/bdi</value>
+      <webElementGuid>7e42b3da-3cfe-4630-a1dd-ec119cf24c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'application-zcompraguiada-create-component---View1--general-nextButton-BDI-content' and (text() = 'Paso 2' or . = 'Paso 2')]</value>
+      <webElementGuid>3ad44dfb-f3c9-4c97-84ad-14b42d4fd44c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

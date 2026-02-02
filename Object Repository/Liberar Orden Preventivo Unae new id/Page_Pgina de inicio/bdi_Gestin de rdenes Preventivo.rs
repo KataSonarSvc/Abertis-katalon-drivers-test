@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Gestin de rdenes Preventivo</name>
+   <tag></tag>
+   <elementGuidId>d66686fc-3bcb-4b86-a5cb-0778c0745d23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='__label0-allMyAppsView--oItemsContainerlist-0-bdi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__label0-allMyAppsView--oItemsContainerlist-0-bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>61e1249a-d127-4308-8089-df42d5be94cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__label0-allMyAppsView--oItemsContainerlist-0-bdi</value>
+      <webElementGuid>48fb791a-0cf8-445c-b6b1-48504e167274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestión de Órdenes Preventivo</value>
+      <webElementGuid>ef56ee1c-ef15-4530-9dea-2283ff30fd3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__label0-allMyAppsView--oItemsContainerlist-0-bdi&quot;)</value>
+      <webElementGuid>ec565aa8-16c3-4fe2-a4d1-0dc672c9a3a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='__label0-allMyAppsView--oItemsContainerlist-0-bdi']</value>
+      <webElementGuid>b8b2e3f5-87a1-4ac5-8824-a6f7b8172024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__label0-allMyAppsView--oItemsContainerlist-0-text']/bdi</value>
+      <webElementGuid>0068be94-546b-472b-b949-dfe2926b9c84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestión de Órdenes Preventivo'])[2]/following::bdi[1]</value>
+      <webElementGuid>0239c673-3d59-4b22-b4d5-bc76e24cc4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Invoice Management - Exception App'])[1]/following::bdi[1]</value>
+      <webElementGuid>aeecbf24-f53b-4891-b288-03635dd5a4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar categoría'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>41f5a3ef-18ed-4b62-bc77-9aab506d60dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página de inicio'])[2]/preceding::bdi[2]</value>
+      <webElementGuid>0f447b0d-a7e5-4469-aa09-53af95473db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bdi</value>
+      <webElementGuid>53240d13-6c80-4db3-9791-45f9a8cc8be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = '__label0-allMyAppsView--oItemsContainerlist-0-bdi' and (text() = 'Gestión de Órdenes Preventivo' or . = 'Gestión de Órdenes Preventivo')]</value>
+      <webElementGuid>c3bf455b-11bd-41f6-a483-aaf83745ef4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

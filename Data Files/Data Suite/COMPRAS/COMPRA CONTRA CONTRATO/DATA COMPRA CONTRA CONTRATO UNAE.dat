@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DATA COMPRA CONTRA CONTRATO UNAE</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c317f7cb-73b8-4622-89f7-0e44414a295e</dataFileGUID>
+   <dataSourceUrl>Data Files/Excel/COMPRAS/COMPRA CONTRA CONTRATO/DATA COMPRA REFERIDA A CONTRATOS UNAE.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

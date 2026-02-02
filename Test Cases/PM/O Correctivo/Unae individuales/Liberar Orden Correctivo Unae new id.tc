@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Liberar Orden Correctivo Unae new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72a3d749-a98c-4f7f-b2e2-0f897b683e8d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ec2e1ee-b7c4-49d2-82a9-e4580adbd726</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ec2e1ee-b7c4-49d2-82a9-e4580adbd726</id>
+      <masked>false</masked>
+      <name>orden</name>
+   </variable>
+</TestCaseEntity>

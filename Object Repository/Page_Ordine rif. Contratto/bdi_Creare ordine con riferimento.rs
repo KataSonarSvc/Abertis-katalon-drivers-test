@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Creare ordine con riferimento</name>
+   <tag></tag>
+   <elementGuidId>daa42b59-6df2-4e6d-a73d-9e0b7fca571d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/article/div[2]/div/div/div[1]/div[2]/div/div/div/div/div[1]/button[1]/span/span[2]/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>09af37b1-2692-40b4-b226-98ee6577a5a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-BDI-content</value>
+      <webElementGuid>5dcc6640-4da3-45dd-a30b-31232cb3d197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Creare ordine con riferimento</value>
+      <webElementGuid>18e99b21-5a89-4f88-995f-65498ea5b8cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-BDI-content&quot;)</value>
+      <webElementGuid>3079791d-a044-43d0-a6d2-2135448bcbaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-BDI-content']</value>
+      <webElementGuid>bb487715-b3bf-4220-b0d1-83f0021bbdfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-content']/bdi</value>
+      <webElementGuid>1543a8ee-9747-44ad-a027-39515b766592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group'])[1]/following::bdi[1]</value>
+      <webElementGuid>0cd2f166-4b6b-41d4-a2bf-eaac70d9ce2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utente'])[1]/following::bdi[1]</value>
+      <webElementGuid>d6494657-a65d-496b-a7ce-8ba9396992db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Esportare'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>5674d1c9-c622-40f4-86da-68fad47f9d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impostazioni'])[1]/preceding::bdi[2]</value>
+      <webElementGuid>ab9ba1fa-2f4c-4a27-af06-aa137080e9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Creare ordine con riferimento']/parent::*</value>
+      <webElementGuid>aff39758-38c7-416a-88ea-393ffb39c134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/bdi</value>
+      <webElementGuid>400d9a25-123c-4e99-bbca-4054ddae7c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-BDI-content' and (text() = 'Creare ordine con riferimento' or . = 'Creare ordine con riferimento')]</value>
+      <webElementGuid>85702c19-2198-41a2-8397-c57fead94d6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

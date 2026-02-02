@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nueva recepcinPedidos por recepcionar</name>
+   <tag></tag>
+   <elementGuidId>737c7bab-d10d-4c5f-a62a-9f95bebf8d1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMGTHdrContent.OneByOne</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tile19']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93faddd1-1414-4c08-8355-efd198d87907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMGTHdrContent OneByOne</value>
+      <webElementGuid>2fffd745-e5da-488d-9749-6a9950d5b555</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nueva recepciónPedidos por recepcionar</value>
+      <webElementGuid>20083d30-4d9e-434b-acd6-0684c69255b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile19&quot;)/div[@class=&quot;sapMGTHdrContent OneByOne&quot;]</value>
+      <webElementGuid>760b76c4-bb3a-45df-b413-91a4e5a8c457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tile19']/div</value>
+      <webElementGuid>9a293cd3-ef5f-4337-8dd1-8373fb4f9abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[2]/following::div[9]</value>
+      <webElementGuid>a0051aa8-3698-4e95-b84c-69756f414a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[5]/following::div[11]</value>
+      <webElementGuid>636bfecb-5fd8-4776-b3e4-d10bdb55dca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>bb43ea0c-9ac6-4396-84f4-fc12ddf7fe3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Nueva recepciónPedidos por recepcionar' or . = 'Nueva recepciónPedidos por recepcionar')]</value>
+      <webElementGuid>e0de9502-6667-461a-bb73-6af43f46b8a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

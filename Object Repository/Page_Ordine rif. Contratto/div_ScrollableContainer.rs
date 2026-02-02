@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ScrollableContainer</name>
+   <tag></tag>
+   <elementGuidId>a9f6aa91-9678-42dc-9054-fbf087b9c2ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--page-contentWrapper&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

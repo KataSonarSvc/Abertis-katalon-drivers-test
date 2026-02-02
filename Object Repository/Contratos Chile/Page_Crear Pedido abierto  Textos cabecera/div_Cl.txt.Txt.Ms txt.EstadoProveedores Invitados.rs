@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cl.txt.Txt.Ms txt.EstadoProveedores Invitados</name>
+   <tag></tag>
+   <elementGuidId>148fbf8a-ba22-4998-a4e6-73876a2e04a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:::4:0-scrl-cnt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d42846f-fec9-426d-a551-ff3049f23acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:::4:0-scrl-cnt</value>
+      <webElementGuid>cdb6b5f8-5d11-4fd7-a2dd-bc1dbaf9715c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height  urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>d618a5f5-3175-4927-9047-74017cbd8958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cl.txt.Txt.Más txt.EstadoProveedores Invitados</value>
+      <webElementGuid>10850010-00bb-4f60-94d9-9b5ac6cec450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:::4:0-scrl-cnt&quot;)</value>
+      <webElementGuid>58106539-2175-475e-9302-de1fb61ecdeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Chile/Page_Crear Pedido abierto  Textos cabecera/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>d52d87ee-8eaf-4c6e-b133-f8d2dcba992a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:::4:0-scrl-cnt']</value>
+      <webElementGuid>56a4a642-ff1c-4f2b-b6b2-53ecd7a1f100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:::4:0-scrl']/div</value>
+      <webElementGuid>8a99bd32-497e-4208-a02e-b9d0598c386c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Textos de cabecera'])[1]/following::div[2]</value>
+      <webElementGuid>10982ba1-0dc5-42f9-9429-3b31edb09948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[2]/following::div[3]</value>
+      <webElementGuid>0d88b065-a348-478b-a9ba-f2a7a5c173dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td/div/div</value>
+      <webElementGuid>6522c2d4-b458-4b37-b829-4b984fc6caa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:::4:0-scrl-cnt' and (text() = 'Cl.txt.Txt.Más txt.EstadoProveedores Invitados' or . = 'Cl.txt.Txt.Más txt.EstadoProveedores Invitados')]</value>
+      <webElementGuid>17dd3556-d59f-4d20-aa0d-7eac2ae99455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

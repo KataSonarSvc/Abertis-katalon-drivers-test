@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pgina siguiente</name>
+   <tag></tag>
+   <elementGuidId>1b23e7da-74fa-44ef-869c-cb3a9c473160</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='wnd[0]/usr/mnu/menu[15]']/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af8805d2-93a8-4ade-92c6-1919a2000c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sap-ls-style</name>
+      <type>Main</type>
+      <value>;white-space:nowrap</value>
+      <webElementGuid>3826f02a-eff4-4084-8f05-498cf1a79f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Página siguiente</value>
+      <webElementGuid>18cfef4e-5ee6-40b1-8e49-10720f8e33e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/usr/mnu/menu[15]&quot;)/td[@class=&quot;urMnuTxt&quot;]/span[1]</value>
+      <webElementGuid>e7f65075-7cc5-4ea7-ac1f-9ffd337a86d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Chile/Page_Crear Pedido abierto  Textos cabecera/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>b7a10007-9196-41de-a480-128dfaa990f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='wnd[0]/usr/mnu/menu[15]']/td[3]/span</value>
+      <webElementGuid>2a0b121d-9055-4d1a-9b8e-870aaf9de88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Página anterior'])[1]/following::span[4]</value>
+      <webElementGuid>ad576c77-ff5b-4809-80ed-07294fcbcf27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Última página'])[1]/preceding::span[4]</value>
+      <webElementGuid>4cfe498f-8f50-4b0a-be4e-6d30d7d1046e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Página siguiente']/parent::*</value>
+      <webElementGuid>20e64593-749c-45b1-ac23-783a6947c04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[3]/span</value>
+      <webElementGuid>651ce8eb-55cb-4e28-862e-baa693aa14d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Página siguiente' or . = 'Página siguiente')]</value>
+      <webElementGuid>0a101b28-110b-4643-8be8-750ebcce14a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

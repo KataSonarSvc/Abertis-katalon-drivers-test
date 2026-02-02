@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Añadir actividad OP UNAE new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e8774c2-785a-4088-98ee-ae438f9806b6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1654789-c2f6-42d1-a8c0-ffb3ff2ad19e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b1654789-c2f6-42d1-a8c0-ffb3ff2ad19e</id>
+      <masked>false</masked>
+      <name>cltexes</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Centro Lavoro Esec_application-ZPM_SMAR_3ce99c</name>
+   <tag></tag>
+   <elementGuidId>6cacb19a-99eb-4bfc-b9a8-58f737466766</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-__clone96-selectMulti-CbBg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, 'application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-') and contains(@id, '-selectMulti-CbBg')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a762f93e-37f2-4f2a-95e5-0f7df13a0562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-__clone96-selectMulti-CbBg</value>
+      <webElementGuid>284c9a99-ad1c-4daa-8002-77f1edcf055e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>23e504e6-5a39-4705-8d3e-0611925a3842</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-__clone96-selectMulti-CbBg&quot;)</value>
+      <webElementGuid>ee745de2-f3bf-4dc1-97a6-d8e397de1b3a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-__clone96-selectMulti-CbBg']</value>
+      <webElementGuid>3b81cb75-015f-4cfa-bec9-b993deb8f5eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-__clone96-selectMulti']/div</value>
+      <webElementGuid>d0752b79-4482-447c-b80b-a4efab1b9eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centro Lavoro Esec.'])[2]/following::div[2]</value>
+      <webElementGuid>6eaa4383-f249-472a-b5f8-43b908e83f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testo Ubicazione'])[1]/following::div[3]</value>
+      <webElementGuid>74d41466-cb78-4049-86e5-6bb19be768ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIL. DMNC KKMP'])[1]/preceding::div[1]</value>
+      <webElementGuid>1da69aac-29b5-4648-afad-a2943c360d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[1]</value>
+      <webElementGuid>703d5251-d7ae-4134-943a-e9bb362dd201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>1e73cc29-7673-4b78-8039-b4b1498649d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'application-ZPM_SMART-GESTICKET-component---main--idCLItemPress-__clone96-selectMulti-CbBg']</value>
+      <webElementGuid>af0d66f2-b84b-4063-960e-b9e76a04b126</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

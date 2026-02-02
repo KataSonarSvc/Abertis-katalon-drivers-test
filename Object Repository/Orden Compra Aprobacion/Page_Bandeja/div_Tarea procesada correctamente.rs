@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tarea procesada correctamente</name>
+   <tag></tag>
+   <elementGuidId>0dbe645e-bdd5-4f8a-956c-6a8535c2034c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sap-ui-static']/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMMessageToast.sapUiSelectable.sapContrast.sapContrastPlus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c8384337-8b89-45a2-81a8-d730983b3d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMMessageToast sapUiSelectable sapContrast sapContrastPlus</value>
+      <webElementGuid>ef4fd730-e2a8-4778-96d6-fe5ff97e87cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>f5d9469b-b965-457b-8cf2-bd991721e7de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sap-ui-popup</name>
+      <type>Main</type>
+      <value>id-1754043264969-392</value>
+      <webElementGuid>bd184da6-f54a-4e21-8b8a-5c7582461fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tarea procesada correctamente</value>
+      <webElementGuid>d852050d-7071-46c5-bd3a-f0796640ac59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sap-ui-static&quot;)/div[@class=&quot;sapMMessageToast sapUiSelectable sapContrast sapContrastPlus&quot;]</value>
+      <webElementGuid>22790f6f-b706-4b5b-b71d-9c72a32f029b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sap-ui-static']/div[4]</value>
+      <webElementGuid>1c5fbc17-0bcf-46a9-86dc-d287a67ea18b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[6]</value>
+      <webElementGuid>58550d5e-b8b0-4801-bb1f-fe0ec07d1f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bandeja'])[2]/preceding::div[6]</value>
+      <webElementGuid>95cf497a-5535-4b8c-a99f-6b647ab7f3ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tarea procesada correctamente']/parent::*</value>
+      <webElementGuid>489eb507-dfc9-4c6c-9505-a56110f4cbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]</value>
+      <webElementGuid>71b5d4dd-31a0-470a-b850-379a34e608c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tarea procesada correctamente' or . = 'Tarea procesada correctamente')]</value>
+      <webElementGuid>4b551bb5-2aa1-4df9-81f2-a6d8d6ca7fea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

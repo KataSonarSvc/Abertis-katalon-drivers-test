@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Informazioni aggiuntive</name>
+   <tag></tag>
+   <elementGuidId>5d194fbc-15d9-4619-8c57-51addd5b7c27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-BDI-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>b0d3cf4e-c98d-4fb5-91b0-ee34560d3135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-BDI-content</value>
+      <webElementGuid>d7612477-171a-444e-9be0-d0d11003e48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Informazioni aggiuntive</value>
+      <webElementGuid>7a31752c-2ef9-4459-999a-5c153924671c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-BDI-content&quot;)</value>
+      <webElementGuid>5a36a4c0-e389-43be-8c3e-13724a53a3c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-BDI-content']</value>
+      <webElementGuid>59b1ccc2-e573-452e-9ebf-cbd2d8b01aef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-content']/bdi</value>
+      <webElementGuid>1bb0cf7b-dddd-4845-8d67-cb0cac20f3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posizioni'])[3]/following::bdi[1]</value>
+      <webElementGuid>fd320424-a2e1-485c-8da9-fc6092f7a358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Più'])[1]/following::bdi[1]</value>
+      <webElementGuid>1fdd7943-879f-4c8f-9386-42e60e8c9ac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copia massiva'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>dc5612a6-0f93-455e-8ec9-fcabd5f12e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copiare'])[1]/preceding::bdi[2]</value>
+      <webElementGuid>5bf4f419-fcf8-49f3-bf24-cc623f2cec2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/button/span/span[2]/bdi</value>
+      <webElementGuid>54615a2f-d4da-4cf5-a250-211cf0251f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-BDI-content' and (text() = 'Informazioni aggiuntive' or . = 'Informazioni aggiuntive')]</value>
+      <webElementGuid>952a2037-9039-4575-8a3c-a3e8f6e47b54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

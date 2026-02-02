@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gestin de rdenes Correctivo_1</name>
+   <tag></tag>
+   <elementGuidId>3562a2ad-a7a5-4448-8846-6e418296427f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMGTHdrContent.OneByOne</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tile6']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b7a922b-05a2-4d95-8d18-2097f6cb7092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMGTHdrContent OneByOne</value>
+      <webElementGuid>6bd7f969-6394-414b-9351-4f76d791c56d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestión de Órdenes Correctivo</value>
+      <webElementGuid>5bb21928-e770-460d-9032-5b2d646bddbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile6&quot;)/div[@class=&quot;sapMGTHdrContent OneByOne&quot;]</value>
+      <webElementGuid>5c161f1d-da32-4f15-9007-0aec50e730ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tile6']/div</value>
+      <webElementGuid>4caacbb3-c541-43b8-a2f3-ae8bea805388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resultados (1)'])[1]/following::div[19]</value>
+      <webElementGuid>b7777e8e-f1b6-4e4c-8dcc-ba364d27094e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compartir'])[1]/following::div[40]</value>
+      <webElementGuid>04278f5d-2ae8-45b6-8b04-08d30c51722a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>f93e6d39-5a1a-47db-9df9-f478645c39e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gestión de Órdenes Correctivo' or . = 'Gestión de Órdenes Correctivo')]</value>
+      <webElementGuid>fcc09de5-7c75-47ae-804b-24e11a3b7247</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

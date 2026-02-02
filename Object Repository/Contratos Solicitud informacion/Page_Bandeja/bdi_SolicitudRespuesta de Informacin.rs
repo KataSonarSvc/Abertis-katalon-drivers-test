@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_SolicitudRespuesta de Informacin</name>
+   <tag></tag>
+   <elementGuidId>b1c3f1ef-62fe-4dca-96ab-3921bac1e320</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[.//bdi[text()='Solicitud/Respuesta de Información']]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__button108-BDI-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>b2075220-b3da-458c-a310-f887770fd0dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__button108-BDI-content</value>
+      <webElementGuid>86dad009-0509-4b8c-8693-e0fd5b1dad55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>d21845e9-d51d-4965-850f-5698f5ffb407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Solicitud/Respuesta de Información</value>
+      <webElementGuid>efcc6003-e490-4709-bf13-44c1e146cb58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__button108-BDI-content&quot;)</value>
+      <webElementGuid>c4951293-9166-4e49-8697-8c2c9febd8aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='__button108-BDI-content']</value>
+      <webElementGuid>c9eb241a-27df-4747-9d98-cc3609622aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__button108-content']/bdi</value>
+      <webElementGuid>7d2176c7-0f34-4c2b-bdee-10cdac090855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rechazar'])[1]/following::bdi[1]</value>
+      <webElementGuid>651aa757-1021-4a6f-aad0-0ec84bd7ba26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprobar'])[1]/following::bdi[2]</value>
+      <webElementGuid>ed2d0841-7d65-4be5-ace3-44d9a871b0a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Solicitud/Respuesta de Información']/parent::*</value>
+      <webElementGuid>400feffa-7150-4015-afdb-e59985304129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span/span/bdi</value>
+      <webElementGuid>5a3e17fe-2485-49ce-a73d-5187c84a5648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = '__button108-BDI-content' and (text() = 'Solicitud/Respuesta de Información' or . = 'Solicitud/Respuesta de Información')]</value>
+      <webElementGuid>126534ce-914e-40ee-af24-1c757c6db77f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

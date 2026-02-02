@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crear ubicacin tcnica</name>
+   <tag></tag>
+   <elementGuidId>c742e81f-fdd6-4cea-8f6c-05143db83483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile131-title-inner']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile131-title-inner > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d21a1efc-251d-4e07-a18b-deed0c488de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear ubicación técnica</value>
+      <webElementGuid>9706d6e9-637d-4d39-889b-322a2aaadd71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile131-title-inner&quot;)/span[1]</value>
+      <webElementGuid>2b18b17b-6412-439e-b8a8-9a86466f6c82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile131-title-inner']/span</value>
+      <webElementGuid>4d9e2972-7623-4e88-bdae-3a08bb560d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[2]/following::span[6]</value>
+      <webElementGuid>ec7ff1c0-d280-405c-9d3e-ce8ca408ead3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[20]/following::span[9]</value>
+      <webElementGuid>f92d34b5-23f1-4753-a45b-53b00205e1d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IL01'])[1]/preceding::span[1]</value>
+      <webElementGuid>fa5941ea-b34b-4aab-983d-0a8bf7f93943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ubicación técnica']/parent::*</value>
+      <webElementGuid>d7fdd2d0-2072-41d2-a0d4-f14510b47182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/span/span/span</value>
+      <webElementGuid>085c6e1d-e34c-4c9f-9eba-967025435cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Crear ubicación técnica' or . = 'Crear ubicación técnica')]</value>
+      <webElementGuid>eb9a9f18-aadf-440c-884d-21012cf01d77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

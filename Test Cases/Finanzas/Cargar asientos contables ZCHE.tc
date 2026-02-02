@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cargar asientos contables ZCHE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24f9b999-2dcd-4cc1-bb24-1eaba21b4da0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc2a8dc2-c353-4785-9ab9-4b0f37a04d86</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bc2a8dc2-c353-4785-9ab9-4b0f37a04d86</id>
+      <masked>false</masked>
+      <name>xche</name>
+   </variable>
+</TestCaseEntity>

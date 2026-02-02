@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Entrate Merci  Verifiche</name>
+   <tag></tag>
+   <elementGuidId>aedeeba6-cda3-47a9-8ac7-414b6aa096bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item0-anchorNavigationBar-3 > div.sapUshellAnchorItemInner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='__item0-anchorNavigationBar-3']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af6c44a2-2980-44b2-84b4-4bccafc5a72f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUshellAnchorItemInner</value>
+      <webElementGuid>319fcc38-ac24-48a8-a793-11d11768895d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entrate Merci &amp; Verifiche</value>
+      <webElementGuid>94daf958-d056-42eb-a7c8-d477915b204c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item0-anchorNavigationBar-3&quot;)/div[@class=&quot;sapUshellAnchorItemInner&quot;]</value>
+      <webElementGuid>61a4f51f-7aaf-408c-824a-92caf45ca712</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='__item0-anchorNavigationBar-3']/div</value>
+      <webElementGuid>f7511eab-865c-4f51-8636-e95fac57c117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acquisti'])[1]/following::div[1]</value>
+      <webElementGuid>5d81b386-3afb-46b7-86a6-298c8cf053ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approvazioni'])[1]/following::div[2]</value>
+      <webElementGuid>bf2ed3e6-5ccb-4629-9789-d403186a4f44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scorri alla fine'])[1]/preceding::div[1]</value>
+      <webElementGuid>8396aa9a-190e-4cd3-bd9b-2a016cd8b567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Più gruppi'])[1]/preceding::div[2]</value>
+      <webElementGuid>92f068e4-cace-4056-962d-f8300580f988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entrate Merci &amp; Verifiche']/parent::*</value>
+      <webElementGuid>8bf7628e-e0e9-4786-b667-7fd64d0b63e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div</value>
+      <webElementGuid>2494d3e2-08b2-40d1-9763-81150bdcd7e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Entrate Merci &amp; Verifiche' or . = 'Entrate Merci &amp; Verifiche')]</value>
+      <webElementGuid>2fcfb18c-043f-4cca-ba72-7d637d449eb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

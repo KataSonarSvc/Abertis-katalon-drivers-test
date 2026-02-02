@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Para seleccionar una lnea, pulse la ba_b15f70</name>
+   <tag></tag>
+   <elementGuidId>92261864-ec7c-491d-9478-2b795c77f20b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='M0:46:1[1,3]_c-r']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb9b4236-6515-423f-9204-a2f08bf18aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:1[1,3]_c-r</value>
+      <webElementGuid>72402431-d279-4bba-82ca-1708a348820a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsField lsField--empty lsField--table lsField--monospace lsField--hasellipsis lsField--showhelpalways lsField--appendhelp lsField--f4 lsField--hpif lsField--interactiontarget lsField--beginofline lsField--haslabelfor</value>
+      <webElementGuid>5b128a0a-1110-4495-a765-a6d448f3e570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1[1,3]_c-r&quot;)</value>
+      <webElementGuid>a44140ea-2008-4a5e-ae9e-1eabce51d297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Chile/Page_Crear Pedido abierto  Resumen de posiciones/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>40f36402-75f5-495e-9bc5-57551db58530</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='M0:46:1[1,3]_c-r']</value>
+      <webElementGuid>bdafcffe-cee3-4a42-a29a-f027a8a22c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='M0:46:1[1,3]']/div/span</value>
+      <webElementGuid>ec7c63cb-2198-4b47-93fc-5cab8a512dfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para seleccionar una línea, pulse la barra espaciadora.'])[8]/following::span[6]</value>
+      <webElementGuid>8953e244-6e18-479c-8f4c-8e720ba34b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para seleccionar una línea, pulse la barra espaciadora.'])[7]/following::span[9]</value>
+      <webElementGuid>31b11876-921d-4ff0-b112-cef5986e2ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacía'])[1]/preceding::span[25]</value>
+      <webElementGuid>03ebfeb3-2185-4099-8004-d88ddcae26bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacía'])[2]/preceding::span[57]</value>
+      <webElementGuid>642d7572-8704-498f-86cb-3961b752a442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div[2]/table/tbody/tr/td[2]/div/span</value>
+      <webElementGuid>dbcd52c1-e7fa-4d84-aa8e-714352101830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'M0:46:1[1,3]_c-r']</value>
+      <webElementGuid>0b8c9c90-60ad-4f86-9c3e-61f1e629c968</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

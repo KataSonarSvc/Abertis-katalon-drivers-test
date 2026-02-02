@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PM Listado ZPM_PREV_MAINT.NEW ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>befd9089-30c8-4a69-a194-1d43f5ffde1b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02ffa92c-59c5-4d40-b464-cb55607b15cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5faa34e-620f-4e4c-a4e5-3a30a5fc216a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8bfbb16-52d8-4af7-8c5d-f3a0df457222</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02ffa92c-59c5-4d40-b464-cb55607b15cc</id>
+      <masked>false</masked>
+      <name>fecha_de</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5faa34e-620f-4e4c-a4e5-3a30a5fc216a</id>
+      <masked>false</masked>
+      <name>fecha_a</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b8bfbb16-52d8-4af7-8c5d-f3a0df457222</id>
+      <masked>false</masked>
+      <name>centro_emplazamiento</name>
+   </variable>
+</TestCaseEntity>

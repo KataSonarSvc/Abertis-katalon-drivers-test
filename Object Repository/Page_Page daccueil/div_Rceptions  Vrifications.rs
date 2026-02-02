@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rceptions  Vrifications</name>
+   <tag></tag>
+   <elementGuidId>84955cfd-99c1-46eb-ad92-1b6f483313b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item0-anchorNavigationBar-3 > div.sapUshellAnchorItemInner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='__item0-anchorNavigationBar-3']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca906de7-2732-4cd4-adaa-3fee92ba27cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUshellAnchorItemInner</value>
+      <webElementGuid>24540fec-9c2b-4d92-93a8-19caa58b1c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Réceptions &amp; Vérifications</value>
+      <webElementGuid>a7582a33-9f27-4c2f-b7da-44513260bb5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item0-anchorNavigationBar-3&quot;)/div[@class=&quot;sapUshellAnchorItemInner&quot;]</value>
+      <webElementGuid>88b65671-a7d4-4274-a7fe-98b1d213d141</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='__item0-anchorNavigationBar-3']/div</value>
+      <webElementGuid>0d5da8d7-a2b4-494d-b519-3b3c0e8d52be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Achats'])[3]/following::div[1]</value>
+      <webElementGuid>fa787e65-2704-4bbf-b661-e51722f46c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approbations'])[1]/following::div[2]</value>
+      <webElementGuid>5292efc9-3f8b-4e21-885f-fb012c3611a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Faire défiler jusqu', &quot;'&quot;, 'à la fin')])[1]/preceding::div[1]</value>
+      <webElementGuid>650b3d4d-0393-4762-84aa-ce0e1b2dc208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plus de groupes'])[1]/preceding::div[2]</value>
+      <webElementGuid>a7de4e53-6ae5-428d-8128-e927a36c40e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/div</value>
+      <webElementGuid>afec6add-bdce-4ddc-8f68-d13524dd0bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Réceptions &amp; Vérifications' or . = 'Réceptions &amp; Vérifications')]</value>
+      <webElementGuid>ffbe5b24-6260-44dd-867d-d2aefc476e26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

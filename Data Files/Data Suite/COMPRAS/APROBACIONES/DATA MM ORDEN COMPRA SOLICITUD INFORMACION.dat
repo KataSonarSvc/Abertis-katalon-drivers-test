@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DATA MM ORDEN COMPRA SOLICITUD INFORMACION</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>46deb122-1162-4afc-b08b-d2b944365999</dataFileGUID>
+   <dataSourceUrl>Data Files/Excel/COMPRAS/APROBACIONES/DATA MM ORDEN DE COMPRA SOLICITUD INFORMACIÓN.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

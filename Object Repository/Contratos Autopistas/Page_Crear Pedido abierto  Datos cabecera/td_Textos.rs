@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Textos</name>
+   <tag></tag>
+   <elementGuidId>6beba93c-3577-4f59-89f6-2b8e5bc28d3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Textos' or . = 'Textos')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bfcc0d64-f99c-428d-9de9-6ea06a70c809</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urMnuTxt</value>
+      <webElementGuid>e8dbc0d7-67a4-4b21-a700-13a4c94a515b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cabecera</value>
+      <webElementGuid>96a61625-7bff-48b3-b300-a7d119d5d5e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/mbar/menu[2]&quot;)/td[@class=&quot;urMnuTxt&quot;]</value>
+      <webElementGuid>e2fac425-8b68-4938-bd9e-fa730ca67af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Autopistas/Page_Crear Pedido abierto  Datos cabecera/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>a158d0e0-8d09-4b43-acb1-525ab0012cce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='wnd[0]/mbar/menu[2]']/td[3]</value>
+      <webElementGuid>069bb358-8ba5-4580-bdc9-dcbcaf51efc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tratar'])[1]/following::td[5]</value>
+      <webElementGuid>32a108e6-c432-4d67-ac4e-651f21c4ef1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pedido abierto'])[1]/following::td[10]</value>
+      <webElementGuid>65892213-486f-4b83-b28e-f95d1d7adec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posición'])[1]/preceding::td[5]</value>
+      <webElementGuid>55a1e43a-e3bc-4e85-bda0-c3b65cf2c9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]</value>
+      <webElementGuid>a633c86b-e67f-4b58-9cc4-7d83fb52e553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Cabecera' or . = 'Cabecera')]</value>
+      <webElementGuid>fb8795ac-0642-49b9-897a-a0702792adde</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

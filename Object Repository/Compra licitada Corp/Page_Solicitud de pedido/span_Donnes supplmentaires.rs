@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Donnes supplmentaires</name>
+   <tag></tag>
+   <elementGuidId>d35707ab-e58c-4b13-bbc1-c5f2ab895578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a19b056e-09e6-4afb-86d1-51f856c8147a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition-inner</value>
+      <webElementGuid>61c0b788-61a1-4d4e-ba6a-0b3409d866ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnIconFirst sapMBtnDefault</value>
+      <webElementGuid>d99024a0-2d4a-48d8-b6ce-31806eb52b53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Données supplémentaires</value>
+      <webElementGuid>c810cc75-a022-4bca-a5aa-8124a64d2498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition-inner&quot;)</value>
+      <webElementGuid>d5c77d81-4877-48c5-a49e-51440a1b5d87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition-inner']</value>
+      <webElementGuid>a5aa340a-9abd-4bd5-84ec-106167a679a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition']/span</value>
+      <webElementGuid>23f788aa-2d87-477f-8a9c-dbb266bb16e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Postes'])[4]/following::span[3]</value>
+      <webElementGuid>2a8aeb00-b399-49f3-a1a6-bdf468b095aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afficher plus'])[1]/following::span[4]</value>
+      <webElementGuid>b79ca718-4b02-4362-8fd7-c8ec2b9acfd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copie en masse'])[1]/preceding::span[4]</value>
+      <webElementGuid>e1077cf2-361b-4d52-8bc3-d4908342e881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>510bf221-20b2-42a6-9d2c-d2b129d0fdc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'application-zpurchaserequisition-createMP-component---detail--idMoreDataPosition-inner' and (text() = 'Données supplémentaires' or . = 'Données supplémentaires')]</value>
+      <webElementGuid>d768cd54-f351-443b-89ee-ea3ca9029fa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

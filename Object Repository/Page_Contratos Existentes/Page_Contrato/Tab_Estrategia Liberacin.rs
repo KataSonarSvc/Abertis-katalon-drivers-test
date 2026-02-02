@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab_Estrategia Liberacin</name>
+   <tag></tag>
+   <elementGuidId>0cee33da-6f2d-41b4-9a41-bc691a9995ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f94e88c-b1af-403b-bca4-7b620837ef74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor-inner</value>
+      <webElementGuid>816eba0e-98aa-4717-b10a-de2fc9f7a74d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnDefault</value>
+      <webElementGuid>e3864f84-e3e3-4125-852c-2a51048e33a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estrategia Liberación</value>
+      <webElementGuid>0628cdc1-5a7c-4a02-8554-344a4d65cf4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor-inner&quot;)</value>
+      <webElementGuid>127f52a5-5c13-4561-9848-5b8bf44a26bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor-inner']</value>
+      <webElementGuid>4a8f902d-f0d9-4366-ab30-53973fc22e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor']/span</value>
+      <webElementGuid>3c42d0b4-f1bc-449c-9e03-b2738ed617da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posiciones'])[3]/following::span[1]</value>
+      <webElementGuid>d7bbf3ae-d503-4f35-9a02-d9937274d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos Generales'])[3]/following::span[3]</value>
+      <webElementGuid>fcd006b4-6811-4483-897e-f904b03ed019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Histórico de documentos'])[2]/preceding::span[2]</value>
+      <webElementGuid>a4123012-86cb-4b36-8a84-e87156eaaac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[3]/span</value>
+      <webElementGuid>194e4281-d2e9-4590-ae38-710b08dc3d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--idSectionRelease-anchor-inner' and (text() = 'Estrategia Liberación' or . = 'Estrategia Liberación')]</value>
+      <webElementGuid>9487f751-aa7a-41a1-9ab4-c5af4df4c2a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

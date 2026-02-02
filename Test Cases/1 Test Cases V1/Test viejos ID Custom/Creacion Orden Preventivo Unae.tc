@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creacion Orden Preventivo Unae</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>62d68095-3d0b-4c58-ae67-68474c59cf1b</testCaseGuid>
+</TestCaseEntity>

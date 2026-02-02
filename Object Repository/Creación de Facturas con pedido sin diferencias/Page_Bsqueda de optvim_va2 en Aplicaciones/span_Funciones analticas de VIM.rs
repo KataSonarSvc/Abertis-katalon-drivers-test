@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Funciones analticas de VIM</name>
+   <tag></tag>
+   <elementGuidId>9edbc06d-c70c-4b86-88b4-7518c3d8a4d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile145-title-inner > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile145-title-inner']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36d541ae-d43f-48fb-8c90-380fef13aabf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Funciones analíticas de VIM</value>
+      <webElementGuid>edbc9990-710f-4c29-88bd-a0a2e4bcc9e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile145-title-inner&quot;)/span[1]</value>
+      <webElementGuid>5a80e15c-ea9b-4913-a85f-cf8ae79da1cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile145-title-inner']/span</value>
+      <webElementGuid>81ceed94-240a-4cd4-8d99-bf1e3c5e74fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPT/VIM_VA2'])[12]/following::span[3]</value>
+      <webElementGuid>8c127cf9-de46-49ba-8ac1-06344562a509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPT/VIM_VA2'])[13]/preceding::span[1]</value>
+      <webElementGuid>890a7bf9-b345-4921-8aeb-1ff3ea35d1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Funciones analíticas de VIM']/parent::*</value>
+      <webElementGuid>1c35066e-3321-4762-9be3-39c13952b85a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div/a/div/div/span/span/span</value>
+      <webElementGuid>f61c70b4-1f68-408a-be06-47e25c3fe9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Funciones analíticas de VIM' or . = 'Funciones analíticas de VIM')]</value>
+      <webElementGuid>d775eef0-4bc1-4530-90ed-d9cb4d7d3325</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

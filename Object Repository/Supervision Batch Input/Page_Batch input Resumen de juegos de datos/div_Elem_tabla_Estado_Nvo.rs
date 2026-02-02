@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Elem_tabla_Estado_Nvo</name>
+   <tag></tag>
+   <elementGuidId>cc9c198d-59a6-4646-ba1b-854bcc2bc1dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' ' or . = ' ') and @ref_element = 'Object Repository/Supervision Batch Input/Page_Batch input Resumen de juegos de datos/iframe_Ms_application-zgui_sm35-processBatc_86a647']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.urST5SCMetricInner.lsSapTable--expandHeight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='M0:46:2:3B256:1[5,0]']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b63a57e-8825-437a-b105-846926b58949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>6d624c64-12f9-4c07-9c1d-701328510be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ti</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>4c1a01a2-b526-4d3a-99e0-4bf15f35fd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>532ac66d-55b0-4716-89cd-ace72e35c5fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urST5SCMetricInner lsSapTable--expandHeight</value>
+      <webElementGuid>2b1c598c-2d68-41c7-99d1-a19fe506254f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>19416bcb-eaba-4403-8e71-187b3cbe99dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:2:3B256:1[1,0]&quot;)/div[@class=&quot;urBorderBox lsSapTable--expandWidth lsSTCellHeight100 urSTSCOuterDiv urSTRowUnSelIcon urST4LbUnselIcon&quot;]/div[@class=&quot;urST5SCMetricInner lsSapTable--expandHeight&quot;]</value>
+      <webElementGuid>4b387fa9-6e3a-48f5-8179-8ab451365147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Supervision Batch Input/Page_Batch input Resumen de juegos de datos/iframe_Ms_application-zgui_sm35-processBatc_86a647</value>
+      <webElementGuid>e288a2ff-586b-4a25-9e59-35e86d409dce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='M0:46:2:3B256:1[1,0]']/div/div</value>
+      <webElementGuid>562db9a9-d690-4a3c-ba79-4815a3eb6371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID cola'])[1]/following::div[7]</value>
+      <webElementGuid>f09ffbc2-0e24-4f30-b29c-673668991433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ind.borrado'])[1]/following::div[11]</value>
+      <webElementGuid>387f7f42-bbba-4c3d-a1be-304312e8a638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Para seleccionar una línea, pulse la barra espaciadora.'])[1]/preceding::div[1]</value>
+      <webElementGuid>bd03441b-ed40-4282-98c5-9e4fb04dfbaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI_PWGLI04'])[1]/preceding::div[1]</value>
+      <webElementGuid>530daa35-1fbd-4a72-9e49-8fa9dea54332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr/td/div/div</value>
+      <webElementGuid>0cbca20c-366d-43ee-b111-76964734db12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>38629c39-1d83-47a9-b88b-350f356b986c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

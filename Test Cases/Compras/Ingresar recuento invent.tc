@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ingresar recuento invent</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06de0ee8-bf3a-4a63-bdab-fbdc47d2e218</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b8475b1-c78f-4a58-be03-8005ae57e52c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2268118-7073-4a11-bf97-775228ce842a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b8475b1-c78f-4a58-be03-8005ae57e52c</id>
+      <masked>false</masked>
+      <name>doc_inventario</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2268118-7073-4a11-bf97-775228ce842a</id>
+      <masked>false</masked>
+      <name>cantidad</name>
+   </variable>
+</TestCaseEntity>

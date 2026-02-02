@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Seguir com a compra</name>
+   <tag></tag>
+   <elementGuidId>d56bfd03-6fee-461a-a406-c9c1e02c4e15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zcompraguiada-create-component---View1--otros-nextButton-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/section/div/section/div[3]/button/span/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>fffe146e-a507-480a-97d1-088b4b99c73d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zcompraguiada-create-component---View1--otros-nextButton-BDI-content</value>
+      <webElementGuid>e5ca38dc-535c-40e0-8c7d-844d69503f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seguir com a compra</value>
+      <webElementGuid>ad52cdc0-8b55-498a-8df5-bb8c5af3405f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zcompraguiada-create-component---View1--otros-nextButton-BDI-content&quot;)</value>
+      <webElementGuid>3240471f-e0e9-4e7f-acfd-4cb650e5a955</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='application-zcompraguiada-create-component---View1--otros-nextButton-BDI-content']</value>
+      <webElementGuid>a786882e-5195-4963-b715-5a0f7d2183be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='application-zcompraguiada-create-component---View1--otros-nextButton-content']/bdi</value>
+      <webElementGuid>79cc42b2-be2c-4e83-801f-a5385bf58218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fornecedores Indicados'])[1]/following::bdi[1]</value>
+      <webElementGuid>fa706a04-3324-45f6-ae71-27ebd634dce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Breve descrição da compra'])[1]/following::bdi[2]</value>
+      <webElementGuid>6406250d-360f-4a20-8284-202056df5c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>f787d1dc-3ee7-4aed-b0ff-ac9918f367e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seguir com a compra']/parent::*</value>
+      <webElementGuid>7da6eced-68f8-476e-a54f-dc189f47cca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span/span/bdi</value>
+      <webElementGuid>656a1523-4bc5-47cf-8102-323b4181f352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'application-zcompraguiada-create-component---View1--otros-nextButton-BDI-content' and (text() = 'Seguir com a compra' or . = 'Seguir com a compra')]</value>
+      <webElementGuid>50b91c94-7448-490d-bb38-7fe814ba5aa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

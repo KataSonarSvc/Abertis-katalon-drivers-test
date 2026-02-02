@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anno attuale</name>
+   <tag></tag>
+   <elementGuidId>5bac52d7-794b-41eb-884a-3ff52403f083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content > div.sapMSLIDiv > div.sapMSLITitleOnly</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>00a58eab-4486-485e-89c9-4116470c58e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLITitleOnly</value>
+      <webElementGuid>1fe650fa-7917-40ed-8853-34a8c6a4ad5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anno attuale</value>
+      <webElementGuid>2cb407a6-563b-4a1a-8353-37ddf5948538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content&quot;)/div[@class=&quot;sapMSLIDiv&quot;]/div[@class=&quot;sapMSLITitleOnly&quot;]</value>
+      <webElementGuid>91ae2729-c726-4221-b897-a85bbff24e86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content']/div/div</value>
+      <webElementGuid>f00b992e-e573-4a28-8fd8-3ebf3a81cc5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anni'])[1]/following::div[3]</value>
+      <webElementGuid>6cc30fbb-a39c-432c-b0f9-beb9c32935df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quarto trimestre'])[1]/following::div[4]</value>
+      <webElementGuid>58521642-6c72-46b6-a26d-9804e95be6a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ultimo anno'])[1]/preceding::div[1]</value>
+      <webElementGuid>96f9a927-c022-42c9-8c93-9f2b3af251d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[33]/div/div/div</value>
+      <webElementGuid>1e31b067-5b0a-424f-bd5a-a0104523fd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anno attuale' or . = 'Anno attuale')]</value>
+      <webElementGuid>d6a4cb34-4583-40f0-b6a8-36e976cd99a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

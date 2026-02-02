@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gestin de rdenes Correctivo</name>
+   <tag></tag>
+   <elementGuidId>6669e220-998f-4fba-9a91-856242748c91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item2-allMyAppsView--sapUshellAllMyAppsDataSourcesList-19-content > div.sapMSLIDiv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__item2-allMyAppsView--sapUshellAllMyAppsDataSourcesList-19-content']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>34ab3ac5-461f-4618-801b-b2b8f385bd00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLIDiv</value>
+      <webElementGuid>ddc8506c-af0a-4f20-a8cc-7f37b76368ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestión de Órdenes Correctivo</value>
+      <webElementGuid>069e2b11-891d-489a-94ed-164b8bdd0179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item2-allMyAppsView--sapUshellAllMyAppsDataSourcesList-19-content&quot;)/div[@class=&quot;sapMSLIDiv&quot;]</value>
+      <webElementGuid>c51fde19-e06e-43e3-8744-bf7948585b2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item2-allMyAppsView--sapUshellAllMyAppsDataSourcesList-19-content']/div</value>
+      <webElementGuid>d7e0582f-e3f6-460f-9a47-d59f1ca9c050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestión de Órdenes Auditoría'])[1]/following::div[2]</value>
+      <webElementGuid>1f1b79f0-2ca0-4111-bf3d-9fad6501e04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Falta descripcion'])[1]/following::div[5]</value>
+      <webElementGuid>cf2393df-f60c-464e-941c-a6bde3f85625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestión de Órdenes Preventivo'])[1]/preceding::div[2]</value>
+      <webElementGuid>79cc375a-a8a6-4b83-8494-148048be909c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[20]/div/div</value>
+      <webElementGuid>0fe6cd2d-2978-4ab0-b0eb-1bb84578f93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gestión de Órdenes Correctivo' or . = 'Gestión de Órdenes Correctivo')]</value>
+      <webElementGuid>7beda70f-1bc8-446d-9645-ac9670068916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

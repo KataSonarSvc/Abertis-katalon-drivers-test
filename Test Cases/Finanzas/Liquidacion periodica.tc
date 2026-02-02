@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Liquidacion periodica</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da1bcc3a-d68a-474d-abe3-3efba605dad2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Resumen de textos</name>
+   <tag></tag>
+   <elementGuidId>b7a67d38-b47b-4b73-b74f-9a8f1cae8485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='wnd[0]/mbar/menu[2]/menu[2]/menu[0]']/td[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>abc2dc1b-0d34-49ac-aa50-72d005f166de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sap-ls-style</name>
+      <type>Main</type>
+      <value>;white-space:nowrap</value>
+      <webElementGuid>16cfd14a-09eb-465b-949f-9ad9a692b5e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resumen de textos</value>
+      <webElementGuid>49d5257f-e2af-4372-afaf-1f40bb146a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/mbar/menu[2]/menu[2]/menu[0]&quot;)/td[@class=&quot;urMnuTxt&quot;]/span[1]</value>
+      <webElementGuid>9a12e993-d33e-4613-9f39-d6cbcdb327f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Chile/Page_Crear Pedido abierto  Datos cabecera/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>61d445c9-387d-4db8-8b1c-c99bc46351c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='wnd[0]/mbar/menu[2]/menu[2]/menu[0]']/td[3]/span</value>
+      <webElementGuid>d275ca5d-e453-4d0d-82bf-6b0702387e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::span[7]</value>
+      <webElementGuid>3840ce3d-043c-492f-8b22-b98d4ac47931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Imagen txt.explicativo'])[1]/preceding::span[4]</value>
+      <webElementGuid>c6e20cf2-9915-4ba5-be56-440264ba0edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Resumen de textos']/parent::*</value>
+      <webElementGuid>bd3bf0de-55ac-4ad2-a906-ff78d7936e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div/div[2]/table/tbody/tr/td[3]/span</value>
+      <webElementGuid>1c61e1e4-b5d4-4387-bc38-65846970f23e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Resumen de textos' or . = 'Resumen de textos')]</value>
+      <webElementGuid>4164e333-0488-4fe9-b111-23d0cdfd53a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

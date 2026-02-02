@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notificacion Orden Correctivo ITAL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d912be3-d6cc-4684-a3c2-57d03e810bc5</testCaseGuid>
+</TestCaseEntity>

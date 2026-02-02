@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>PM Flujo Completo Orden Preventivo España</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f66de222-c294-4f23-9db0-fc6aa4946a86</testSuiteGuid>
+   <testCaseLink>
+      <guid>4ad9ff80-2144-41a0-af1f-73f2e027362d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Creación Orden Preventivo Unae New ID</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8735ff39-54da-4d00-ae3a-fa2fc74496c6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/DATA FLUJO OP ESP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CI ORDEN</value>
+         <variableId>40c66c19-85a0-4b66-a52e-332a79be3c1b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CE PLANIF</value>
+         <variableId>0b8484b2-a935-4c57-b84c-39d41b3649ce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TEXTO ORDEN</value>
+         <variableId>66a7e16b-a64e-41f5-9121-ab9b31458ea1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RS.PTO.TR</value>
+         <variableId>f777fff6-6981-45a0-8d08-10492ae9b4f2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIC.TECN</value>
+         <variableId>cbee3c99-d3d0-42c8-9dbe-e715508e1578</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EQUIPO</value>
+         <variableId>3d2eb774-56cc-4874-8ad3-143e02bc2a3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SINTOMA</value>
+         <variableId>c9d157b2-c8bd-4786-b9a7-ce0e839294f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>S1</value>
+         <variableId>025c157e-d0a9-49c7-b124-748b2e28bdb4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CAUSA</value>
+         <variableId>2b0e0456-5ac4-4eff-b7dd-b44f160ea9a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8735ff39-54da-4d00-ae3a-fa2fc74496c6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>C1</value>
+         <variableId>6597dc65-106f-4884-8f02-4a511d96426c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>684ca699-2f6d-486e-82b6-fff2a95b2bc6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Flujo OP UNAE/Liberar Orden Preventivo Unae new id</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>67617b3e-8d84-434c-b26b-70b0b358de50</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/DATA FLUJO OP ESP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ce25cc36-b690-4859-967d-2038bfbd3836</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Flujo OP UNAE/Añadir actividad OP UNAE new id</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ca6416d8-3ec3-469c-b0b1-74d8ebfbc27f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/DATA FLUJO OP ESP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ca6416d8-3ec3-469c-b0b1-74d8ebfbc27f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CLTEXES</value>
+         <variableId>b1654789-c2f6-42d1-a8c0-ffb3ff2ad19e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>07fd9039-f656-4b51-b914-e059ade490f7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Flujo OP UNAE/Notificación OP Unae new ID</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>175b6f0e-a2ee-4dc1-94a4-b6c3ac281fe7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/DATA FLUJO OP ESP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f6296039-b41d-4186-8b5f-0c72cc2a4221</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Flujo OP UNAE/Cierre OP UNAE new id</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>83dbf9e8-4434-42cb-ba24-a705e8b8939a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/DATA FLUJO OP ESP</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

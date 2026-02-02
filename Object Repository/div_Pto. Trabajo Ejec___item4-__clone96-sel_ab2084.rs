@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pto. Trabajo Ejec___item4-__clone96-sel_ab2084</name>
+   <tag></tag>
+   <elementGuidId>89e30ecb-7a10-4710-acc1-ac1f96974dcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__item4-__clone96-selectMulti-CbBg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__item4-__clone96-selectMulti-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8aea388-9178-4148-8fb9-2c8140ff1d9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__item4-__clone96-selectMulti-CbBg</value>
+      <webElementGuid>143fe544-d5df-42bb-9dca-6e0b28d377bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>e77691dc-47c2-498c-ba59-40adc86a93ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item4-__clone96-selectMulti-CbBg&quot;)</value>
+      <webElementGuid>2947e452-794e-4961-bea3-9ce45c4c7250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__item4-__clone96-selectMulti-CbBg']</value>
+      <webElementGuid>6de8202b-727f-4f85-ba52-daa955ccafac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item4-__clone96-selectMulti']/div</value>
+      <webElementGuid>27a9cabb-aa40-48bd-93d0-7a29ee382e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pto. Trabajo Ejec.'])[2]/following::div[2]</value>
+      <webElementGuid>3ae00630-7a44-428e-9b04-66cccdd28b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desc. Emplazamiento'])[1]/following::div[3]</value>
+      <webElementGuid>c24d2454-c094-44c4-89ac-c033ee52d973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABIE DMNV FENA KKMP PREC'])[1]/preceding::div[1]</value>
+      <webElementGuid>bdf58244-965d-455d-8b57-6f9bc840bd71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[1]</value>
+      <webElementGuid>9482fae9-170d-4065-a1ec-cfc2a7887dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>f5d3e315-bd06-4c98-b5ab-e270bd8a1089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__item4-__clone96-selectMulti-CbBg']</value>
+      <webElementGuid>9d17f39d-c58f-4d56-8196-e77d99aaa509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

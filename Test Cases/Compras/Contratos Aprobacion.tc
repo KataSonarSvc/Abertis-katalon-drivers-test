@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Contratos Aprobacion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>992275c8-a5d6-4f4f-855e-822501606321</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bc40017-841e-4108-9d7d-18a36fbcf185</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4bc40017-841e-4108-9d7d-18a36fbcf185</id>
+      <masked>false</masked>
+      <name>num_pedido</name>
+   </variable>
+</TestCaseEntity>

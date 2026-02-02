@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ItemTablaCodigoImpuesto</name>
+   <tag></tag>
+   <elementGuidId>03b9bcab-65bd-4c9c-a40f-1959ebd47b6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@class='sapUiTableCellInner'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-createPOfromContract-component---master--idMasterViewPositions-sa-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ffa216a-6ab7-4923-a31c-e0312137724a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-createPOfromContract-component---master--idMasterViewPositions-sa-CbBg</value>
+      <webElementGuid>dd3a4edb-d6a9-4e20-8c6b-b1ecffc1519c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>8bc72e5a-a0bf-4288-872e-09266d2043f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-createPOfromContract-component---master--idMasterViewPositions-sa-CbBg&quot;)</value>
+      <webElementGuid>82ae006c-436c-499e-9051-1c5dab326c13</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

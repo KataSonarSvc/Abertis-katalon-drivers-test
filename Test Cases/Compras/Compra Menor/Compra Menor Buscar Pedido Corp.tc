@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Compra Menor Buscar Pedido Corp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2c94c2d-46db-4984-8926-22004b27d585</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d5befb4-936d-40e2-857a-69b92dcadb0a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d5befb4-936d-40e2-857a-69b92dcadb0a</id>
+      <masked>false</masked>
+      <name>num_solicitud</name>
+   </variable>
+</TestCaseEntity>

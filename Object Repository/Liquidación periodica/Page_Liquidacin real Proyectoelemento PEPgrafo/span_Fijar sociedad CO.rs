@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fijar sociedad CO</name>
+   <tag></tag>
+   <elementGuidId>fd14edf7-c16e-4876-9d41-6612a3139e24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='wnd[0]/mbar/menu[3]/menu[6]']/td[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a094ccff-1781-4093-b611-a845cff05854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sap-ls-style</name>
+      <type>Main</type>
+      <value>;white-space:nowrap</value>
+      <webElementGuid>dec65efe-51d0-4d5b-8ab0-b981c4b77d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fijar sociedad CO</value>
+      <webElementGuid>811db620-217f-4cae-83f4-ce3aee7a9b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/mbar/menu[3]/menu[6]&quot;)/td[@class=&quot;urMnuTxt&quot;]/span[1]</value>
+      <webElementGuid>96c327e2-93ef-4d5d-bb65-8c18e3cea66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Liquidación periodica/Page_Liquidacin real Proyectoelemento PEPgrafo/iframe_Ms_application-Project-processIndivi_80e075</value>
+      <webElementGuid>e598ec83-8f69-45c5-9ba3-277d000fa589</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='wnd[0]/mbar/menu[3]/menu[6]']/td[3]/span</value>
+      <webElementGuid>e76a9ba2-b0f5-47e1-be8c-32f8998f7680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activas log proceso'])[1]/following::span[4]</value>
+      <webElementGuid>f5670259-93d4-4193-87a5-8eb24d7c9bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opciones técnicas'])[1]/following::span[8]</value>
+      <webElementGuid>fc94b177-e512-40d6-887d-dc7597ade76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detener aplicación'])[1]/preceding::span[27]</value>
+      <webElementGuid>c1a50cf5-f4b9-4499-8df5-f369b953e7bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fijar sociedad CO']/parent::*</value>
+      <webElementGuid>2e1490db-5032-4479-a92e-c09ebcdb7f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div/div[2]/table/tbody/tr[7]/td[3]/span</value>
+      <webElementGuid>d99534d3-c832-4781-8dc8-e660ff4cf39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fijar sociedad CO' or . = 'Fijar sociedad CO')]</value>
+      <webElementGuid>edc30acf-e4f0-4044-9e50-34027bce0e71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

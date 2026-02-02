@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pos. Ok___field12-__clone196-cBoxBool-CbBg</name>
+   <tag></tag>
+   <elementGuidId>d125a9cf-4fca-4d7b-b54d-c7524c0b158a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, '__field12-__') and contains(@id, '-cBoxBool-CbBg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__field12-__clone196-cBoxBool-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f5249203-8332-435a-a814-40cc8c31c502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__field12-__clone196-cBoxBool-CbBg</value>
+      <webElementGuid>4ea96415-34ef-45e3-9d47-bf5e0d2dcc6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbMark</value>
+      <webElementGuid>4d8f02e8-ea3f-4fc1-9c15-9a5fac51fa19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__field12-__clone196-cBoxBool-CbBg&quot;)</value>
+      <webElementGuid>708bb684-4efb-41ab-9b58-a33fbf861e6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__field12-__clone196-cBoxBool-CbBg']</value>
+      <webElementGuid>0ad16c6a-4244-47b7-b49e-0cc104802a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__field12-__clone196-cBoxBool']/div</value>
+      <webElementGuid>78e2cf99-8065-4b81-b3b1-75efe0aeddcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pos. Ok'])[1]/following::div[4]</value>
+      <webElementGuid>8cd6e55b-4a03-4173-88d8-f1a8bdea912f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega Final'])[1]/following::div[12]</value>
+      <webElementGuid>24059e30-63ac-4d0b-aff4-64617273d09a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMBUSTIBLE OP ANDES 2024'])[2]/preceding::div[4]</value>
+      <webElementGuid>6d6f9719-ad41-4f9d-9ee5-5faa3b297421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad recepcionada'])[2]/preceding::div[7]</value>
+      <webElementGuid>ccd0f3d5-2079-4a58-a2b1-0b959eda45ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/span/div/div/div</value>
+      <webElementGuid>d0986fa0-45e8-463b-a034-9b634ce362de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__field12-__clone196-cBoxBool-CbBg']</value>
+      <webElementGuid>4381e8ff-2593-4171-9066-27294edd5cc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

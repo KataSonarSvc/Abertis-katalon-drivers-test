@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creación Cuenta Mayor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af9bb2d4-dfc9-4500-bd7f-5e9cec8777cf</testCaseGuid>
+</TestCaseEntity>

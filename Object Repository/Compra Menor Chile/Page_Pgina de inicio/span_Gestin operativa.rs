@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gestin operativa</name>
+   <tag></tag>
+   <elementGuidId>4f3af1f0-fecd-483b-a59e-6d9cc19d4182</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a91dd84a-932e-4cd1-bca8-e2be1b47f24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner</value>
+      <webElementGuid>1e928a05-cfc4-48c8-bb18-39555b1da4a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>9f0cc233-bcfb-4250-9ad8-15e2f3c10f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestión operativa</value>
+      <webElementGuid>b124de11-25fc-4e25-8a95-b5f0497075ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner&quot;)</value>
+      <webElementGuid>453f770b-ee1b-4443-b0b9-0214fb481200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner']</value>
+      <webElementGuid>35cd5934-44e6-4e92-83ed-74eda81a43f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title']/span</value>
+      <webElementGuid>11977309-d13d-468c-9e01-4234287d9a73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros datos'])[2]/following::span[5]</value>
+      <webElementGuid>a6199d2a-120f-475e-aff2-7beaf60cdf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Páginas'])[1]/following::span[8]</value>
+      <webElementGuid>a6aa9e41-872d-43c9-ba6c-047b58f80f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compras operativas'])[2]/preceding::span[1]</value>
+      <webElementGuid>87d6bb2c-6425-4e5f-b67b-5ee21f871ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tareas pendientes'])[1]/preceding::span[5]</value>
+      <webElementGuid>c1677b71-beef-444c-8cce-86921a7e1595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gestión operativa']/parent::*</value>
+      <webElementGuid>9e467000-d180-4601-aea0-3878a5fa0baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/span/span</value>
+      <webElementGuid>6e92d7a8-eba1-4447-8686-41465350e370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0-title-inner' and (text() = 'Gestión operativa' or . = 'Gestión operativa')]</value>
+      <webElementGuid>8a36ad48-b4b2-4155-abaf-0c763b843fe2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pto. Trabajo Ejec___item4-__clone96-sel_ab2084</name>
+   <tag></tag>
+   <elementGuidId>7839c700-3eb2-43ba-8522-66b0290248ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[   contains(@id, &quot;__item&quot;)   and substring(@id, string-length(@id) - string-length(&quot;-selectMulti&quot;) + 1) = &quot;-selectMulti&quot; ]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__item4-__clone96-selectMulti-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>20ad2a37-4eb6-4991-9327-e5923a5758f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__item4-__clone96-selectMulti-CbBg</value>
+      <webElementGuid>6d6c458a-93d9-46ea-ac64-7a50cdba9147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>706f6ba5-754f-4a8e-a037-f553996c5ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item4-__clone96-selectMulti-CbBg&quot;)</value>
+      <webElementGuid>976e7bee-6a67-47a1-9ed5-8b18c01d0eb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__item4-__clone96-selectMulti-CbBg']</value>
+      <webElementGuid>22f49135-6fc2-42dc-bcc5-74597fd98e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item4-__clone96-selectMulti']/div</value>
+      <webElementGuid>03679ba8-ff74-479f-bb50-d07540f27b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pto. Trabajo Ejec.'])[2]/following::div[2]</value>
+      <webElementGuid>45757e1a-6c39-4eac-b0ac-89b0fb54a1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desc. Emplazamiento'])[1]/following::div[3]</value>
+      <webElementGuid>e249dd16-1092-4585-b50b-588ab2d70325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABIE DMNV FENA KKMP PREC'])[1]/preceding::div[1]</value>
+      <webElementGuid>44d5bfe5-be05-42d4-8c3b-93547ec459b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[1]</value>
+      <webElementGuid>f939f594-f67d-4534-a67f-c78158ae4cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>480f02ca-7ea7-422b-a215-4ba27b6677b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__item4-__clone96-selectMulti-CbBg']</value>
+      <webElementGuid>7183a235-a647-4e68-a53a-138cc4023d81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

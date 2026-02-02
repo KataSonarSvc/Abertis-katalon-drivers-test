@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Cargar asientos contables ZCHE</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>076e14aa-2c4c-417a-a2f2-1acc468ce9f5</dataFileGUID>
+   <dataSourceUrl>/Users/guillermo.galan/Library/CloudStorage/OneDrive-Accenture/54 - Abertis/DATA EXPORT EXCEL PARTIDAS ABIERTAS.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

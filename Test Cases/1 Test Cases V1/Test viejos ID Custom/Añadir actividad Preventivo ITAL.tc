@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Añadir actividad Preventivo ITAL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c049b323-3f90-488d-95a5-fc537969c120</testCaseGuid>
+</TestCaseEntity>

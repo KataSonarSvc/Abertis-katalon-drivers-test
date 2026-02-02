@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ms Datos</name>
+   <tag></tag>
+   <elementGuidId>e4727060-3975-44bd-ba09-5f5f0067b492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>681cc442-e8c4-4ffa-b268-3e4af11fed99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-inner</value>
+      <webElementGuid>2f607598-4a7f-400e-a130-9f4c9e10c506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnIconFirst sapMBtnDefault</value>
+      <webElementGuid>9f04a5d9-5d33-4c8b-b19b-2d975e96796b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Más Datos</value>
+      <webElementGuid>8c9d90d4-a0b8-40c1-ad33-8acd160abe94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-inner&quot;)</value>
+      <webElementGuid>ab9bffb3-0034-4d12-8078-8a02f4d663e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-inner']</value>
+      <webElementGuid>368a7df6-85a2-48a1-aad0-050976c5a461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition']/span</value>
+      <webElementGuid>6276c3dc-fb97-4691-80a4-cc347bc34f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posiciones'])[4]/following::span[3]</value>
+      <webElementGuid>7264326f-ec9c-4323-9d64-73fd8c7e8c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar más'])[1]/following::span[4]</value>
+      <webElementGuid>948f22c7-7a18-4ed9-b017-831759d0209d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copia Masiva'])[1]/preceding::span[4]</value>
+      <webElementGuid>f9412853-4643-4abc-b916-5a3b387c458d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>6e4ff953-758c-427f-92ed-33cef76ad757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'application-zpurchaserequisition-createTP-component---detail--idMoreDataPosition-inner' and (text() = 'Más Datos' or . = 'Más Datos')]</value>
+      <webElementGuid>ffe0feff-a6a9-4eb1-b5cc-8ae1dae607e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

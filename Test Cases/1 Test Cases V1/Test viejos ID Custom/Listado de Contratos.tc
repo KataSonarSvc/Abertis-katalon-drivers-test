@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado de Contratos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a982c045-4d48-4fa6-b3a1-3a814f85077c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado Gestión orden correctivo General</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57cbab31-9d7b-4a60-87d5-baff49de20bc</testCaseGuid>
+</TestCaseEntity>

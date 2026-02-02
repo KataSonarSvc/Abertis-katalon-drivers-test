@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Requisio de Compras</name>
+   <tag></tag>
+   <elementGuidId>be99eac6-b123-40b3-913f-5ab32f999337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile6-title-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile6-title-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48e7147c-4bb1-4339-a753-d5a41aa8cffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__tile6-title-inner</value>
+      <webElementGuid>720b66ee-37f2-4266-af9f-1311078c1f3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>f71343cb-20dd-4da5-b33c-0543ff8124ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Requisição de Compras</value>
+      <webElementGuid>f10d7429-bc97-4e77-afc5-1c63b6aacc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile6-title-inner&quot;)</value>
+      <webElementGuid>4a6c3763-8bd0-4927-9556-c7c951bb3bd1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__tile6-title-inner']</value>
+      <webElementGuid>ba670b47-46c7-4eb9-8994-124656752c52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile6-title']/span</value>
+      <webElementGuid>9e562119-9e73-4c61-ac87-31a9ab750ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criação'])[3]/following::span[2]</value>
+      <webElementGuid>dba0e1d9-696b-449f-a2df-97b641415928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consumo de Contratos'])[1]/following::span[3]</value>
+      <webElementGuid>fcc2f838-990b-4bbc-86ea-8afe488daff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Licitações / Adjudicação'])[1]/preceding::span[1]</value>
+      <webElementGuid>3e5b9d60-fb10-400a-b677-d054642b2ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criação'])[4]/preceding::span[3]</value>
+      <webElementGuid>55a44d91-5184-4062-8568-8fbddfcb07e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Requisição de Compras']/parent::*</value>
+      <webElementGuid>4124575f-c0c8-4033-95ae-8392e914c21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/a/div/div/div/div/span/span</value>
+      <webElementGuid>25c93edf-e04a-435b-b424-6d70bd619550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__tile6-title-inner' and (text() = 'Requisição de Compras' or . = 'Requisição de Compras')]</value>
+      <webElementGuid>ba1b0c69-2c9e-432f-8c4d-8943ca34ff79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

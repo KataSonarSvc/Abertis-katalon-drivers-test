@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado Contratos Export y Filtro New</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a696de07-e0b6-4e42-89ec-ec73d440b326</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>253985c7-f418-447b-a3be-42f5aa687c2d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>253985c7-f418-447b-a3be-42f5aa687c2d</id>
+      <masked>false</masked>
+      <name>proveedor</name>
+   </variable>
+</TestCaseEntity>

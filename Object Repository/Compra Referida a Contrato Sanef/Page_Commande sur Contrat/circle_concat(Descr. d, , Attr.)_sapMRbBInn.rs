@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_concat(Descr. d, , Attr.)_sapMRbBInn</name>
+   <tag></tag>
+   <elementGuidId>deb839ec-4918-403a-8b47-1e19ec68bd19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>circle.sapMRbBInn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>2251d954-de34-4505-ac0c-8a51562ffc45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>2fc31a1f-84b1-4f62-96d5-656f69b06522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMRbBInn</value>
+      <webElementGuid>10c90ab2-3c37-4e8d-ba35-5e3865b20c01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--template:::ListReportTable:::QuickVariantSelectionXColumnListItem:::sQuickVariantKey::Group-__clone101-selectSingle&quot;)/div[@class=&quot;sapMRbB sapMRbHoverable&quot;]/svg[@class=&quot;sapMRbSvg&quot;]/circle[@class=&quot;sapMRbBInn&quot;]</value>
+      <webElementGuid>ba4c5c7b-2c84-4785-8ccc-b2b23af015a5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

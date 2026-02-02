@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ds</name>
+   <tag></tag>
+   <elementGuidId>5d173a0d-3cbb-4f7a-b584-b3eb9f4c45d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-zcompraguiada-create-component---View1--idNoAdequateContract-textoff']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sapMSwtLabel.sapMSwtLabelOff</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f42a50e4-7237-4276-a28f-80e0dd9c9a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSwtLabel sapMSwtLabelOff</value>
+      <webElementGuid>d378e600-f580-4451-a292-8c886861070f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dés</value>
+      <webElementGuid>2cbef6d0-2144-4fea-9463-3355ac3ca5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zcompraguiada-create-component---View1--idNoAdequateContract-textoff&quot;)/span[@class=&quot;sapMSwtLabel sapMSwtLabelOff&quot;]</value>
+      <webElementGuid>3c581fc9-5851-4279-ba41-f59f6411f545</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-zcompraguiada-create-component---View1--idNoAdequateContract-textoff']/span</value>
+      <webElementGuid>017d60fc-16dd-42a9-bfe9-a1fb0793fb20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Act'])[1]/following::span[1]</value>
+      <webElementGuid>9139d546-fe81-4510-9b7a-dd332d8d271c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pas de contrat approprié'])[1]/following::span[3]</value>
+      <webElementGuid>3d13d183-4026-4827-bccf-c2c8734c106b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contrats Disponibles'])[1]/preceding::span[2]</value>
+      <webElementGuid>adaf0b6d-3fb5-457d-9656-e1b9407b5a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type de contrat'])[1]/preceding::span[4]</value>
+      <webElementGuid>94ed4ebb-f496-4560-9d0c-c7a2acf17eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dés']/parent::*</value>
+      <webElementGuid>32eb2b24-1615-4d4b-a09a-0079101662fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/span</value>
+      <webElementGuid>5606e487-6289-4293-bb08-9bf481906ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dés' or . = 'Dés')]</value>
+      <webElementGuid>253a3778-8d0a-462b-89cf-e18893d3873f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

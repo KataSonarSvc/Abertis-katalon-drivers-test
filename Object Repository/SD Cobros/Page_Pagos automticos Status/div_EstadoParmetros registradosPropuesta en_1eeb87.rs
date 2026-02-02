@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EstadoParmetros registradosPropuesta en_1eeb87</name>
+   <tag></tag>
+   <elementGuidId>dbafa99a-0cc2-4413-b060-1f4b0cec22c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:1::0:0-scrl-cnt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b388c3d7-f212-4198-8f06-0c3a5808e2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:1::0:0-scrl-cnt</value>
+      <webElementGuid>aef3a0de-b640-4bd3-a8db-2076be87bc29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height  urTbsCnt lsResponsivePadding urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>aa13d22e-069c-48c7-b787-92e5c4cba455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Estado Parámetros registrados Propuesta en proceso</value>
+      <webElementGuid>44a0ccfc-854e-44ee-8375-c537fa7029ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1::0:0-scrl-cnt&quot;)</value>
+      <webElementGuid>e0aec056-46bf-48bd-81d1-b70c443b4721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SD Cobros/Page_Pagos automticos Status/iframe_Ms_application-AutomaticPayment-sche_417424</value>
+      <webElementGuid>0d865eb1-100c-42b7-8cd5-cda00d5f6c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1::0:0-scrl-cnt']</value>
+      <webElementGuid>01330cae-e766-4c4e-aefc-d08d521ab4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1::0:0-scrl']/div</value>
+      <webElementGuid>a20aedda-9ac4-4258-9408-ac9da7073d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impresión y sop.datos'])[1]/following::div[3]</value>
+      <webElementGuid>deb72062-6df7-43af-9964-975a8bd5dd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log adicional'])[1]/following::div[5]</value>
+      <webElementGuid>02fab2d1-2bd8-479b-ac1a-d70429b84d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/table/tbody/tr/td/div/div</value>
+      <webElementGuid>f4d5eb04-34a4-41a9-916e-c3e86853796a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:1::0:0-scrl-cnt' and (text() = 'Estado Parámetros registrados Propuesta en proceso' or . = 'Estado Parámetros registrados Propuesta en proceso')]</value>
+      <webElementGuid>bf078d1b-eb18-4fb0-805c-95fa86c5d1a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

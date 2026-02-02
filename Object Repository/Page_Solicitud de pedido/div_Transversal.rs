@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transversal</name>
+   <tag></tag>
+   <elementGuidId>cceb1514-3b88-4665-9920-173ca713a26e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/div/section/div/div[2]/div/section[2]/section[1]/div[2]/div/div[1]/div/div/div/div/div/div/div/div[1]/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaserequisition-createTP-component---detail--idHTransversal-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4127145e-55e2-4be3-ae5b-0d0b94d6b688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaserequisition-createTP-component---detail--idHTransversal-CbBg</value>
+      <webElementGuid>980c02d0-b3d8-4e7b-b388-879b40d7bbbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbMark</value>
+      <webElementGuid>d79c9f77-9227-4106-be8b-38349384f78d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaserequisition-createTP-component---detail--idHTransversal-CbBg&quot;)</value>
+      <webElementGuid>8cc29c8b-1e0f-4a28-8009-551d5d4fa341</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ACCENTURE, S.L</name>
+   <tag></tag>
+   <elementGuidId>9924f5aa-ec53-46d4-b0ba-c9e675c16378</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[contains(@id, '--MAIN_LIST_ITEM-') and not(@aria-hidden='true')])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-5-titleText-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b362f1a6-55c7-45b2-9371-bffcb2d75967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-5-titleText-inner</value>
+      <webElementGuid>d0cd9441-011b-4e79-a2f2-3431d86bbc53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>bed96a96-858b-4b7c-8c0f-9032694ebfdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ACCENTURE, S.L.</value>
+      <webElementGuid>d3deda15-6977-4a5c-b6c4-aba113f56510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-5-titleText-inner&quot;)</value>
+      <webElementGuid>45b89cb0-03c5-4df6-90a9-f924e04024fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-5-titleText-inner']</value>
+      <webElementGuid>6390e67d-71e0-4023-babb-d44860421fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-5-titleText']/span</value>
+      <webElementGuid>8993b4c8-372e-410f-a067-e52b11f9c944</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resaltado'])[2]/following::span[2]</value>
+      <webElementGuid>39af5426-24cc-4cb0-9c9e-98262f1e89f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selección múltiple'])[1]/following::span[6]</value>
+      <webElementGuid>ed01a0e0-d97d-49f6-8870-5b450c9bea98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ma_jgarcia'])[1]/preceding::span[3]</value>
+      <webElementGuid>0a05dde4-edd6-414c-b8f2-b1757b370dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACCENTURE, S.L.']/parent::*</value>
+      <webElementGuid>c1f638cf-779e-4e4d-b885-1f1fdc440acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>3a72e576-a58c-4101-a51a-d95b01c6af77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-5-titleText-inner' and (text() = 'ACCENTURE, S.L.' or . = 'ACCENTURE, S.L.')]</value>
+      <webElementGuid>d2c8defe-d01f-4273-8ba7-c5159810dfd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

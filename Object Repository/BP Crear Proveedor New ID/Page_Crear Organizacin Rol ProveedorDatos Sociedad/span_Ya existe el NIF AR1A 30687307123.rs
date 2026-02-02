@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Ya existe el NIF AR1A 30687307123</name>
+   <tag></tag>
+   <elementGuidId>d350866e-acdd-4e2c-b778-b5400d9e9d97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='msgarea']//span[contains(@id, 'sbar_msg-icon') and contains(@class, 'lsMessageBar__icon--Ok')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>97ca8989-76d1-47ce-845b-1027cf901173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>486ebc8e-3e20-49be-bc09-ce5b8d8c538c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d77d3edc-f270-49ee-8434-5c80742233cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wnd[0]/sbar_msg-txt</value>
+      <webElementGuid>f7d52dc8-8616-48d1-a074-5d71fde09cfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsMessageBar__text lsMessageBar__text--overflow</value>
+      <webElementGuid>656f0a6c-2459-4bb6-ad44-0e232d42c0f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ya existe el NIF AR1A 30687307123</value>
+      <webElementGuid>ec418576-1799-4139-900d-01f244689645</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ya existe el NIF AR1A 30687307123</value>
+      <webElementGuid>4f2f14c4-e308-4320-860b-9d37847a0d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/sbar_msg-txt&quot;)</value>
+      <webElementGuid>326d5263-a5f4-4263-b377-0aa616e0d9f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BP Crear Proveedor New ID/Page_Crear Organizacin Rol ProveedorDatos Sociedad/iframe_Ms_application-BusinessPartner-creat_97ef72</value>
+      <webElementGuid>e7244eb4-071c-4eb6-b6ee-076839e18706</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='wnd[0]/sbar_msg-txt']</value>
+      <webElementGuid>09f8d725-5434-4ef5-b3bb-cbf893ab593c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wnd[0]/sbar_msg']/span[2]</value>
+      <webElementGuid>95ec33c9-a4f8-419e-98f7-230707cf81ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proveedor: Textos'])[2]/following::span[3]</value>
+      <webElementGuid>42ce29a9-e597-4f66-8a96-b37ce1c888f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acreedor: Ampliac.2 espec.país'])[2]/following::span[4]</value>
+      <webElementGuid>f7f2df0e-bda4-4c6f-9adc-5d11758b0d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G'])[2]/preceding::span[2]</value>
+      <webElementGuid>68d0d179-71eb-46a1-b3ba-4cdb02cf90f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ya existe el NIF AR1A 30687307123']/parent::*</value>
+      <webElementGuid>24d6a038-8547-452f-bb2c-ca84bd0d7c0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/span[2]</value>
+      <webElementGuid>8375dba9-3080-48e3-8841-00489411c5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'wnd[0]/sbar_msg-txt' and @title = 'Ya existe el NIF AR1A 30687307123' and (text() = 'Ya existe el NIF AR1A 30687307123' or . = 'Ya existe el NIF AR1A 30687307123')]</value>
+      <webElementGuid>5aa11368-b6d4-41eb-be1f-13c5e5c097fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

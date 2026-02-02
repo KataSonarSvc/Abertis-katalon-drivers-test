@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gestione Ticket Programmata</name>
+   <tag></tag>
+   <elementGuidId>14ee1d6d-3262-43b0-91f7-79c21ae33804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cfb6a781-176e-497b-8a27-6bd3682ff851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title-inner</value>
+      <webElementGuid>3480a9fb-e3c2-43f2-87ca-1471fdec078a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>246c13d9-9637-442e-adca-14905ed20f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestione Ticket Programmata</value>
+      <webElementGuid>64cd6d77-c004-4959-ae18-016890d9250f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title-inner&quot;)</value>
+      <webElementGuid>ab94106a-c9e2-4fe7-b6a9-080c312589db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title-inner']</value>
+      <webElementGuid>e5aa5d84-0766-4e4d-90f2-29b0c50ddc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title']/span</value>
+      <webElementGuid>c3f55aaa-01f0-4a76-affe-65d7e5e21987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Altro'])[2]/following::span[3]</value>
+      <webElementGuid>aebf7182-1a16-4563-803a-78c073497a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestione ticket correttivo'])[1]/following::span[7]</value>
+      <webElementGuid>cb2d3220-a906-47d2-b9a5-9374bbf149f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Altro'])[3]/preceding::span[4]</value>
+      <webElementGuid>8e8a6bb8-425b-4008-a991-1ca173b3fa22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Creazione ticket'])[1]/preceding::span[6]</value>
+      <webElementGuid>2d187eb9-f814-4a87-8318-0e5e4ba22320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gestione Ticket Programmata']/parent::*</value>
+      <webElementGuid>a91518a8-30e4-4a42-b6dc-9860dc112929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div[2]/div/span/span</value>
+      <webElementGuid>890267f3-5f66-4762-8569-22202c22b22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-1-title-inner' and (text() = 'Gestione Ticket Programmata' or . = 'Gestione Ticket Programmata')]</value>
+      <webElementGuid>3a7e99fe-b5fe-430e-92fa-cd7bda135885</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

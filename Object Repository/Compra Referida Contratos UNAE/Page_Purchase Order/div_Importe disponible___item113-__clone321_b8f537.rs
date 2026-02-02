@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Importe disponible___item113-__clone321_b8f537</name>
+   <tag></tag>
+   <elementGuidId>464ca74c-2514-4147-941f-fdd95ee4b1ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__item113-__clone321-selectMulti-CbBg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__item113-__clone321-selectMulti-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6490539-0842-4dd5-916f-9506b98bba73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__item113-__clone321-selectMulti-CbBg</value>
+      <webElementGuid>3adbbe01-ce7f-4a3b-851f-b9fee09852a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>52a3bd85-92c5-41d2-b6a8-0b3104240c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item113-__clone321-selectMulti-CbBg&quot;)</value>
+      <webElementGuid>4e1bfcab-cb82-41dd-ae91-1683afe79113</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__item113-__clone321-selectMulti-CbBg']</value>
+      <webElementGuid>d75e0cde-d577-4224-8908-dc2d6c83f439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item113-__clone321-selectMulti']/div</value>
+      <webElementGuid>11b758bf-57b8-4ec7-93ce-dc14ec345438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Importe disponible'])[1]/following::div[3]</value>
+      <webElementGuid>c69cf90b-1049-467f-8097-e9a91e907c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Val.prev.contr.marco'])[1]/following::div[5]</value>
+      <webElementGuid>65c682a7-a7ba-4f6e-9f9f-2c6e9a7779e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resaltado'])[2]/preceding::div[6]</value>
+      <webElementGuid>e7a3e51b-602e-40b1-bcb7-c1097f82858f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado de valor: Advertencia'])[1]/preceding::div[6]</value>
+      <webElementGuid>a7c4fd43-6aab-45bd-a33d-12fe04ac5a14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>60ae7130-98c1-4bea-9786-41056513671d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__item113-__clone321-selectMulti-CbBg']</value>
+      <webElementGuid>d55486c9-5191-483a-b11f-4c74108ab226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

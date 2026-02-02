@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Annulla_sapMTPCItem sapMTPCDeg246</name>
+   <tag></tag>
+   <elementGuidId>243a4681-ab11-49ee-a125-fb9ab687aed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iStartDateTime-Clocks-clockH']/div[2]/div[41]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMTPCItem.sapMTPCDeg246</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59d6e20f-0881-4c33-820d-b2226f1133dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTPCItem sapMTPCDeg246</value>
+      <webElementGuid>25fa7968-1210-4c89-9ca7-aa047363504f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iStartDateTime-Clocks-clockH&quot;)/div[2]/div[@class=&quot;sapMTPCItem sapMTPCDeg246&quot;]</value>
+      <webElementGuid>5dd5ce3f-2f4d-4f36-b514-8cfda0c79247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iStartDateTime-Clocks-clockH']/div[2]/div[41]</value>
+      <webElementGuid>c44e36e4-d0dd-487b-b87d-1a342c2e082f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annulla'])[2]/following::div[51]</value>
+      <webElementGuid>5a415943-8565-4cce-9b31-4e5348203607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dom'])[1]/following::div[96]</value>
+      <webElementGuid>c22333d9-7815-4713-a70a-dbdff8a20203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[159]</value>
+      <webElementGuid>26c21865-d521-406a-b6dc-672579c782d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annulla'])[3]/preceding::div[159]</value>
+      <webElementGuid>9ec76f19-349e-4f75-9d8a-eb7ca5ac8b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[41]</value>
+      <webElementGuid>63555f8d-699f-4e08-a9a9-e21bc068e318</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

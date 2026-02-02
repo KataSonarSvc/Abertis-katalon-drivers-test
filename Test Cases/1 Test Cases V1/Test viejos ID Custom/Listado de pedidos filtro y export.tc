@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado de pedidos filtro y export</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d14da172-2390-4da3-a87c-7ff5cce9d657</testCaseGuid>
+</TestCaseEntity>

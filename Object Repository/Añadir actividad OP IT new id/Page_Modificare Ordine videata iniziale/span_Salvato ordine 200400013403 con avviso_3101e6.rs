@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Salvato ordine 200400013403 con avviso_3101e6</name>
+   <tag></tag>
+   <elementGuidId>6b5a50b1-317a-4e46-946b-c467f4d6323c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(text(), 'Salvato ordine') and contains(text(), 'con avviso')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a64ec3ed-3a97-4181-bc46-247cdd884d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>7fe36213-7495-4871-a35a-0f36c4857575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e6c3a9f2-a9e2-4c20-afa3-a2aa35aea611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>wnd[0]/sbar_msg-txt</value>
+      <webElementGuid>d21b0f0a-b084-4753-8c7b-28e97912b444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsMessageBar__text lsMessageBar__text--overflow</value>
+      <webElementGuid>489a30d6-34f3-4744-95c0-7980abe3d304</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Salvato ordine 200400013403 con avviso 2400012883</value>
+      <webElementGuid>3a49cc87-b067-49ad-90b6-26832e388b17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Salvato ordine 200400013403 con avviso 2400012883</value>
+      <webElementGuid>37b97fef-9828-4105-84ce-5c72b79452e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/sbar_msg-txt&quot;)</value>
+      <webElementGuid>3dcb97d3-ce95-451f-9505-76b44d1e3224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Añadir actividad OP IT new id/Page_Modificare Ordine videata iniziale/iframe_Pi posizioni_application-Maintenance_21a38e</value>
+      <webElementGuid>dcb7ce85-6d2e-4595-bc28-04131d13d0d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='wnd[0]/sbar_msg-txt']</value>
+      <webElementGuid>6b6e23e2-607e-4318-90e7-b56ae0b0e700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wnd[0]/sbar_msg']/span[2]</value>
+      <webElementGuid>548eb07b-7791-42ab-b271-1db7337ba809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='O'])[2]/following::span[4]</value>
+      <webElementGuid>d3ba4fa6-93a0-4063-a1f1-cbfb25a28de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vuoto'])[1]/preceding::span[58]</value>
+      <webElementGuid>deb1a952-f1e0-4d82-b74d-4a20730a10dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Salvato ordine 200400013403 con avviso 2400012883']/parent::*</value>
+      <webElementGuid>29cb5dbf-1343-4494-8681-69ed1d26be86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/span[2]</value>
+      <webElementGuid>b917d1d5-c113-406d-a9b4-3a3658e5dbbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'wnd[0]/sbar_msg-txt' and @title = 'Salvato ordine 200400013403 con avviso 2400012883' and (text() = 'Salvato ordine 200400013403 con avviso 2400012883' or . = 'Salvato ordine 200400013403 con avviso 2400012883')]</value>
+      <webElementGuid>1148d784-2b0f-4534-a2a8-91c3be9cb75e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

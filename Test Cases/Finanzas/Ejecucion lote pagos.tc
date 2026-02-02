@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ejecucion lote pagos</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba230a91-8985-40a5-b9fa-b9b6f544dd06</testCaseGuid>
+</TestCaseEntity>

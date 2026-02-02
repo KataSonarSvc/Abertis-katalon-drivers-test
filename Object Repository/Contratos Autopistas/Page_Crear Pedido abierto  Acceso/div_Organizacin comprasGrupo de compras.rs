@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Organizacin comprasGrupo de compras</name>
+   <tag></tag>
+   <elementGuidId>8bf4320d-e14b-4b8c-bb8f-81c9fee8f5e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:::5:0-scrl-cnt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>236935af-43a9-4b68-b836-c1d31990d7b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:::5:0-scrl-cnt</value>
+      <webElementGuid>55555ab8-e8eb-4a2a-b496-e8e7d49192b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height  urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>f1f0cf0d-3872-4a08-a82d-a6a2499d64f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organización comprasGrupo de compras</value>
+      <webElementGuid>cce9af53-49c4-48fc-a2ab-a17251cd7cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:::5:0-scrl-cnt&quot;)</value>
+      <webElementGuid>9d68c049-22e0-4cac-a0a1-64956e2bc1f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Autopistas/Page_Crear Pedido abierto  Acceso/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>5b048f70-b944-43a5-b2c1-a60b1d598a44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:::5:0-scrl-cnt']</value>
+      <webElementGuid>96be4036-3b2e-4be0-b5a0-58665dcef87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:::5:0-scrl']/div</value>
+      <webElementGuid>6fc8ea32-ddc1-46f5-be45-9837a30b4f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos organizativos'])[1]/following::div[2]</value>
+      <webElementGuid>dcb1e644-db7b-476c-908c-b741bac219db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[2]/following::div[4]</value>
+      <webElementGuid>6d4b6398-c531-4a6f-8fe4-c8e07e8c8ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td/div/div</value>
+      <webElementGuid>63dc434f-8734-4aa4-bc56-7b85c8bdfbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:::5:0-scrl-cnt' and (text() = 'Organización comprasGrupo de compras' or . = 'Organización comprasGrupo de compras')]</value>
+      <webElementGuid>acc30ea2-08a7-4fc4-bd70-0422a6b51641</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

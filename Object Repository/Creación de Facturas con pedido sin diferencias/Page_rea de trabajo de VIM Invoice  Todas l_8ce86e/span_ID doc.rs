@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ID doc</name>
+   <tag></tag>
+   <elementGuidId>83073800-589d-4927-a73a-87cd357dce64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='grid#C162#0,4#cp3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a35a2f4f-e9ce-43f5-acb5-55e1fd790b9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grid#C162#0,4#cp3</value>
+      <webElementGuid>160ac84a-4c3f-4a48-ab51-a8770637d8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ct</name>
+      <type>Main</type>
+      <value>CP</value>
+      <webElementGuid>9fa19a7b-b936-4ad1-9fbd-9fc69a2ad5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lsdata</name>
+      <type>Main</type>
+      <value>{&quot;0&quot;:&quot;ID de documento&quot;,&quot;1&quot;:&quot;ID doc.&quot;,&quot;6&quot;:false}</value>
+      <webElementGuid>1f97798b-cdad-4cfd-bbdf-be098d50404b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>ID de documento</value>
+      <webElementGuid>804f7f75-c73b-4ec1-8456-bf327ceac68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>  lsCaption--embedded</value>
+      <webElementGuid>3e6b70c9-1dfc-4f4e-86ca-78064fc0e89b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ID doc.</value>
+      <webElementGuid>dace6ee3-f62d-4e2b-b7d5-1f56057e3297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid#C162#0,4#cp3&quot;)</value>
+      <webElementGuid>99ad4e11-3fed-458f-9ee5-3f7a2a9295f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Creación de Facturas con pedido sin diferencias/Page_rea de trabajo de VIM Invoice  Todas l_8ce86e/iframe_Ms_application-zgui_opt_vim_wp-displ_b9e7ed</value>
+      <webElementGuid>a37337d5-b363-4387-8687-be3108aa8855</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='grid#C162#0,4#cp3']</value>
+      <webElementGuid>f2d74486-f942-48b7-af82-6aa8c82c0c1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='grid#C162#0,4-CONTENT-3']/span</value>
+      <webElementGuid>614672af-efe5-4dd6-9ec4-2c3ae15701b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID de documento'])[3]/following::span[2]</value>
+      <webElementGuid>6445534e-cc63-4137-843b-30c93270afc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID de documento'])[2]/following::span[4]</value>
+      <webElementGuid>c11710d6-1ea6-4325-9524-5c9290510fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comentario'])[1]/preceding::span[1]</value>
+      <webElementGuid>d97652e3-08ef-4f78-8689-ee80874dede9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comentario'])[2]/preceding::span[3]</value>
+      <webElementGuid>25292fa4-5c23-47a7-a49c-186b05cedc58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ID doc.']/parent::*</value>
+      <webElementGuid>9b5c5af9-dafd-487f-a330-faf62fe69159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div/table/tbody/tr/td/div/span[3]/span</value>
+      <webElementGuid>dc1c49f2-6563-42ef-b8b6-2a62837a8ade</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'grid#C162#0,4#cp3' and @title = 'ID de documento' and (text() = 'ID doc.' or . = 'ID doc.')]</value>
+      <webElementGuid>093713dd-a4e6-42dd-ab97-994bf8608f0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

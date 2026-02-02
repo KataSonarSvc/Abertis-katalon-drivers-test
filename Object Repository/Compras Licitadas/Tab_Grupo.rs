@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab_Grupo</name>
+   <tag></tag>
+   <elementGuidId>1710f1df-ede4-497b-86ea-8d79166f354f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;com.abertis.mm.zpurchaserequisitionlr::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosPurchaseRequisitionLR--template::IconTabFilter-Group&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

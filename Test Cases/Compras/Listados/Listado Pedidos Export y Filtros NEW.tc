@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado Pedidos Export y Filtros NEW</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ea5acdb-9c7b-40f6-97af-642fc86b6a7a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8729ed68-5324-4a13-90cf-e1ece647d391</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8729ed68-5324-4a13-90cf-e1ece647d391</id>
+      <masked>false</masked>
+      <name>proveedor</name>
+   </variable>
+</TestCaseEntity>

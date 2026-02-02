@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Se ha creado la Entrada de Mercancas 20_b56510</name>
+   <tag></tag>
+   <elementGuidId>bb269c16-74b7-42f8-82cf-fd7e3aab728c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item90-content > div.sapMSLIDiv > div.sapMSLITitleOnly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__item90-content']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1939875e-81d5-4e7b-b8e7-5bca353d9fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLITitleOnly</value>
+      <webElementGuid>54081337-de80-435c-895d-5ec018506b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Se ha creado la Entrada de Mercancías 2024/5002352317</value>
+      <webElementGuid>a27b5cbb-49ee-4de3-8c79-9360cd6e581b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item90-content&quot;)/div[@class=&quot;sapMSLIDiv&quot;]/div[@class=&quot;sapMSLITitleOnly&quot;]</value>
+      <webElementGuid>107e62aa-af1c-410a-9497-eab310ee787e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item90-content']/div/div</value>
+      <webElementGuid>38a02174-dc72-4a0e-82a4-251db11499b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceso completado con éxito'])[1]/following::div[3]</value>
+      <webElementGuid>fc71c7cb-2840-4253-9f95-95aec330b1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Éxitos'])[1]/following::div[13]</value>
+      <webElementGuid>29191551-4468-45c0-abb7-4f0386cf3095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cerrar'])[1]/preceding::div[3]</value>
+      <webElementGuid>f0e06467-8be2-46a3-853e-3610ffd91875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[10]</value>
+      <webElementGuid>c75ede54-b742-476d-b52e-964310a25bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Se ha creado la Entrada de Mercancías 2024/5002352317']/parent::*</value>
+      <webElementGuid>f110f589-8ba9-4200-980a-23bee706fab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div</value>
+      <webElementGuid>680daa30-0bc6-4b2f-a972-21ac57704b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Se ha creado la Entrada de Mercancías 2024/5002352317' or . = 'Se ha creado la Entrada de Mercancías 2024/5002352317')]</value>
+      <webElementGuid>8291776d-f9fa-4fe9-b69f-ab8c0612d4e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

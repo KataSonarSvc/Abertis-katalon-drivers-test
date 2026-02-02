@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_Ha allegati_sapMRbBInn</name>
+   <tag></tag>
+   <elementGuidId>96c3fca4-b815-462c-af7f-3405f55ad9e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>circle.sapMRbBInn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>6c9cf59b-a75c-4930-afa2-dd1df3058a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>df01e1b4-cb5d-4d35-9c96-cd76181fd169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMRbBInn</value>
+      <webElementGuid>3f7610d9-810a-481d-8d26-864d0b6b4fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item4-__clone96-selectSingle&quot;)/div[@class=&quot;sapMRbB sapMRbHoverable&quot;]/svg[@class=&quot;sapMRbSvg&quot;]/circle[@class=&quot;sapMRbBInn&quot;]</value>
+      <webElementGuid>d54eb2ee-3dfe-4d90-85c9-45a77b0c9440</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

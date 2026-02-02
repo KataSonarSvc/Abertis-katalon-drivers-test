@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creación de Facturas con pedido sin diferencias</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e15f7d50-8907-46d6-9875-bc8abd120be9</testCaseGuid>
+</TestCaseEntity>

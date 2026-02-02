@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cl.txt.Txt.Ms txt.EstadoComentarios al _f000b5</name>
+   <tag></tag>
+   <elementGuidId>e4c062ec-257b-491b-91c2-909779eea54c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:::4:0-scrl-cnt']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>afab5677-57a1-4bdf-aa18-b3d8c129db33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:::4:0-scrl-cnt</value>
+      <webElementGuid>17727dc0-af81-4ea9-a6e5-877ee1c23284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height  urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>1ce95230-cbeb-4c57-a933-b339e65ab0fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cl.txt.Txt.Más txt.EstadoComentarios al aprobadorObjeto de Compra/Contratación</value>
+      <webElementGuid>85c337c7-e1dc-4156-8a90-d81a529c7c17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:::4:0-scrl-cnt&quot;)</value>
+      <webElementGuid>c9175f6b-cb7d-47a3-9dec-de87d9885214</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Autopistas/Page_Crear Pedido abierto  Textos cabecera/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>0e463bba-48af-41ba-9fdb-d917882e5d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:::4:0-scrl-cnt']</value>
+      <webElementGuid>bc0a9155-ae5e-4b96-8625-070cb84c14b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:::4:0-scrl']/div</value>
+      <webElementGuid>6aba1a40-3569-4610-a1d3-d35447a98390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Textos de cabecera'])[1]/following::div[2]</value>
+      <webElementGuid>d33068ef-7374-45b1-b98a-bcb81840deca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[1]/following::div[3]</value>
+      <webElementGuid>aefe7344-cf36-4d14-b1d7-44f232e700ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td/div/div</value>
+      <webElementGuid>6c671a6f-8d19-40b2-b687-65efe29b5c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:::4:0-scrl-cnt' and (text() = 'Cl.txt.Txt.Más txt.EstadoComentarios al aprobadorObjeto de Compra/Contratación' or . = 'Cl.txt.Txt.Más txt.EstadoComentarios al aprobadorObjeto de Compra/Contratación')]</value>
+      <webElementGuid>1fea5762-d1db-4a3d-a9b0-b584277e6916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

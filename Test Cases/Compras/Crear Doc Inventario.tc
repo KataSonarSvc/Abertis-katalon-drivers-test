@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Crear Doc Inventario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70e91bee-11cc-452e-871f-982e0f84d3f1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd25e7bd-b0f4-427a-aae9-f2811bcffc17</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>545d76b0-7c89-4356-87b3-ec7a13a44d9f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f9116ff5-29d9-477e-bdf3-1f885ef0dae0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dd25e7bd-b0f4-427a-aae9-f2811bcffc17</id>
+      <masked>false</masked>
+      <name>centro</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>545d76b0-7c89-4356-87b3-ec7a13a44d9f</id>
+      <masked>false</masked>
+      <name>almacen</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9116ff5-29d9-477e-bdf3-1f885ef0dae0</id>
+      <masked>false</masked>
+      <name>material</name>
+   </variable>
+</TestCaseEntity>

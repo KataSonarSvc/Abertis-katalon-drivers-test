@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Entrega Final</name>
+   <tag></tag>
+   <elementGuidId>47ae3361-0e0b-453f-9b82-844e10c174e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--template:::ObjectPageTable:::ColumnListItem:::sFacet::to_PosPedido::com.sap.vocabularies.UI.v1.LineItem-__clone176-subcont']/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc2e7c58-424a-4a8b-a66f-672502b5ff07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMListTblSubCntRow sapMListTblSubCntRowInline</value>
+      <webElementGuid>7578b0b7-4db3-438e-b2fa-92e6cdb62169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entrega Final</value>
+      <webElementGuid>0a69090a-ef28-4f76-a919-e7703c04594d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--template:::ObjectPageTable:::ColumnListItem:::sFacet::to_PosPedido::com.sap.vocabularies.UI.v1.LineItem-__clone176-subcont&quot;)/div[@class=&quot;sapMListTblSubCntRow sapMListTblSubCntRowInline&quot;]</value>
+      <webElementGuid>4821dfa0-5642-483b-8311-8c353f99bdd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--template:::ObjectPageTable:::ColumnListItem:::sFacet::to_PosPedido::com.sap.vocabularies.UI.v1.LineItem-__clone176-subcont']/div[4]</value>
+      <webElementGuid>863ed9b5-9412-47cd-aec6-3f3eb9e456be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad pendiente de recepcionar'])[1]/following::div[5]</value>
+      <webElementGuid>f24b36d8-eb93-4714-9815-1920e11e3db2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad recepcionada'])[1]/following::div[10]</value>
+      <webElementGuid>da709fc1-6842-4670-b8ee-d36df25bcbff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pos. Ok'])[1]/preceding::div[8]</value>
+      <webElementGuid>8c4e2bdb-d081-433a-bb95-310718433f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div[4]</value>
+      <webElementGuid>3411b024-428d-474e-89ca-228f4a35db8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Entrega Final' or . = 'Entrega Final')]</value>
+      <webElementGuid>a6085aaf-2cd5-4ca3-b7a5-61a41d7ca303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

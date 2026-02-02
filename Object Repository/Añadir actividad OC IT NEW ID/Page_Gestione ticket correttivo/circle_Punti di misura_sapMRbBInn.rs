@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_Punti di misura_sapMRbBInn</name>
+   <tag></tag>
+   <elementGuidId>5ea50eff-04aa-4b43-8855-5549d81fecc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>circle.sapMRbBInn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, '-application-ZPM_SMART-GESTICKET-component---Detalle--idProductsTable-0-selectSingle')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>225d2d54-9b86-4cc0-bf7b-02f480419f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>a8c178fa-de6f-430f-8f6c-99493377f2c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMRbBInn</value>
+      <webElementGuid>604fd656-7699-48ef-9da9-11d15a8d6bea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item39-application-ZPM_SMART-GESTICKET-component---Detalle--idProductsTable-0-selectSingle&quot;)/div[@class=&quot;sapMRbB sapMRbHoverable&quot;]/svg[@class=&quot;sapMRbSvg&quot;]/circle[@class=&quot;sapMRbBInn&quot;]</value>
+      <webElementGuid>b9324614-2f18-4e46-ba78-8eeb9debcc0d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

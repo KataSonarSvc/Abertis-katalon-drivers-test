@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anexos___item34-application-ZPM_SMART-G_073089</name>
+   <tag></tag>
+   <elementGuidId>830e1781-7a21-4401-8a61-23dfe7528e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, '-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable') and contains(@id, '-selectMulti') and @role=&quot;checkbox&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__item34-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable-0-selectMulti-CbBg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>733070eb-3d51-4e7f-bb09-bb9b42e4cc40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__item34-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable-0-selectMulti-CbBg</value>
+      <webElementGuid>bf85a109-3349-410b-8c64-6f52200d43c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>d4fe4354-8c25-4bd7-b33c-c19fb039af5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item34-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable-0-selectMulti-CbBg&quot;)</value>
+      <webElementGuid>d8a12cf5-71b5-4cad-b31f-0dc9acfb1472</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__item34-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable-0-selectMulti-CbBg']</value>
+      <webElementGuid>498263f8-4c57-4011-a254-1e95a6ac839f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item34-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable-0-selectMulti']/div</value>
+      <webElementGuid>e6eb1462-2331-4304-aadc-ba67fa4efdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anexos'])[2]/following::div[2]</value>
+      <webElementGuid>93078cbc-e09a-44b9-a83c-bbe645f04dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puntos de medida'])[1]/following::div[3]</value>
+      <webElementGuid>cc62d8f5-956a-41ac-ad96-9f62f95b3232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[2]/preceding::div[4]</value>
+      <webElementGuid>104154e0-6009-4df2-a9f2-0d950f405ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXT00107'])[2]/preceding::div[11]</value>
+      <webElementGuid>06dbc765-c5d6-4935-80a7-812e2beafabf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/table/tbody/tr/td[2]/div/div</value>
+      <webElementGuid>a0dc791f-b107-4766-b6fe-190b56fce4b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__item34-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable-0-selectMulti-CbBg']</value>
+      <webElementGuid>bae09fe0-57d9-4da5-bda2-db50bb9e99fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

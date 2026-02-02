@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DATA MM SOLICITUD PEDIDO SOLICITUD INFORMACION</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>ea27e872-10e2-4a76-861e-c7994fbd9122</dataFileGUID>
+   <dataSourceUrl>Data Files/Excel/COMPRAS/APROBACIONES/DATA MM SOLICITUD PEDIDO SOLICITUD INFORMACIÓN.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

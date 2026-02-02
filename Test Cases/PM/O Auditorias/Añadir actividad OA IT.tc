@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Añadir actividad OA IT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b50938f-2de6-4e1c-afc3-a05e7e45944c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>25266981-7ea0-499d-b269-b4b560cb24cd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0849b721-7c9b-46f9-8bbd-67e14990746b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25266981-7ea0-499d-b269-b4b560cb24cd</id>
+      <masked>false</masked>
+      <name>orden</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0849b721-7c9b-46f9-8bbd-67e14990746b</id>
+      <masked>false</masked>
+      <name>chtstst</name>
+   </variable>
+</TestCaseEntity>

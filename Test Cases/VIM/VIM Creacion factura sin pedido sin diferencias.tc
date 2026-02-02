@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VIM Creacion factura sin pedido sin diferencias</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>422fd570-f030-4bbc-8b38-1b97f5e11457</testCaseGuid>
+</TestCaseEntity>

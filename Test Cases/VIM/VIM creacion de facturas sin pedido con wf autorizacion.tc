@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VIM creacion de facturas sin pedido con wf autorizacion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04b5d0e2-eef8-4f50-bc0a-5216d659a972</testCaseGuid>
+</TestCaseEntity>

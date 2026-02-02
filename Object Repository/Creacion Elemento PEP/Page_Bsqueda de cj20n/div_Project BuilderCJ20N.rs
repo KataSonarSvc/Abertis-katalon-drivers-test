@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Project BuilderCJ20N</name>
+   <tag></tag>
+   <elementGuidId>4b585ec5-fc72-4a57-abc3-2e76c8bf83d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tile12']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMGTHdrContent.OneByOne</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de13a021-8db4-4f3c-a051-8f33758ab6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMGTHdrContent OneByOne</value>
+      <webElementGuid>a148bfb7-2124-4222-9142-b7b72ad0798a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Project BuilderCJ20N</value>
+      <webElementGuid>92f90471-25eb-4a23-9319-9649f2ef0378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile12&quot;)/div[@class=&quot;sapMGTHdrContent OneByOne&quot;]</value>
+      <webElementGuid>e17991ed-1b7f-43bc-ad2d-9fb176a2ddc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tile12']/div</value>
+      <webElementGuid>00f1ef1a-28e1-4f22-8f32-aab885f52317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[2]/following::div[9]</value>
+      <webElementGuid>3c6b97fb-5ec4-4da1-babc-e976c4dda108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[4]/following::div[11]</value>
+      <webElementGuid>7c3d4e90-dc2c-4389-af44-83cbda72bcdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>4c7ec952-73f5-4fa2-b702-d39f0920a998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Project BuilderCJ20N' or . = 'Project BuilderCJ20N')]</value>
+      <webElementGuid>6c9997a2-b204-4871-816e-292c17500601</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

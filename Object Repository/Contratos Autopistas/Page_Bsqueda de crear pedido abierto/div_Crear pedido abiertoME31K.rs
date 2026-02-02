@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Crear pedido abiertoME31K</name>
+   <tag></tag>
+   <elementGuidId>ecfdcd9c-9fc6-45de-911e-d4dcecbc468b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMGTHdrContent.OneByOne</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__tile11']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c188bd23-89cd-4e01-becd-b3aaf755ad5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMGTHdrContent OneByOne</value>
+      <webElementGuid>11786da4-bec2-4565-b6e3-5a9f04cdf069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Crear pedido abiertoME31K</value>
+      <webElementGuid>849517f7-e03e-4d66-b129-31eb723f545f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile11&quot;)/div[@class=&quot;sapMGTHdrContent OneByOne&quot;]</value>
+      <webElementGuid>6e5b114a-58b4-4ae5-a511-8f69f0c01483</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__tile11']/div</value>
+      <webElementGuid>d301ba58-3a16-482c-8079-ee171161608c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[1]/following::div[9]</value>
+      <webElementGuid>79be0e37-06e0-4165-9804-23e29fba28af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[10]/following::div[11]</value>
+      <webElementGuid>006c5c63-74c4-4979-b91c-e606cc9ae955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>f16c8087-bcc0-4586-b540-c06632cc7c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Crear pedido abiertoME31K' or . = 'Crear pedido abiertoME31K')]</value>
+      <webElementGuid>b238c40b-2ad3-4e97-963a-9fcfaddb8d28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

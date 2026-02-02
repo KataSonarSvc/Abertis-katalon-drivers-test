@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Creare Ticket</name>
+   <tag></tag>
+   <elementGuidId>c7a2ec0b-4339-441b-ab1f-afceea1fe1bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview2--planificacionStep-nextButton-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(@id, '--planificacionStep-nextButton')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>98295b83-3b6b-4c80-8fde-a473ecef735f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__xmlview2--planificacionStep-nextButton-BDI-content</value>
+      <webElementGuid>586f8f4e-66df-49f8-a6e5-1cb368895196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>62697665-de20-4423-b3f3-1806980e3050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Creare Ticket</value>
+      <webElementGuid>526455f7-2a82-4083-bc05-106cf9f43a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview2--planificacionStep-nextButton-BDI-content&quot;)</value>
+      <webElementGuid>81821af7-bca0-4791-b148-8f809a3ca532</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='__xmlview2--planificacionStep-nextButton-BDI-content']</value>
+      <webElementGuid>71a2a69b-209a-44b0-bbf5-13728ecb139f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview2--planificacionStep-nextButton-content']/bdi</value>
+      <webElementGuid>1247b2d7-7f1b-4ab9-8647-0e3cbccb9f98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aggiungi'])[1]/following::bdi[1]</value>
+      <webElementGuid>edb1c91c-7f54-4d78-819a-c7ebed8eef22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allegati (0)'])[1]/following::bdi[2]</value>
+      <webElementGuid>03045ac7-8f27-4156-bc76-e560aeb5a28a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Creare Ticket']/parent::*</value>
+      <webElementGuid>cda67c44-f1af-4c9f-af75-16f1c83c5a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button/span/span/bdi</value>
+      <webElementGuid>be170f20-a0eb-4591-bdb6-626fcca878ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = '__xmlview2--planificacionStep-nextButton-BDI-content' and (text() = 'Creare Ticket' or . = 'Creare Ticket')]</value>
+      <webElementGuid>ba3b6f8e-7b80-4c25-af7a-9f068c95123c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Passo 2</name>
+   <tag></tag>
+   <elementGuidId>b03444e3-3c21-4719-8d26-b301d60b5385</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[substring-after(@id, '--') = 'selectionEquipmentStep-nextButton']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview2--selectionEquipmentStep-nextButton-BDI-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>a800aa81-53bf-4480-8907-533c3abdff56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__xmlview2--selectionEquipmentStep-nextButton-BDI-content</value>
+      <webElementGuid>038ed2f3-5ffb-445e-91e4-787ceee15f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>bd0a9dc0-be45-4625-823a-cfff786f6a15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passo 2</value>
+      <webElementGuid>caead230-b2f6-4655-b64f-d3cce6792fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview2--selectionEquipmentStep-nextButton-BDI-content&quot;)</value>
+      <webElementGuid>ef4b1063-35ef-4a12-b4eb-f09f8f50f6fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='__xmlview2--selectionEquipmentStep-nextButton-BDI-content']</value>
+      <webElementGuid>8ecae793-8e4a-425c-9a54-829f48d67a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview2--selectionEquipmentStep-nextButton-content']/bdi</value>
+      <webElementGuid>1002715a-7670-4122-bcc6-8c0a78f32a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Di più'])[1]/following::bdi[1]</value>
+      <webElementGuid>f8998d6d-8e5f-472c-810d-bae87cc93b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sì'])[1]/following::bdi[1]</value>
+      <webElementGuid>1d08ef28-7e8c-4402-89ac-52c84e9a70be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo ticket'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>3b644524-9459-44b9-9364-50a3c1271680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Passo 2']/parent::*</value>
+      <webElementGuid>e8cd78e2-5e99-45f7-b6cd-3aa00c7ab9e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span/span/bdi</value>
+      <webElementGuid>9b16d448-2c9a-4dc1-91ac-da004e3c7e7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = '__xmlview2--selectionEquipmentStep-nextButton-BDI-content' and (text() = 'Passo 2' or . = 'Passo 2')]</value>
+      <webElementGuid>ef13c89c-3a09-4b69-9760-90790fd5eba0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

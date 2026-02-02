@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_C_lsTbsPanelLeftBtns lsMirrorRtl lsRespo_d16270</name>
+   <tag></tag>
+   <elementGuidId>89f4223d-276c-4b98-beea-a9954c496e2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='M0:46:1:1:2:2:1']/tbody/tr/td/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.lsTbsPanelLeftBtns.lsMirrorRtl.lsResponsivePaddingRight</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>1c9323c0-d73d-495f-b35e-9acb255f4e06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsTbsPanelLeftBtns lsMirrorRtl lsResponsivePaddingRight</value>
+      <webElementGuid>aaa21a9b-0542-4940-9f4e-188158ed16c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>fa1477ed-86a2-4e7f-af31-2bab8e4c599c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1:1:2:2:1&quot;)/tbody[1]/tr[1]/td[@class=&quot;lsTbsPanelCnt&quot;]/table[@class=&quot;lsTabStrip--scrollable&quot;]/tbody[1]/tr[1]/td[@class=&quot;lsTbsPanelLeftBtns lsMirrorRtl lsResponsivePaddingRight&quot;]</value>
+      <webElementGuid>57462d0e-f657-4b3c-9288-8468974a9ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/BP Crear Proveedor New ID/Page_Crear Organizacin Rol ProveedorDatos Sociedad/iframe_Ms_application-BusinessPartner-creat_97ef72</value>
+      <webElementGuid>432f3fc0-24c1-4484-bcfe-6b5506db1c82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='M0:46:1:1:2:2:1']/tbody/tr/td/table/tbody/tr/td</value>
+      <webElementGuid>ac666d0b-4454-407d-9b5e-ae3d3a471607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C'])[2]/following::td[4]</value>
+      <webElementGuid>65277083-ecd7-48fe-af01-48796f6c9e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dirección'])[1]/preceding::td[1]</value>
+      <webElementGuid>62651593-23e8-433f-8aa4-3aa9dc7abd92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resumen dirección'])[1]/preceding::td[1]</value>
+      <webElementGuid>71a8373e-4a7b-43c5-b0fe-012d207761ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td</value>
+      <webElementGuid>e0aa49de-7953-4991-8eac-811945e9171f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

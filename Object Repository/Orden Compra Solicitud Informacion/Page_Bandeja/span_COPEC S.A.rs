@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_COPEC S.A</name>
+   <tag></tag>
+   <elementGuidId>3c5a4f48-5365-45d1-89d5-8add4c74afe7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38b000a6-8700-48c6-a184-2d945e3b8813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText-inner</value>
+      <webElementGuid>ea247ddc-5f0b-44c9-8ae4-2908206f8ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>8a15d131-9093-47d5-85ab-ba6869381ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COPEC S.A.</value>
+      <webElementGuid>2c35be44-aaea-49ef-bad0-a76f1943f267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText-inner&quot;)</value>
+      <webElementGuid>e58ef685-6470-4053-9993-efe71dadfe62</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText-inner']</value>
+      <webElementGuid>b9af16ca-800d-4afd-8d33-2c6a37d1bc44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText']/span</value>
+      <webElementGuid>fe3bd58f-e14e-4df5-b580-4b20d3daf464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resaltado'])[2]/following::span[2]</value>
+      <webElementGuid>bb7b4a55-cdc1-4cca-a20c-8ef02ba794a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selección múltiple'])[1]/following::span[6]</value>
+      <webElementGuid>db3ae44f-d245-4c82-a37d-889729e6840a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPERAVÍAS SpA.'])[1]/preceding::span[1]</value>
+      <webElementGuid>6cbada11-acc6-46e7-85fa-37c18a3f3807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ma_mtorofri'])[1]/preceding::span[3]</value>
+      <webElementGuid>c3b6f1ca-dbdc-456f-a8e0-c7b371d0a3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='COPEC S.A.']/parent::*</value>
+      <webElementGuid>52903d7a-cc54-4126-a122-3547636d30f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span</value>
+      <webElementGuid>a63dac98-75bd-443c-af91-33f87ce87424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-3-titleText-inner' and (text() = 'COPEC S.A.' or . = 'COPEC S.A.')]</value>
+      <webElementGuid>4bcfbcfd-6550-4bd0-bbc7-999f0a6450a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

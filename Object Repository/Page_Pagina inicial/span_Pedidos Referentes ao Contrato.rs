@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pedidos Referentes ao Contrato</name>
+   <tag></tag>
+   <elementGuidId>f44b151d-04ca-4917-b532-15927a0dd314</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile5-title-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile5-title-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c266dfcb-940a-4eb4-a418-f1129856d98d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__tile5-title-inner</value>
+      <webElementGuid>27401218-c888-4b44-b355-95684f048485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>2aed2b38-b7cc-4bb9-bf2b-e1201b5b8035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pedidos Referentes ao Contrato</value>
+      <webElementGuid>db00987f-4303-429d-9475-265ad84e63f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile5-title-inner&quot;)</value>
+      <webElementGuid>edb18008-ab29-4052-8b05-61ca7b619de5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__tile5-title-inner']</value>
+      <webElementGuid>c3b66d90-172d-441f-bd2b-920baae9e29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile5-title']/span</value>
+      <webElementGuid>d8554914-df26-4f1c-aba9-8627295641c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criação'])[2]/following::span[2]</value>
+      <webElementGuid>cd985e9b-4fd5-40df-8edd-f6cd59aa5a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baixa Quantidade'])[1]/following::span[3]</value>
+      <webElementGuid>4da70ea7-9c87-42f8-b636-4038d8d2a3a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consumo de Contratos'])[1]/preceding::span[1]</value>
+      <webElementGuid>90757557-8669-409e-890f-ce8a35035528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Criação'])[3]/preceding::span[3]</value>
+      <webElementGuid>f3be6f3b-e5d9-4ce2-9b57-1f11f42fd959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pedidos Referentes ao Contrato']/parent::*</value>
+      <webElementGuid>51dbc4b9-4048-4928-80e1-09cc954dbddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li[3]/div/a/div/div/div/div/span/span</value>
+      <webElementGuid>29f765c6-1ff7-4e07-a6fd-1bc6f7650c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__tile5-title-inner' and (text() = 'Pedidos Referentes ao Contrato' or . = 'Pedidos Referentes ao Contrato')]</value>
+      <webElementGuid>38feb1da-6503-4851-a558-6f26a3bdb2e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

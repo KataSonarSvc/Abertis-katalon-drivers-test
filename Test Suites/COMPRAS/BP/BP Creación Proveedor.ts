@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>BP Creación Proveedor</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>fe6cdb31-f4a3-4529-96a6-95ee41d00d47</testSuiteGuid>
+   <testCaseLink>
+      <guid>c40ef9de-0a1d-45d2-a39e-a5db3bbc115a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Compras/BP Crear Proveedor New id</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d807162e-d09e-43f0-b651-fe9b8d9da567</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/COMPRAS/BP/BP Crear Proveedor</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NOMBRE</value>
+         <variableId>2ef83a7b-6e65-46b7-af16-b0c847df4ffd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CONC.BUSQ 1/2</value>
+         <variableId>d21673e1-564a-4bcb-bb2f-c821e964a5c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PAIS</value>
+         <variableId>a8ab243e-4650-4c45-aec4-9f4a527a0583</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CALLE</value>
+         <variableId>4e77ed0b-8a26-4c22-9ecb-3910fbaf2a33</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NUM</value>
+         <variableId>0947d2a7-3914-49fe-8ad7-1f8e36709447</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>COD POSTAL</value>
+         <variableId>9643b19d-611f-4fac-a848-d5e9dc6a3b1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>POBLACIÓN</value>
+         <variableId>f618e7b6-ae11-4a9a-afea-680fa64f7d74</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TIPO</value>
+         <variableId>4b7e3934-bb22-439a-a8e7-c1f41c6d462f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIF LARGO</value>
+         <variableId>24c8c3ef-0423-4bb3-b0d3-e74fd767b2ad</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CLASE IMPUESTO</value>
+         <variableId>9d2d6b23-1a2b-4ebd-8192-381c310074fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TIPO NIF</value>
+         <variableId>0acd9e6d-62a4-4e75-bee7-e9d0418acff9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d807162e-d09e-43f0-b651-fe9b8d9da567</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>REGIÓN</value>
+         <variableId>f8692729-e702-495e-b98a-94354dbd22d0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

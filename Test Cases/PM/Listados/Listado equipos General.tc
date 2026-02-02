@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado equipos General</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30fbe345-7e36-452c-9138-be1a44995a57</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3aeb84e5-4c11-465f-a36d-ab76f6b45a86</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3aeb84e5-4c11-465f-a36d-ab76f6b45a86</id>
+      <masked>false</masked>
+      <name>equipo</name>
+   </variable>
+</TestCaseEntity>

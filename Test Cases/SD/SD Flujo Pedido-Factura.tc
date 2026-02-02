@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SD Flujo Pedido-Factura</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e2430a6-854d-49d8-ade9-7f52eae83464</testCaseGuid>
+</TestCaseEntity>

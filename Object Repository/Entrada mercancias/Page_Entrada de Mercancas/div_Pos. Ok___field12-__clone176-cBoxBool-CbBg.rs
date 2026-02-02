@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pos. Ok___field12-__clone176-cBoxBool-CbBg</name>
+   <tag></tag>
+   <elementGuidId>3a1ac014-f08d-4836-a600-a5b6e57654aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__field12-__clone176-cBoxBool-CbBg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__field12-__clone176-cBoxBool-CbBg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d0252cf-ff99-446c-9747-0a54b4407d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__field12-__clone176-cBoxBool-CbBg</value>
+      <webElementGuid>14b1f506-2fe9-4203-98d2-c3b1d51a46d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbMark</value>
+      <webElementGuid>b988da88-aeee-4449-a352-747e430682e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__field12-__clone176-cBoxBool-CbBg&quot;)</value>
+      <webElementGuid>1e3beaf6-ca4c-411b-bd0e-c967701ca3a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__field12-__clone176-cBoxBool-CbBg']</value>
+      <webElementGuid>98b851d5-646d-401d-a051-680774be103a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__field12-__clone176-cBoxBool']/div</value>
+      <webElementGuid>d396915f-08ec-466d-a0a5-9dde81b3848a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pos. Ok'])[1]/following::div[4]</value>
+      <webElementGuid>43c9ce60-1bc2-47b3-a8ec-80f838ff2290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega Final'])[1]/following::div[12]</value>
+      <webElementGuid>2fb7e9d8-f9f9-42af-9b6d-17ef15ccbd31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMBUSTIBLE OP ANDES 2024'])[2]/preceding::div[4]</value>
+      <webElementGuid>b1a15764-ed16-4159-9c4d-b2eb15465c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cant. Pedido'])[2]/preceding::div[6]</value>
+      <webElementGuid>bc9d77f1-d9f8-4bd6-aebe-40861d4efb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/span/div/div/div</value>
+      <webElementGuid>2069ef2e-c8f7-468a-8308-0af7256543aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__field12-__clone176-cBoxBool-CbBg']</value>
+      <webElementGuid>64bdc727-17cb-41e3-a8bc-0fd983d2baf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

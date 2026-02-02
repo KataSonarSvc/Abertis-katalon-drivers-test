@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Este ao</name>
+   <tag></tag>
+   <elementGuidId>933f4e92-ad01-437e-ba39-8e3b989249ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content > div.sapMSLIDiv > div.sapMSLITitleOnly</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>477bced8-a776-4963-a8bd-69c7cd1381d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLITitleOnly</value>
+      <webElementGuid>e7f0124f-0719-4f73-a56d-313dbdbd1018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Este año</value>
+      <webElementGuid>a7614fa0-9fee-41c6-a53c-0d5d58259b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content&quot;)/div[@class=&quot;sapMSLIDiv&quot;]/div[@class=&quot;sapMSLITitleOnly&quot;]</value>
+      <webElementGuid>57fdc2f7-ab8d-4ab7-b32f-e2a71fe2e0bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-ZPM_SMART-GESTICKET-component---main--smartFilterBar-filterItemControlA_-StartDate-option-THISYEAR-content']/div/div</value>
+      <webElementGuid>b232841f-cb68-47b5-9e6d-c68eed17a969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Años'])[1]/following::div[3]</value>
+      <webElementGuid>9566a0c3-5d2c-4e27-866a-c6f406f2c25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuarto trimestre'])[1]/following::div[4]</value>
+      <webElementGuid>7f717f97-1180-4624-8fc9-f60807bf7d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Último año'])[1]/preceding::div[1]</value>
+      <webElementGuid>d800bee5-dd43-444c-bf87-d9a291ab22b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[33]/div/div/div</value>
+      <webElementGuid>66fafb69-1c08-453b-b294-98a636c479d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Este año' or . = 'Este año')]</value>
+      <webElementGuid>073984d3-9688-44d4-b8ec-8834c1f2b59a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

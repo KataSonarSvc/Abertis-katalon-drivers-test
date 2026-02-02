@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado Gestión orden correctivo Filtros y Export</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1213a347-31ca-4fa0-8518-8dc3900b4f67</testCaseGuid>
+</TestCaseEntity>

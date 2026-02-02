@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Report mantenimiento programado</name>
+   <tag></tag>
+   <elementGuidId>0334764d-9aa7-4c50-9d9a-dafc82b8392b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile19-title-inner > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile19-title-inner']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c466aeab-e0bb-43ac-bc29-397c70a3922b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report mantenimiento programado</value>
+      <webElementGuid>889b22d5-3157-4b3c-8619-b66d959848c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile19-title-inner&quot;)/span[1]</value>
+      <webElementGuid>a9db183a-9d19-471b-bfad-d23194e3bff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile19-title-inner']/span</value>
+      <webElementGuid>9310466d-66c6-4bc6-8710-ba0ef14431a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrar detalles'])[2]/following::span[6]</value>
+      <webElementGuid>a984bb38-8971-4fec-9ebb-cc5a336d05de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[15]/following::span[9]</value>
+      <webElementGuid>d0a306b1-12e2-4944-9677-0aeaa6be468b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZPM_PREV'])[1]/preceding::span[1]</value>
+      <webElementGuid>834ebd75-ed6b-46d4-b3f2-3a4f2abc48a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Report mantenimiento programado']/parent::*</value>
+      <webElementGuid>cf897cb1-5eb0-441d-87b5-cf58fea38663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div/span/span/span</value>
+      <webElementGuid>af14942b-2438-46f5-a8a8-2b7f95c05b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Report mantenimiento programado' or . = 'Report mantenimiento programado')]</value>
+      <webElementGuid>d84f7279-4366-450e-8a31-81b7915f9006</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

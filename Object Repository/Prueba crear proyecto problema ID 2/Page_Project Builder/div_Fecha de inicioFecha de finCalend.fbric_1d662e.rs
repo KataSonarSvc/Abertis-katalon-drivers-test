@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fecha de inicioFecha de finCalend.fbric_1d662e</name>
+   <tag></tag>
+   <elementGuidId>62b77a62-7ff5-41d4-829b-30a1adea5db3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:1:4:1:2B256::8:0-scrl-cnt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>235ec11f-a30c-4d07-8df3-b2730831406b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:1:4:1:2B256::8:0-scrl-cnt</value>
+      <webElementGuid>3bf6276d-576a-4cf4-be8f-d7e4119c3f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height  urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>7deee462-3c9d-46a2-bdd0-296eead15b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fecha de inicioFecha de finCalend.fábricaUnidad tiempo</value>
+      <webElementGuid>0d33a65c-c01c-4e26-996c-21c760463818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1:4:1:2B256::8:0-scrl-cnt&quot;)</value>
+      <webElementGuid>a79cfe8c-ff49-4b45-a8b5-6b368d46dfed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Prueba crear proyecto problema ID 2/Page_Project Builder/iframe_Ms_application-Project-process-iframe</value>
+      <webElementGuid>d5753d42-316d-4f2f-a458-867292378d97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1:4:1:2B256::8:0-scrl-cnt']</value>
+      <webElementGuid>f1da75ff-42da-4a56-a8b1-c49ffbfd25c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1:4:1:2B256::8:0-scrl']/div</value>
+      <webElementGuid>49692ce4-e95e-4c8f-889c-3bae8927c52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fechas'])[1]/following::div[2]</value>
+      <webElementGuid>0bd0cdfc-42bf-4dab-8d0c-f63cb7c0c686</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[4]/following::div[4]</value>
+      <webElementGuid>c6ba5914-f4c2-4888-8169-1ae64be21a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr[2]/td/table/tbody/tr/td/div/div</value>
+      <webElementGuid>e037c15f-2995-434f-a7b3-fc569efd8806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:1:4:1:2B256::8:0-scrl-cnt' and (text() = 'Fecha de inicioFecha de finCalend.fábricaUnidad tiempo' or . = 'Fecha de inicioFecha de finCalend.fábricaUnidad tiempo')]</value>
+      <webElementGuid>166533f3-6ecd-4a4b-9734-4f178086ed0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

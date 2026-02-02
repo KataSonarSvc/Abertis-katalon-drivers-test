@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Orden Compra Rechazo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68679d74-4168-4e63-b6b2-732411e7284a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2723732-7948-466f-812b-f5953d869630</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81bf202e-7a7e-410e-be2f-cf9d9bb18bc1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2723732-7948-466f-812b-f5953d869630</id>
+      <masked>false</masked>
+      <name>num_pedido</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>81bf202e-7a7e-410e-be2f-cf9d9bb18bc1</id>
+      <masked>false</masked>
+      <name>texto_decision</name>
+   </variable>
+</TestCaseEntity>

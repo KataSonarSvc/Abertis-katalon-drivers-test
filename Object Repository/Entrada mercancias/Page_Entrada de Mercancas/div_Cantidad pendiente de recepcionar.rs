@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cantidad pendiente de recepcionar</name>
+   <tag></tag>
+   <elementGuidId>d0e4cc12-15ef-495a-85e2-7e3a6eff363a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--template:::ObjectPageTable:::ColumnListItem:::sFacet::to_PosPedido::com.sap.vocabularies.UI.v1.LineItem-__clone176-subcont']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1de3abe9-dcd6-4a2e-9a37-a8ca2d84ce66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMListTblSubCntRow sapMListTblSubCntRowInline</value>
+      <webElementGuid>4969bb7f-e0b2-4856-a328-fd2e32277b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cantidad pendiente de recepcionar</value>
+      <webElementGuid>a3f07612-109b-48ac-87b3-8f6194298a32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--template:::ObjectPageTable:::ColumnListItem:::sFacet::to_PosPedido::com.sap.vocabularies.UI.v1.LineItem-__clone176-subcont&quot;)/div[@class=&quot;sapMListTblSubCntRow sapMListTblSubCntRowInline&quot;]</value>
+      <webElementGuid>b8794b7b-86ca-4608-9b87-f8155042d245</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='com.abertis.mm.zgrdesdepo::sap.suite.ui.generic.template.ObjectPage.view.Details::ZC_PEDIDOSCOMPRA--template:::ObjectPageTable:::ColumnListItem:::sFacet::to_PosPedido::com.sap.vocabularies.UI.v1.LineItem-__clone176-subcont']/div[3]</value>
+      <webElementGuid>db1559a5-fba3-4c58-8f0a-1584c87c91a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cantidad recepcionada'])[1]/following::div[3]</value>
+      <webElementGuid>2786dfd4-6a93-4f6f-93d1-f6cb2317e571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cant. Pedido'])[1]/following::div[8]</value>
+      <webElementGuid>82d8d099-3d96-4d8b-957b-5cdcdf84f3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega Final'])[1]/preceding::div[7]</value>
+      <webElementGuid>72c77da8-68be-490b-ba5c-92c9fe8b6bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div[3]</value>
+      <webElementGuid>f430cc33-b0b9-47fa-b020-050890670c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cantidad pendiente de recepcionar' or . = 'Cantidad pendiente de recepcionar')]</value>
+      <webElementGuid>3fafda72-4fe9-4f2e-a434-0c3019680edc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

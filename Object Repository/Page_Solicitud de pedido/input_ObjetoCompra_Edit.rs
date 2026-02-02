@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ObjetoCompra_Edit</name>
+   <tag></tag>
+   <elementGuidId>977f7fb3-c795-49a9-a48e-802ea935cb01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>section[1]/div[2]/div/div[1]/div/div/div/div/div/div/div/div[3]/div/div/div/div[2]/div/div/textarea</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

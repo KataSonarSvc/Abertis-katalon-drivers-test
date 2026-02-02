@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Plan mant.preventivo</name>
+   <tag></tag>
+   <elementGuidId>2077d7ff-7d81-4684-8bbe-e51cbcf55603</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='grid#C105#0,1#cp1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be82bd55-90ab-4d65-8ffd-aa7526a57c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>grid#C105#0,1#cp1</value>
+      <webElementGuid>038ebc4e-fb8f-4167-9628-9f8f3b39812e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ct</name>
+      <type>Main</type>
+      <value>CP</value>
+      <webElementGuid>bc968855-82af-45a0-a864-f7da450273ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>lsdata</name>
+      <type>Main</type>
+      <value>{&quot;0&quot;:&quot;Plan mant.preventivo&quot;,&quot;1&quot;:&quot;Plan mant.preventivo&quot;,&quot;6&quot;:false}</value>
+      <webElementGuid>8447e5ee-d0ce-42ad-8103-7ed411d84955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Plan mant.preventivo</value>
+      <webElementGuid>7e57e7e0-5ef7-4a24-83d3-5bba0c209c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>  lsCaption--embedded</value>
+      <webElementGuid>268d9a02-b270-4bfc-af5e-34c5da83846c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Plan mant.preventivo</value>
+      <webElementGuid>13f62d79-16d1-4fc8-b37c-8412ccda1b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grid#C105#0,1#cp1&quot;)</value>
+      <webElementGuid>0bacb187-937e-4a4e-887c-96ee36799d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/PM Listado ZPM_PREV_MAINT.NEW ID/Page_Report mantenimiento programado/iframe_Ms_application-zgui_zpm_prev_maint-c_997e30</value>
+      <webElementGuid>4a643c3a-bf53-4fe6-b1ae-9c1d497e0b88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='grid#C105#0,1#cp1']</value>
+      <webElementGuid>1b02d07d-d5c1-4105-8198-218da2f3d399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='grid#C105#0,1-CONTENT-1']/span</value>
+      <webElementGuid>2d1f7edd-fece-4247-82f7-41e93e069efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F'])[1]/following::span[5]</value>
+      <webElementGuid>8300e1f2-15a8-4fd2-9fa6-37af04752f3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plan mant.prev.'])[1]/preceding::span[1]</value>
+      <webElementGuid>70cc1e41-aa48-4b13-af03-90116cc64c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pl.MantPrv'])[1]/preceding::span[3]</value>
+      <webElementGuid>7fceab97-feaa-4fd5-9ab4-0ba2f251c763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Plan mant.preventivo']/parent::*</value>
+      <webElementGuid>e9012184-0555-4206-890c-ae4b38418775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/span/span</value>
+      <webElementGuid>241c2f93-40ce-4023-b885-74d091572f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'grid#C105#0,1#cp1' and @title = 'Plan mant.preventivo' and (text() = 'Plan mant.preventivo' or . = 'Plan mant.preventivo')]</value>
+      <webElementGuid>ae0dcbc4-c42a-44be-ad90-83ce66401df6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

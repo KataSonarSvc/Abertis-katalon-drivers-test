@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Date de livraison estime___item278-__cl_43ff89</name>
+   <tag></tag>
+   <elementGuidId>2bd9d43e-ab3b-4fa6-bdb4-22a30add2357</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item278-__clone457-selectMulti-CbBg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__item278-__clone457-selectMulti-CbBg']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9173c0a1-bc81-445f-9753-db689a524c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__item278-__clone457-selectMulti-CbBg</value>
+      <webElementGuid>8b253f0b-090d-40d6-a2b7-0dfeaba4a5e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMCbBg sapMCbHoverable sapMCbActiveStateOff sapMCbMark</value>
+      <webElementGuid>02292d7d-16f2-415a-a319-40af9564f44d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item278-__clone457-selectMulti-CbBg&quot;)</value>
+      <webElementGuid>ddd2a660-3dc9-4ae5-9157-28275e43011c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__item278-__clone457-selectMulti-CbBg']</value>
+      <webElementGuid>25febdbb-26e8-42a2-ad2c-c1c5b6c697e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item278-__clone457-selectMulti']/div</value>
+      <webElementGuid>09a3ad45-3ad3-4ced-9669-b67dd13a81a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date de livraison estimée'])[1]/following::div[3]</value>
+      <webElementGuid>b3c108a7-9b12-4fd2-af88-28d9d36c2ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='inconnu (U)'])[1]/following::div[6]</value>
+      <webElementGuid>1f29c817-6d4d-445d-b704-12307845d298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mis en surbrillance'])[6]/preceding::div[6]</value>
+      <webElementGuid>7d46fd04-d138-4306-8920-8f0a8f7a68df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Statut de valeur Avertissement'])[2]/preceding::div[6]</value>
+      <webElementGuid>42200ed8-1108-4ae9-acb0-415f3724e710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/div/div</value>
+      <webElementGuid>e0cefce3-ba9f-4b7c-ae9e-485c703dbd5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__item278-__clone457-selectMulti-CbBg']</value>
+      <webElementGuid>5ced6d4e-6cc2-489f-80e8-5cc5b6e57eba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

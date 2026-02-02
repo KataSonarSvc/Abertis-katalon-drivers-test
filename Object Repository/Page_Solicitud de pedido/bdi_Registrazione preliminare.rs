@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Registrazione preliminare</name>
+   <tag></tag>
+   <elementGuidId>e9ffdd12-68fa-4b70-b825-98902cd88a31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaserequisition-createTP-component---detail--saveDraftButton-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='application-zpurchaserequisition-createTP-component---detail--saveDraftButton-BDI-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>aeec5ee4-9a9a-44b2-892d-0eb96e795600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaserequisition-createTP-component---detail--saveDraftButton-BDI-content</value>
+      <webElementGuid>368b8f6d-6764-4dc8-87ff-3411aed879b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registrazione preliminare</value>
+      <webElementGuid>7318ca4a-15e7-48bc-9a46-c09835059a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaserequisition-createTP-component---detail--saveDraftButton-BDI-content&quot;)</value>
+      <webElementGuid>d692fafd-27aa-4754-b154-428c6d48413c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='application-zpurchaserequisition-createTP-component---detail--saveDraftButton-BDI-content']</value>
+      <webElementGuid>ac06b40d-de28-4d98-a170-b86e475acd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaserequisition-createTP-component---detail--saveDraftButton-content']/bdi</value>
+      <webElementGuid>348265e1-a0c6-4adb-96eb-5ba10e1e74fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Più'])[2]/following::bdi[2]</value>
+      <webElementGuid>a9c0b18e-a9f9-4a3e-8dd3-dff92f4b1598</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostra di più'])[1]/following::bdi[3]</value>
+      <webElementGuid>5d63c81a-d50c-4ce6-b36a-33188f8e1d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancellare'])[2]/preceding::bdi[1]</value>
+      <webElementGuid>58c66b8a-9b07-42a9-a94e-5df74db22e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprimi prima colonna'])[1]/preceding::bdi[2]</value>
+      <webElementGuid>728055da-57f0-4aa2-9396-0a8016d82a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Registrazione preliminare']/parent::*</value>
+      <webElementGuid>e4e40bb2-f1c6-4503-ac3c-890be45f65e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/button[2]/span/span/bdi</value>
+      <webElementGuid>e76f280f-bfc3-45b4-bba4-39d779057d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'application-zpurchaserequisition-createTP-component---detail--saveDraftButton-BDI-content' and (text() = 'Registrazione preliminare' or . = 'Registrazione preliminare')]</value>
+      <webElementGuid>3044d8c2-ecbb-4355-aa92-adcbd5c30874</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

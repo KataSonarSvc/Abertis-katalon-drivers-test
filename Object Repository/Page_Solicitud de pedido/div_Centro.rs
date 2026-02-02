@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Centro</name>
+   <tag></tag>
+   <elementGuidId>fd134d36-f500-425c-a63d-f60f2a54405f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div[1]/div/div/div/div/section/div/div[2]/div/section[2]/section[2]/div[2]/div/div[1]/div/div/div/table/tbody/tr/td[4]/div/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog17-table-rows-row1-col0 > div.sapUiTableCellInner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f4e261b-e1cd-4acb-b449-6fbc26074680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner</value>
+      <webElementGuid>0f38e971-6e2b-43ca-829a-907cd0175eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2561</value>
+      <webElementGuid>02f44744-2399-4d45-928f-2091bd8650d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog17-table-rows-row1-col0&quot;)/div[@class=&quot;sapUiTableCellInner&quot;]</value>
+      <webElementGuid>c855a132-cead-400a-ac8d-63135a51a048</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

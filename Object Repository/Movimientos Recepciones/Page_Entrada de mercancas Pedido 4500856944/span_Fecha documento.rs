@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fecha documento</name>
+   <tag></tag>
+   <elementGuidId>1c1f8540-7fa8-4755-bd80-edbbed896507</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='M0:46:1:2:1:1:2B256::0:0-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d5967b74-8f86-46fb-a14e-0c48b7178d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:1:2:1:1:2B256::0:0-text</value>
+      <webElementGuid>fb97134f-53a1-41a8-a2f3-09bcd77e177b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsLabel__text lsLabel__text--overflow</value>
+      <webElementGuid>d42fbdd9-3c42-4283-8cfc-67a9e57dc93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fecha documento</value>
+      <webElementGuid>ed1208d4-0d90-4f84-8094-6e98887f8fd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1:2:1:1:2B256::0:0-text&quot;)</value>
+      <webElementGuid>3b15b762-f22f-49a1-9283-c704c0662391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Movimientos Recepciones/Page_Entrada de mercancas Pedido 4500856944/iframe_Ms_application-Material-goodsReceipt-iframe</value>
+      <webElementGuid>4dfaf1b6-01ca-4ada-8330-a8d1419ee11b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='M0:46:1:2:1:1:2B256::0:0-text']</value>
+      <webElementGuid>e37ad338-331a-45e1-af7e-425a4b8ee835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='M0:46:1:2:1:1:2B256::0:0']/span</value>
+      <webElementGuid>79ab1097-a224-4a96-a8a5-3abb0b9a0d88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaluación proveedor'])[1]/following::span[5]</value>
+      <webElementGuid>63f8b595-6a4f-4cd4-8f3f-68cc78a678c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proveedor'])[1]/following::span[6]</value>
+      <webElementGuid>ff272222-e341-4cb9-b1a0-3b2aaea82124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='echa documento']/parent::*</value>
+      <webElementGuid>7bf8347f-65ec-43a2-8803-c1c684ce40c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/div/span/label/span</value>
+      <webElementGuid>322a9f24-e969-4f5f-a808-03a8b8e0da86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'M0:46:1:2:1:1:2B256::0:0-text' and (text() = 'Fecha documento' or . = 'Fecha documento')]</value>
+      <webElementGuid>e7e08d0c-5f0d-40a9-9755-b82f10d8786c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

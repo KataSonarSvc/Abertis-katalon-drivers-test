@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Passo 3</name>
+   <tag></tag>
+   <elementGuidId>22a84e55-2a93-40d0-9793-227520dd1f02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview2--categorizacionStep-nextButton-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[contains(@id, '--categorizacionStep-nextButton')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>81fc7713-d64d-4da6-9548-e558d1f01f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__xmlview2--categorizacionStep-nextButton-BDI-content</value>
+      <webElementGuid>f0bc8001-2917-4a6d-a9d5-f77ba50996b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>aae35acb-6b48-4a56-b539-3b92613d2ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Passo 3</value>
+      <webElementGuid>0bd5ca3a-c744-4a78-9f1c-03551e65af40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview2--categorizacionStep-nextButton-BDI-content&quot;)</value>
+      <webElementGuid>10dd8605-b7df-4f63-86a5-3b9322f09f0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='__xmlview2--categorizacionStep-nextButton-BDI-content']</value>
+      <webElementGuid>3b9f7418-789a-4338-80b7-9fb3be59cb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__xmlview2--categorizacionStep-nextButton-content']/bdi</value>
+      <webElementGuid>5208d895-7340-46db-9e1a-054d9178cb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rilasciato'])[1]/following::bdi[1]</value>
+      <webElementGuid>0574c63d-c963-4c82-a717-84fa4c001d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+ info'])[1]/following::bdi[2]</value>
+      <webElementGuid>9d6c362d-d7a9-4e2b-98aa-8e595c4f5dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modificare'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>c9d54c1a-d06d-46fb-80a5-5ffff3a800b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Passo 3']/parent::*</value>
+      <webElementGuid>6924799f-a386-442c-ba67-e273b0a9110e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span/span/bdi</value>
+      <webElementGuid>d6773049-54e6-44b6-91cf-45c47f4ac296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = '__xmlview2--categorizacionStep-nextButton-BDI-content' and (text() = 'Passo 3' or . = 'Passo 3')]</value>
+      <webElementGuid>d21714d6-1416-457c-9c4a-ce2980d87001</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creacion Orden Preventivo IT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ec30657-0edc-49c5-b28f-1e372465ea3f</testCaseGuid>
+</TestCaseEntity>

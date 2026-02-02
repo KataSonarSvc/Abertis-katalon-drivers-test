@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Eliminar diferencias Inventario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c7bce40-9cd6-482f-8bac-ca592922a5fa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ba50dd0-082b-4525-835e-4e4ddcfca955</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ba50dd0-082b-4525-835e-4e4ddcfca955</id>
+      <masked>false</masked>
+      <name>doc_inventario</name>
+   </variable>
+</TestCaseEntity>

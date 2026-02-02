@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Exportación Excel Cuenta Mayor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd7da375-d4c5-498e-8514-ce21960fb89e</testCaseGuid>
+</TestCaseEntity>

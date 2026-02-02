@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recepciones  Verificaciones</name>
+   <tag></tag>
+   <elementGuidId>d31a1481-291f-49a1-8fec-58dbb89c05fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item29-anchorNavigationBar-3 > div.sapUshellAnchorItemInner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div/div/div/div/div[1]/div/div/div[2]/ul/li[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f57da21-e2bc-4fd3-a0b2-85d4e071afc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUshellAnchorItemInner</value>
+      <webElementGuid>7938a5c8-3461-4624-97fa-327d1b8819b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recepciones &amp; Verificaciones</value>
+      <webElementGuid>762ed6f0-2715-4fe9-8ddf-17cc024970a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item29-anchorNavigationBar-3&quot;)/div[@class=&quot;sapUshellAnchorItemInner&quot;]</value>
+      <webElementGuid>57fa1bc9-2870-4fff-87dd-4041476e54fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='__item29-anchorNavigationBar-3']/div</value>
+      <webElementGuid>4e732a39-4cb8-41b1-8cbd-689d7efc0f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compras'])[1]/following::div[1]</value>
+      <webElementGuid>9a091b17-8853-499e-91d7-4d26a1627e52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aprobaciones'])[1]/following::div[2]</value>
+      <webElementGuid>06cb5f81-fb9f-4f77-975d-3e13909a94e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desplazarse al final'])[1]/preceding::div[1]</value>
+      <webElementGuid>854533fa-e224-4c0e-bc37-f19d2d0a5ee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros grupos'])[1]/preceding::div[2]</value>
+      <webElementGuid>a1ece9fc-df90-47f5-97d7-3a28306d96f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recepciones &amp; Verificaciones']/parent::*</value>
+      <webElementGuid>991cc54e-9a0d-48d5-9e37-fe45a63a688f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div</value>
+      <webElementGuid>30009a4d-66f0-4b29-9f4b-785edd3e78d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Recepciones &amp; Verificaciones' or . = 'Recepciones &amp; Verificaciones')]</value>
+      <webElementGuid>08abd397-d324-4e2a-90cf-3e5eed8c439a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

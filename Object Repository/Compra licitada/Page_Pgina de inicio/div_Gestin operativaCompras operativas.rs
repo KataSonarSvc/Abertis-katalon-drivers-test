@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gestin operativaCompras operativas</name>
+   <tag></tag>
+   <elementGuidId>edcafb56-81fb-4e70-b4c2-723ce6f22663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMGTHideOverflow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>524e88ad-3299-460b-8312-147189bb405d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMGTHideOverflow</value>
+      <webElementGuid>89f7c90f-5d8c-4c31-b216-d802a5a12c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestión operativaCompras operativas</value>
+      <webElementGuid>481af6dc-8e7f-4a4b-8e2b-315067e933f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0&quot;)/div[@class=&quot;sapMGTHideOverflow&quot;]</value>
+      <webElementGuid>637bd05b-5baf-4bdd-8d35-20e950187bf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='__renderer0---homeApp-component---myhome--favPages-__renderer0---homeApp-component---myhome--pagesBox-0']/div</value>
+      <webElementGuid>efe66692-1d89-4b8e-ba0c-d26610f07af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros datos'])[2]/following::div[6]</value>
+      <webElementGuid>6a6271b4-4960-45b5-8959-91ad49b47135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Páginas'])[1]/following::div[7]</value>
+      <webElementGuid>c91860e2-81de-4f93-8151-fd6b4c4928eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>fafa307a-95a3-46e3-bd94-9087db306927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gestión operativaCompras operativas' or . = 'Gestión operativaCompras operativas')]</value>
+      <webElementGuid>ef4e7b96-378d-4a40-b2c7-ac57a91d0545</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

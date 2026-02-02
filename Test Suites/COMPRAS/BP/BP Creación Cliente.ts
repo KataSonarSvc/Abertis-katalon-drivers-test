@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>BP Creación Cliente</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>552bbfb2-cdaf-47a7-bbfc-9a8482e82150</testSuiteGuid>
+   <testCaseLink>
+      <guid>86bbec29-73e6-4ee6-840f-bc43d8fc3a97</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Compras/BP Crear Cliente new</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>75ffa902-8a1c-41bc-8feb-a991e3e14abd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/COMPRAS/BP/BP Crear Cliente</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NOMBRE</value>
+         <variableId>7906294f-7107-4a3f-b1e7-9f58ac854e83</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CONC.BUSQ.1/2</value>
+         <variableId>4e4a5007-f91d-46b5-b9dc-a4234caeb6fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PAIS REGIÓN</value>
+         <variableId>09ae29da-7414-42fc-89cb-af417384ebb1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CALLE</value>
+         <variableId>6e679506-1a20-4a39-b482-3dc97827ad49</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NUM</value>
+         <variableId>6a0a9d2a-1a7d-49ee-a11c-ffb409cd025c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>POBLACIÓN</value>
+         <variableId>462cc203-b0ca-492f-9fc4-eb1e42803a98</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>COD POSTAL</value>
+         <variableId>1b5e9aa7-f562-475d-87c5-9240fecadd90</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>REGIÓN</value>
+         <variableId>fd9441e0-e848-4f93-be85-3a4aa349a0cb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TIPO</value>
+         <variableId>81f7cdc9-d2d3-4794-8f4f-2c8164ea397a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>75ffa902-8a1c-41bc-8feb-a991e3e14abd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>NIF LARGO</value>
+         <variableId>c8105464-bf17-43c0-ae80-e75d6ffa7245</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No</name>
+   <tag></tag>
+   <elementGuidId>821895f5-c368-41bb-9696-db641dbe2f97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sapMSwtLabel.sapMSwtLabelOff</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='application-ZPM_SMART-GESTPREVEN-component---Detalle--idSwState-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable2-0-textoff']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f79945ce-2805-460e-bceb-8aa43e51ca51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSwtLabel sapMSwtLabelOff</value>
+      <webElementGuid>b9b765c1-2c6b-4c5a-aa13-1dcc55b36f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No</value>
+      <webElementGuid>904316b8-1a2e-49fb-8090-5e974908a5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-ZPM_SMART-GESTPREVEN-component---Detalle--idSwState-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable2-0-textoff&quot;)/span[@class=&quot;sapMSwtLabel sapMSwtLabelOff&quot;]</value>
+      <webElementGuid>2e37fc62-13ee-4028-a5f9-89f6af122784</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='application-ZPM_SMART-GESTPREVEN-component---Detalle--idSwState-application-ZPM_SMART-GESTPREVEN-component---Detalle--iActividadesPreventivoTable2-0-textoff']/span</value>
+      <webElementGuid>73bf9829-ee60-4ebf-bd51-199195d13edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Si'])[1]/following::span[1]</value>
+      <webElementGuid>4ed76921-c073-4416-9528-15c53a7e9c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Min'])[2]/following::span[3]</value>
+      <webElementGuid>f990f742-9ea2-4196-be75-94b3ebfc27f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIB.'])[2]/preceding::span[2]</value>
+      <webElementGuid>8bec72d5-ff6b-45f3-a121-a7707acfbde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertencia emitida'])[1]/preceding::span[3]</value>
+      <webElementGuid>fa0af733-3a4f-40bf-a17b-a8e43dfe3c9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No']/parent::*</value>
+      <webElementGuid>4d66d144-bb61-4c8f-8631-caff5e9a4abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/div/div/div/div[2]/span</value>
+      <webElementGuid>73f9d067-4a7e-4c78-aff7-d982c5b0ac45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No' or . = 'No')]</value>
+      <webElementGuid>94328726-2a2f-4097-b153-08069c52f2a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

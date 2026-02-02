@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Page suivante</name>
+   <tag></tag>
+   <elementGuidId>ebfb82b1-75e2-4caf-9958-edfc7165fbfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='wnd[0]/usr/mnu/menu[15]']/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ae546ed2-636e-4c4d-9abb-77e18c424207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urMnuTxt</value>
+      <webElementGuid>6b666798-3480-4e9b-8792-919749c780ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Page suivante</value>
+      <webElementGuid>1b3575c9-a37d-4f94-a674-3838ea8a1a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/usr/mnu/menu[15]&quot;)/td[@class=&quot;urMnuTxt&quot;]</value>
+      <webElementGuid>53625fd6-c633-4a6c-a38f-eda76cb23e6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Sanef/Page_Crer Contrat  textes en-tte/iframe_Plus_application-PurchaseContract-cr_6ea6a7</value>
+      <webElementGuid>053a69f5-9da4-4cbf-85e0-d6065589738a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='wnd[0]/usr/mnu/menu[15]']/td[3]</value>
+      <webElementGuid>7110817a-432d-4194-a293-1d2924178655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page précédente'])[1]/following::td[5]</value>
+      <webElementGuid>341a1fdf-2636-4328-9d2e-ab4f024e963f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[16]/td[3]</value>
+      <webElementGuid>12111578-8d04-48f4-bbc5-31e3cf5d1508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Page suivante' or . = 'Page suivante')]</value>
+      <webElementGuid>7470cb40-e32f-4d34-862c-209843172501</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

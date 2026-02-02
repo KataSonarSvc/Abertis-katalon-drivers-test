@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Listado equipos Filtros y Export</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46c01dc4-220f-4021-8786-7d487d5fb009</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d5afa53-e1f3-4848-8e5d-4d15b7167791</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d5afa53-e1f3-4848-8e5d-4d15b7167791</id>
+      <masked>false</masked>
+      <name>equipo</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Solicitud Pedido Aprobacion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>307d2211-68a9-4e3b-9cca-0d476690d340</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfd0cccb-9220-45a2-8771-f1c4f6ed9c5e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfd0cccb-9220-45a2-8771-f1c4f6ed9c5e</id>
+      <masked>false</masked>
+      <name>num_pedido</name>
+   </variable>
+</TestCaseEntity>

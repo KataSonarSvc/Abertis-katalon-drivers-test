@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Crear ubicacion tecnica</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6e9c6d9-af75-425b-9b3d-1d162a3965b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d465970-aff0-46a4-a647-56b17403268d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2433243-0a7a-48f8-b0aa-28cc891955bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d465970-aff0-46a4-a647-56b17403268d</id>
+      <masked>false</masked>
+      <name>ubicacion_tecnica</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2433243-0a7a-48f8-b0aa-28cc891955bc</id>
+      <masked>false</masked>
+      <name>descripcion</name>
+   </variable>
+</TestCaseEntity>

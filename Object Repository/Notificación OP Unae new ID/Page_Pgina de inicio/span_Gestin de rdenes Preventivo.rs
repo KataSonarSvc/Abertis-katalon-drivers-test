@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gestin de rdenes Preventivo</name>
+   <tag></tag>
+   <elementGuidId>88ae43e3-85ff-445b-b41e-98b7e8402321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d269c889-30d9-4ef8-acd4-96e0086236a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title-inner</value>
+      <webElementGuid>f29657e8-c27b-4850-a767-322852d9353e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>2d2235ea-757d-4938-9aa9-fc65b8df75f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gestión de Órdenes Preventivo</value>
+      <webElementGuid>e1e8975b-0acc-4ed4-a4a0-10e0ed66351c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title-inner&quot;)</value>
+      <webElementGuid>2e3d7170-0506-4312-bada-22bf19a54f1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title-inner']</value>
+      <webElementGuid>3020ba5b-6724-4e96-8bc2-0f573d409172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title']/span</value>
+      <webElementGuid>ec1b0ef6-e1ea-4867-b9b7-6b22670456c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[4]/following::span[3]</value>
+      <webElementGuid>89be3e43-869e-484b-a76b-faa1929aeb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listado de Equipos'])[1]/following::span[7]</value>
+      <webElementGuid>a57cb563-7d74-40a4-9602-1e50b4620d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Más'])[5]/preceding::span[4]</value>
+      <webElementGuid>47dae082-da93-41b3-85d0-ae4f5a08cb63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gestión de Órdenes Correctivo'])[1]/preceding::span[6]</value>
+      <webElementGuid>a46777e2-b101-43b7-bdc4-c155752e84b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gestión de Órdenes Preventivo']/parent::*</value>
+      <webElementGuid>94c1643e-ae46-4d35-8e37-2b2c7be810d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div[2]/div/span/span</value>
+      <webElementGuid>89b0e3f2-545a-4740-8fb4-4a34415aee5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__renderer0---homeApp-component---myhome--appsView--appsFragment--favApps-__renderer0---homeApp-component---myhome--appsView--appsFragment--idFavAppsContainer-2-title-inner' and (text() = 'Gestión de Órdenes Preventivo' or . = 'Gestión de Órdenes Preventivo')]</value>
+      <webElementGuid>13343abb-3d70-4fc4-b0c8-3feebcf894f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SD Creacion Factura Ventas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2130b45-eff4-4ee2-bccd-f31cb9d08dbe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a99a88b0-d4c7-4545-85d2-ae307f80d389</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a99a88b0-d4c7-4545-85d2-ae307f80d389</id>
+      <masked>false</masked>
+      <name>id_documento</name>
+   </variable>
+</TestCaseEntity>

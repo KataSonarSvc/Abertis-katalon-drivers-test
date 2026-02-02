@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_KCentro de coste</name>
+   <tag></tag>
+   <elementGuidId>c3d6d8e1-a827-4ef4-8498-7317a98dd920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMSLITitleOnly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__item146-content']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c89033f2-278e-4f0c-9a53-692c65b4c09d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLITitleOnly</value>
+      <webElementGuid>9a240496-60ee-430d-992e-47f53828dfb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KCentro de coste</value>
+      <webElementGuid>b44e4aa1-88d4-47a6-ba98-e5dea7122005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item146-content&quot;)/div[@class=&quot;sapMSLIDiv sapMSLIInfoMiddle&quot;]/div[@class=&quot;sapMSLITitleOnly&quot;]</value>
+      <webElementGuid>b06396eb-98ef-4c9f-8b44-166cbaf8f748</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item146-content']/div/div</value>
+      <webElementGuid>b17b7b92-accb-4d5b-bae4-c0caef4835a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div</value>
+      <webElementGuid>a38a558f-1b70-45ab-9aa4-1dd660ca40aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'KCentro de coste' or . = 'KCentro de coste')]</value>
+      <webElementGuid>bfcdc906-322d-4e1f-b055-a341dea7f5d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

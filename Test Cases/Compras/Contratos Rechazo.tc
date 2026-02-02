@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Contratos Rechazo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a05f7159-ac5e-440f-a1b7-db4602947504</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>068b2993-301d-4b05-91f2-0ef019fb5e10</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7dd8380d-a609-4de7-ad2c-95b3f34449bd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>068b2993-301d-4b05-91f2-0ef019fb5e10</id>
+      <masked>false</masked>
+      <name>num_pedido</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7dd8380d-a609-4de7-ad2c-95b3f34449bd</id>
+      <masked>false</masked>
+      <name>texto_motivo</name>
+   </variable>
+</TestCaseEntity>

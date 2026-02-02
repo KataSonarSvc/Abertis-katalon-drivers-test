@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11,00 EURResaltado</name>
+   <tag></tag>
+   <elementGuidId>94311bb7-9912-4134-87ed-318b4d85e42e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-2-content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMObjLTopRow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f4cb417-1799-48af-ac8e-c012f32523e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMObjLTopRow</value>
+      <webElementGuid>4d3e6028-852a-4c63-9273-e3559b636b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11,00  EURResaltado</value>
+      <webElementGuid>8de7ef94-167c-45a4-8452-71d40a7be9db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-2-content&quot;)/div[@class=&quot;sapMObjLTopRow&quot;]</value>
+      <webElementGuid>25c8761e-e748-4281-916a-56b6c287bd51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__xmlview7--MAIN_LIST_ITEM-__xmlview7--list-2-content']/div</value>
+      <webElementGuid>32e3373d-6a3b-4b72-b85b-e5561a80b510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selección múltiple'])[1]/following::div[12]</value>
+      <webElementGuid>df166bcb-0e22-4bd9-914b-e36b63fc2994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzón general de compras (1)'])[1]/following::div[13]</value>
+      <webElementGuid>3aea391b-031d-4be2-8420-f4696c64b168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abertis Infraestructuras'])[1]/preceding::div[5]</value>
+      <webElementGuid>b3454b4e-c115-4d96-add1-4de15ecf1f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div</value>
+      <webElementGuid>7c7d1f39-8884-431e-bb46-dd7104e64957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '11,00  EURResaltado' or . = '11,00  EURResaltado')]</value>
+      <webElementGuid>2aa0ab7f-19c1-42a9-a69b-f415e929dd2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

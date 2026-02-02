@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Añadir actividad OC Unae new id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>852f2352-efe1-42e3-b454-a34f24a0e48f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b714898-63aa-47d4-9c81-a9622d7e3502</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b714898-63aa-47d4-9c81-a9622d7e3502</id>
+      <masked>false</masked>
+      <name>actividad</name>
+   </variable>
+</TestCaseEntity>

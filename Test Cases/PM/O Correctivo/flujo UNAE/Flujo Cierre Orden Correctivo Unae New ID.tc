@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Flujo Cierre Orden Correctivo Unae New ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10460761-0d04-4996-86b1-7fb643891394</testCaseGuid>
+</TestCaseEntity>

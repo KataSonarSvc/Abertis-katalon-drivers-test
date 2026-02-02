@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Copiare posizioni selezionate</name>
+   <tag></tag>
+   <elementGuidId>1a7f19f8-fff0-4ca7-8da9-956b63cf64bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//bdi[@id='application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>1a5aac3d-f9bf-49cc-9eb1-f96d5e5060a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content</value>
+      <webElementGuid>882bb794-6763-4f33-8118-7521bfbd1d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copiare posizioni selezionate</value>
+      <webElementGuid>a8c59702-78f7-4fce-a20e-d89b2a3e8e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content&quot;)</value>
+      <webElementGuid>6d772032-f431-4e6e-ab17-9420476bff45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//bdi[@id='application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content']</value>
+      <webElementGuid>ad0ff9b4-7200-494a-9d45-4fee4a385669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-content']/bdi</value>
+      <webElementGuid>60a60a64-38ef-4495-9c05-ea61aa3dd7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avvio'])[2]/following::bdi[1]</value>
+      <webElementGuid>8537b955-4224-403d-b14a-34df2835abc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Avvio'])[1]/following::bdi[1]</value>
+      <webElementGuid>8d649e01-4b1b-4a88-939d-ca69df45132f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impostazioni'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>1178da7d-1bcf-43a7-ade6-8f67b421e5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Massimizza'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>21d97757-8d61-46ac-8090-4c789492b50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copiare posizioni selezionate']/parent::*</value>
+      <webElementGuid>61945056-b699-4860-a79e-91b915340d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/bdi</value>
+      <webElementGuid>4e146790-4931-4f19-95b7-0fabf61bc707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[@id = 'application-zpurchaseorder-createPOfromContract-component---master--idCopySelectedItemsNew-BDI-content' and (text() = 'Copiare posizioni selezionate' or . = 'Copiare posizioni selezionate')]</value>
+      <webElementGuid>1fcd05fc-b8d9-444a-a91c-6e7f1739aa8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

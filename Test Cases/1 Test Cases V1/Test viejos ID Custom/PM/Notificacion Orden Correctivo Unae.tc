@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notificacion Orden Correctivo Unae</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6fb1e575-0dc1-46db-b28b-d3e1a7d9e3f2</testCaseGuid>
+</TestCaseEntity>

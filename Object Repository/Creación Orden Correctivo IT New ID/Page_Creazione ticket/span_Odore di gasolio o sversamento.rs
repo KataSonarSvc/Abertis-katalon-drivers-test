@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Odore di gasolio o sversamento</name>
+   <tag></tag>
+   <elementGuidId>866c9e32-78da-497c-82d4-21bf97a6863e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@id, '--isymptomcode-popup-list')]//li[@role='option'][.//span[normalize-space(text())='Odore di gasolio o sversamento']]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__item44-titleText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b749b7f7-6128-4421-82c3-8893627caa79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__item44-titleText</value>
+      <webElementGuid>14590f96-0cb2-4f14-a334-ab3f661bc5a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-live</name>
+      <type>Main</type>
+      <value>polite</value>
+      <webElementGuid>d6aabb61-dda7-48f6-88d9-e48e06406040</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odore di gasolio o sversamento</value>
+      <webElementGuid>a9cddd73-bef9-4cbe-aa3d-e596f362a803</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item44-titleText&quot;)</value>
+      <webElementGuid>432200d4-4439-44de-a853-dc5c317a0986</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__item44-titleText']</value>
+      <webElementGuid>38e3efd5-0470-4017-8cf8-cc4645f05cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item44-content']/div/div/span</value>
+      <webElementGuid>2c695efc-5db4-42f5-bc5b-083785dddee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alimentazione Gasoli'])[1]/following::span[1]</value>
+      <webElementGuid>a0d8953f-3f2d-4c26-a349-2cf1276be522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='giovedì, ottobre 30, 2025 - 23:21:34'])[1]/following::span[10]</value>
+      <webElementGuid>d9eb1147-dc81-4055-bcea-433a035fdc8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Altri sintomi mal funzionamento o guasto'])[1]/preceding::span[2]</value>
+      <webElementGuid>866b3c5b-35c1-44d6-b11e-614eee251479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::span[6]</value>
+      <webElementGuid>47720c7c-e30b-4c9b-9dbd-951014c9021f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odore di gasolio o sversamento']/parent::*</value>
+      <webElementGuid>6a6389b6-6746-418f-b2f1-e74035a46b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/ul/li[4]/div/div/div/span</value>
+      <webElementGuid>530bdb62-1ead-43c2-9358-575525847763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__item44-titleText' and (text() = 'Odore di gasolio o sversamento' or . = 'Odore di gasolio o sversamento')]</value>
+      <webElementGuid>68f681fc-a427-4908-8e44-697400f7c643</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

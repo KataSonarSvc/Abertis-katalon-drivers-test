@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Resumen de textos</name>
+   <tag></tag>
+   <elementGuidId>461ad155-e86f-49d3-a07b-bc00078f0acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Resumen de textos' or . = 'Resumen de textos')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b5635e89-137c-4a5d-91f8-0d69b41f4c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urMnuTxt</value>
+      <webElementGuid>e72afd90-3ec9-489b-942f-063b416738d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resumen de textos</value>
+      <webElementGuid>d4c98bb8-2091-4884-8bc8-d4fd430d6079</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wnd[0]/mbar/menu[2]/menu[2]/menu[0]&quot;)/td[@class=&quot;urMnuTxt&quot;]</value>
+      <webElementGuid>a75d6f51-9a56-4a2e-af98-1f2b5cb743a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Autopistas/Page_Crear Pedido abierto  Datos cabecera/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>a76a53ea-399a-42de-898f-4a2f4059b265</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='wnd[0]/mbar/menu[2]/menu[2]/menu[0]']/td[3]</value>
+      <webElementGuid>8591928d-fe96-4ec6-8124-41039a7f8644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[2]/following::td[5]</value>
+      <webElementGuid>269c618c-b979-4472-9a83-d706768039cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div/div[2]/table/tbody/tr/td[3]</value>
+      <webElementGuid>cddfd47e-eec3-4621-9f77-777970269cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Resumen de textos' or . = 'Resumen de textos')]</value>
+      <webElementGuid>b100f12c-080c-4c30-bced-72b5112b3944</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

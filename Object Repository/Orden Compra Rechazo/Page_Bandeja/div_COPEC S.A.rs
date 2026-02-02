@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_COPEC S.A</name>
+   <tag></tag>
+   <elementGuidId>01e76985-81e6-4f26-85e4-e57fb648bc63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__xmlview21--MAIN_LIST_ITEM-__xmlview21--list-4-content']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMObjLTopRow > div:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c02a2e6c-9224-4961-a579-9c3d543cee44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COPEC S.A.</value>
+      <webElementGuid>163d3fa3-3877-4d27-9b56-30ab54162f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview21--MAIN_LIST_ITEM-__xmlview21--list-4-content&quot;)/div[@class=&quot;sapMObjLTopRow&quot;]/div[2]</value>
+      <webElementGuid>0c382468-db79-49a4-9047-732f9a0908a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__xmlview21--MAIN_LIST_ITEM-__xmlview21--list-4-content']/div/div[2]</value>
+      <webElementGuid>ded6d2b6-b475-4a61-b44c-77c85a8f1ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resaltado'])[2]/following::div[1]</value>
+      <webElementGuid>cfee114f-8448-48a5-a7a2-19475b78fb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selección múltiple'])[1]/following::div[15]</value>
+      <webElementGuid>ef74e58f-b0c8-43e1-b03d-e6f4a39e5f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OPERAVÍAS SpA.'])[1]/preceding::div[2]</value>
+      <webElementGuid>abb41383-7d34-4b9b-a70f-b42c11eada07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/div/div[2]</value>
+      <webElementGuid>16fc2a9e-5486-42d1-b7db-61ad817764c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'COPEC S.A.' or . = 'COPEC S.A.')]</value>
+      <webElementGuid>0d98cb63-5ff0-4d28-92d6-4b598c2f11ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

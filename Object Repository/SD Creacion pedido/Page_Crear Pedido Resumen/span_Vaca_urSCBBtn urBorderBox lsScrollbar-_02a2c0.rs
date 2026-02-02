@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vaca_urSCBBtn urBorderBox lsScrollbar-_02a2c0</name>
+   <tag></tag>
+   <elementGuidId>074bc69e-ba52-4f35-8fe9-97e553d7fe70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.urSCBBtn.urBorderBox.lsScrollbar--inlineBlock.lsScrollbar--expandSize.urSCBGrip</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='M0:46:2:3B256:2:2_hscroll-hdl']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cecc5cca-a200-418d-9158-b1f3158a1a64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>iddthreshold</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>acf04ace-3861-4467-847e-d4fd7a29f3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urSCBBtn urBorderBox lsScrollbar--inlineBlock lsScrollbar--expandSize urSCBGrip</value>
+      <webElementGuid>e2ca4b63-bc9b-44d3-8b6a-e517198bc47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:2:3B256:2:2_hscroll-hdl&quot;)/span[@class=&quot;urSCBBtn urBorderBox lsScrollbar--inlineBlock lsScrollbar--expandSize urSCBGrip&quot;]</value>
+      <webElementGuid>13409854-ad63-4b91-9869-7af6af404dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SD Creacion pedido/Page_Crear Pedido Resumen/iframe_Ms_application-SalesDocument-create-iframe</value>
+      <webElementGuid>ed57f9f7-7689-4fc6-900f-6a8e0ad2e1f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='M0:46:2:3B256:2:2_hscroll-hdl']/span</value>
+      <webElementGuid>3f59f71b-90a5-4d77-862e-289500f36701</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span/span</value>
+      <webElementGuid>1a5f9a35-8301-4bae-8a27-4a8d83d680cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

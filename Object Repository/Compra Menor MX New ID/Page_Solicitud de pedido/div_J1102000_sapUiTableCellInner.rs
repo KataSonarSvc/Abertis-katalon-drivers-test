@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_J1102000_sapUiTableCellInner</name>
+   <tag></tag>
+   <elementGuidId>e66aabe2-c789-4fd3-a4bd-3e36f82a57cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='__dialog0-table-rows-row1-col6']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog0-table-rows-row1-col6 > div.sapUiTableCellInner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8551109e-9652-418d-856e-82ae5c02481d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner</value>
+      <webElementGuid>b6779be0-ddc8-4f32-a415-592fc39507bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog0-table-rows-row1-col6&quot;)/div[@class=&quot;sapUiTableCellInner&quot;]</value>
+      <webElementGuid>ef641ed0-9a51-4a99-9294-287353412bad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog0-table-rows-row1-col6']/div</value>
+      <webElementGuid>880979d3-4aa3-42d1-918b-847b502895da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='J1102000'])[2]/following::div[3]</value>
+      <webElementGuid>0032e7c3-382a-4e95-91c9-c29dd41e36ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gastos legales'])[1]/following::div[5]</value>
+      <webElementGuid>b64d891d-6f6e-434a-83eb-8c5de4cf7dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CG5922000004'])[1]/preceding::div[1]</value>
+      <webElementGuid>86685f8f-65e6-4723-baa7-38446a79a87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cuota Anual AMCIV'])[1]/preceding::div[2]</value>
+      <webElementGuid>b5e665c4-2e9a-45c1-b64c-b507c34bed85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[7]/div</value>
+      <webElementGuid>5ef30f14-c04b-4a25-bbcb-83c4accb8f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

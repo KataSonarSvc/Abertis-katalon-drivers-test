@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kcentrocoste</name>
+   <tag></tag>
+   <elementGuidId>95cb08fc-611f-4be5-a0ad-723715df1b7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__item124-content > div.sapMSLIDiv.sapMSLIInfoMiddle > div.sapMSLITitleOnly</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[contains(@id, 'application-zpurchaserequisition-createMP-component---detail--idPAccountAssignmentCategory-') and contains(@id, '-popup-list-listUl')]/li[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f06c8711-7685-4d8c-aa98-91874ad1bfa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSLITitleOnly</value>
+      <webElementGuid>65b20ee1-e5af-45dd-b3b5-fc74bbba8ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OProyecto Inversión</value>
+      <webElementGuid>4ca58a25-15ec-4d64-9e33-701125555eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__item124-content&quot;)/div[@class=&quot;sapMSLIDiv sapMSLIInfoMiddle&quot;]/div[@class=&quot;sapMSLITitleOnly&quot;]</value>
+      <webElementGuid>12440c51-e261-43c2-8349-285b92e8dc57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__item124-content']/div/div</value>
+      <webElementGuid>0a7bde64-c080-4629-b0b0-106e3e9bec7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centro de coste'])[1]/following::div[3]</value>
+      <webElementGuid>cedf4174-7b6e-483d-a3ab-e404b57c4c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::div[4]</value>
+      <webElementGuid>aa5de384-9fc3-4543-aa70-0d3b18e16579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div</value>
+      <webElementGuid>50024e32-05c5-4ae9-b15c-2608eb1f841d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'OProyecto Inversión' or . = 'OProyecto Inversión')]</value>
+      <webElementGuid>e95ff4d8-854c-4682-a8a2-2d61fcc3c1e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

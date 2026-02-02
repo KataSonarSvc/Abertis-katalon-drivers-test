@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Posible duplicado (PO).lsPanelsContaine_a4483c</name>
+   <tag></tag>
+   <elementGuidId>88408233-e59a-4795-bb17-179fb0dc4817</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M0:46:1:2:1::0:1-scrl-cnt']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1186b518-1f88-464b-8f0e-c9477fc77d78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M0:46:1:2:1::0:1-scrl-cnt</value>
+      <webElementGuid>9e55ed53-46c6-4af2-83f2-c75b02cc9c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsScrollArea__content lsScrollArea__content--height urTbsCnt lsResponsivePadding urBorderBox lsScrollArea__content--position lsScrollArea__content--top</value>
+      <webElementGuid>365b971a-50a7-4484-82d3-2f158128d7f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Posible duplicado (PO).lsPanelsContainer--root{container-type: inline-size; container-name: PanelsContainer;} @container PanelsContainer (width&lt;600px) { .lsPanelsContainer--panel { --sapUrPanels_HorizontalSpacing: var(--sapUrPanels_HorizontalSpacing_Responsive_Small);}}Referencia de pedidoCuenta de mayor&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-container&quot; class=&quot;urMnu lsPOMNContainer lsPopupMenu__metaData&quot; class=&quot;lsMnu-display-inline-block&quot;>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-scrlup&quot; role=&quot;presentation&quot; title=&quot;Arriba&quot; class=&quot;urMnuScr urMnuScrUp lsElement--invisible&quot;>&lt;span class=&quot;lsPopupMenuItem_Spacer&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot;>&lt;/span>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-cnt&quot; class=&quot;lsMnuCnt&quot; data-sap-ls-style=&quot;;width:100%;overflow:hidden&quot;>&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;M0:46:1:2:1:2B257:1_mnu&quot; ct=&quot;POMN&quot; lsdata='{&quot;x&quot;:0,&quot;5&quot;:{&quot;Type&quot;:&quot;GuiMenu&quot;,&quot;ModalNo&quot;:0}}' lsevents='{&quot;Select&quot;:[{},{}]}' class=&quot;lsMnuTable&quot; role=&quot;menu&quot; data-sap-ls-style=&quot;;width:100%&quot;>&lt;col/>&lt;col/>&lt;col/>&lt;col/>&lt;col/>&lt;tbody>&lt;tr ct=&quot;POMNI&quot; lsdata='{&quot;x&quot;:0,&quot;1&quot;:&quot;Referencia de pedido&quot;}' id=&quot;M0:46:1:2:1:2B257:1::0:0_mnuid&quot; role=&quot;menuitem&quot; aria-posinset=&quot;1&quot; aria-setsize=&quot;2&quot; aria-label=&quot;Referencia&amp;#x20;de&amp;#x20;pedido&quot; td=&quot;ltr&quot; class=&quot;urMnuRowOff lsMnuItemHeight&quot;>&lt;td class=&quot;urMnuColumn urMnuColumnColor&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuIconColumnColor lsMenuItemIcon lsMnuNoIcon&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt&quot;>&lt;span data-sap-ls-style=&quot;;white-space:nowrap&quot;>Referencia de pedido&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt lsMnuHK&quot; data-sap-ls-style=&quot;;white-space:nowrap&quot;>&lt;/td>&lt;td>&lt;span class=&quot;urMnuSub lsMirrorRtl&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;/tr>&lt;tr ct=&quot;POMNI&quot; lsdata='{&quot;x&quot;:0,&quot;1&quot;:&quot;Cuenta de mayor&quot;}' id=&quot;M0:46:1:2:1:2B257:1::0:1_mnuid&quot; role=&quot;menuitem&quot; aria-posinset=&quot;2&quot; aria-setsize=&quot;2&quot; aria-label=&quot;Cuenta&amp;#x20;de&amp;#x20;mayor&quot; td=&quot;ltr&quot; class=&quot;urMnuRowOff lsMnuItemHeight&quot;>&lt;td class=&quot;urMnuColumn urMnuColumnColor&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuIconColumnColor lsMenuItemIcon lsMnuNoIcon&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt&quot;>&lt;span data-sap-ls-style=&quot;;white-space:nowrap&quot;>Cuenta de mayor&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt lsMnuHK&quot; data-sap-ls-style=&quot;;white-space:nowrap&quot;>&lt;/td>&lt;td>&lt;span class=&quot;urMnuSub lsMirrorRtl&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-scrldwn&quot; role=&quot;presentation&quot; title=&quot;Abajo&quot; class=&quot;urMnuScr urMnuScrDwn lsElement--invisible&quot;>&lt;span class=&quot;lsPopupMenuItem_Spacer&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot;>&lt;/span>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-pointer&quot; class=&quot;lsQVPointer&quot;>&lt;/div>&lt;/div>Referencia de pedidoCoincidir todosSaldo Columna de selección de filas ID elem. docum. Est. coinciden.  Doc.compras Posición Material Txt.brv. Importe Cantidad UM de pedido Nota de entrega Tipo condic. Ind. Impuestos Tipo impositivo Texto Sociedad Centro Asignación Doc. material Año doc. mat. Posición Doc. referencia Elem. doc. ref. Clave ref.1 Clave ref.2 Denominación Costes adicion. Costes indic. añadds Importe costes Alternativa Carta de porte   Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. 11050386AMPLIACIÓN SALA CONTR P171.200,001.200,000UNT2 T2 (IVA soportado 21%)AMPLIACIÓN SALA CONTR P171001500235228620251AMPLIACIÓN SALA CONTR P170,00VacíaVacía                           / Líneas de propuestaRechazar líneas Columna de selección de filas Est. coinciden. Doc.compras Posición Material Denominación Importe Cantidad UM de pedido Precio neto Nota de entrega Tipo condic. Doc. material Ejec. doc. mat. Posición Doc. referencia Elem. doc. ref. Carta de porte Texto Nº contrato Posic. contr. Ord. de flete Liq. de flete El. de liq. de flete BOL int. Not. e. aé.   Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. VacíaVacíaVacía                      Cuenta de mayor </value>
+      <webElementGuid>960cc1cc-d9c4-4448-91ab-2bb18a54c138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1:2:1::0:1-scrl-cnt&quot;)</value>
+      <webElementGuid>a0d8a393-46f5-45c2-af2f-213e431873ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Creacion facturas CP SD TR VIM_WP/Page_Proceso Gestin de pedidos VIM 7.5 - 00_144224/iframe_Ms_application-zgui_opt_vim_wp-displ_b9e7ed</value>
+      <webElementGuid>d540a307-9174-41fb-9d88-4194ceb96d78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1:2:1::0:1-scrl-cnt']</value>
+      <webElementGuid>b95ce86e-0b72-47c4-b870-f2b71ac221b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M0:46:1:2:1::0:1-scrl']/div</value>
+      <webElementGuid>1b37415f-50cb-4202-ac40-f56ba01a8bb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posiciones de documento'])[2]/following::div[2]</value>
+      <webElementGuid>16a10bca-b9d0-46a0-a4ef-73761ff60768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datos básicos'])[2]/following::div[6]</value>
+      <webElementGuid>fa4571d0-6ad3-43fa-a672-cdfceebf7091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td/div/div</value>
+      <webElementGuid>04a5e13e-b440-4cac-a275-f44bd25c4732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'M0:46:1:2:1::0:1-scrl-cnt' and (text() = concat(&quot; Posible duplicado (PO).lsPanelsContainer--root{container-type: inline-size; container-name: PanelsContainer;} @container PanelsContainer (width&lt;600px) { .lsPanelsContainer--panel { --sapUrPanels_HorizontalSpacing: var(--sapUrPanels_HorizontalSpacing_Responsive_Small);}}Referencia de pedidoCuenta de mayor&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-container&quot; class=&quot;urMnu lsPOMNContainer lsPopupMenu__metaData&quot; class=&quot;lsMnu-display-inline-block&quot;>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-scrlup&quot; role=&quot;presentation&quot; title=&quot;Arriba&quot; class=&quot;urMnuScr urMnuScrUp lsElement--invisible&quot;>&lt;span class=&quot;lsPopupMenuItem_Spacer&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot;>&lt;/span>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-cnt&quot; class=&quot;lsMnuCnt&quot; data-sap-ls-style=&quot;;width:100%;overflow:hidden&quot;>&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;M0:46:1:2:1:2B257:1_mnu&quot; ct=&quot;POMN&quot; lsdata=&quot; , &quot;'&quot; , &quot;{&quot;x&quot;:0,&quot;5&quot;:{&quot;Type&quot;:&quot;GuiMenu&quot;,&quot;ModalNo&quot;:0}}&quot; , &quot;'&quot; , &quot; lsevents=&quot; , &quot;'&quot; , &quot;{&quot;Select&quot;:[{},{}]}&quot; , &quot;'&quot; , &quot; class=&quot;lsMnuTable&quot; role=&quot;menu&quot; data-sap-ls-style=&quot;;width:100%&quot;>&lt;col/>&lt;col/>&lt;col/>&lt;col/>&lt;col/>&lt;tbody>&lt;tr ct=&quot;POMNI&quot; lsdata=&quot; , &quot;'&quot; , &quot;{&quot;x&quot;:0,&quot;1&quot;:&quot;Referencia de pedido&quot;}&quot; , &quot;'&quot; , &quot; id=&quot;M0:46:1:2:1:2B257:1::0:0_mnuid&quot; role=&quot;menuitem&quot; aria-posinset=&quot;1&quot; aria-setsize=&quot;2&quot; aria-label=&quot;Referencia&amp;#x20;de&amp;#x20;pedido&quot; td=&quot;ltr&quot; class=&quot;urMnuRowOff lsMnuItemHeight&quot;>&lt;td class=&quot;urMnuColumn urMnuColumnColor&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuIconColumnColor lsMenuItemIcon lsMnuNoIcon&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt&quot;>&lt;span data-sap-ls-style=&quot;;white-space:nowrap&quot;>Referencia de pedido&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt lsMnuHK&quot; data-sap-ls-style=&quot;;white-space:nowrap&quot;>&lt;/td>&lt;td>&lt;span class=&quot;urMnuSub lsMirrorRtl&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;/tr>&lt;tr ct=&quot;POMNI&quot; lsdata=&quot; , &quot;'&quot; , &quot;{&quot;x&quot;:0,&quot;1&quot;:&quot;Cuenta de mayor&quot;}&quot; , &quot;'&quot; , &quot; id=&quot;M0:46:1:2:1:2B257:1::0:1_mnuid&quot; role=&quot;menuitem&quot; aria-posinset=&quot;2&quot; aria-setsize=&quot;2&quot; aria-label=&quot;Cuenta&amp;#x20;de&amp;#x20;mayor&quot; td=&quot;ltr&quot; class=&quot;urMnuRowOff lsMnuItemHeight&quot;>&lt;td class=&quot;urMnuColumn urMnuColumnColor&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuIconColumnColor lsMenuItemIcon lsMnuNoIcon&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt&quot;>&lt;span data-sap-ls-style=&quot;;white-space:nowrap&quot;>Cuenta de mayor&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt lsMnuHK&quot; data-sap-ls-style=&quot;;white-space:nowrap&quot;>&lt;/td>&lt;td>&lt;span class=&quot;urMnuSub lsMirrorRtl&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-scrldwn&quot; role=&quot;presentation&quot; title=&quot;Abajo&quot; class=&quot;urMnuScr urMnuScrDwn lsElement--invisible&quot;>&lt;span class=&quot;lsPopupMenuItem_Spacer&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot;>&lt;/span>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-pointer&quot; class=&quot;lsQVPointer&quot;>&lt;/div>&lt;/div>Referencia de pedidoCoincidir todosSaldo Columna de selección de filas ID elem. docum. Est. coinciden.  Doc.compras Posición Material Txt.brv. Importe Cantidad UM de pedido Nota de entrega Tipo condic. Ind. Impuestos Tipo impositivo Texto Sociedad Centro Asignación Doc. material Año doc. mat. Posición Doc. referencia Elem. doc. ref. Clave ref.1 Clave ref.2 Denominación Costes adicion. Costes indic. añadds Importe costes Alternativa Carta de porte   Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. 11050386AMPLIACIÓN SALA CONTR P171.200,001.200,000UNT2 T2 (IVA soportado 21%)AMPLIACIÓN SALA CONTR P171001500235228620251AMPLIACIÓN SALA CONTR P170,00VacíaVacía                           / Líneas de propuestaRechazar líneas Columna de selección de filas Est. coinciden. Doc.compras Posición Material Denominación Importe Cantidad UM de pedido Precio neto Nota de entrega Tipo condic. Doc. material Ejec. doc. mat. Posición Doc. referencia Elem. doc. ref. Carta de porte Texto Nº contrato Posic. contr. Ord. de flete Liq. de flete El. de liq. de flete BOL int. Not. e. aé.   Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. VacíaVacíaVacía                      Cuenta de mayor &quot;) or . = concat(&quot; Posible duplicado (PO).lsPanelsContainer--root{container-type: inline-size; container-name: PanelsContainer;} @container PanelsContainer (width&lt;600px) { .lsPanelsContainer--panel { --sapUrPanels_HorizontalSpacing: var(--sapUrPanels_HorizontalSpacing_Responsive_Small);}}Referencia de pedidoCuenta de mayor&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-container&quot; class=&quot;urMnu lsPOMNContainer lsPopupMenu__metaData&quot; class=&quot;lsMnu-display-inline-block&quot;>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-scrlup&quot; role=&quot;presentation&quot; title=&quot;Arriba&quot; class=&quot;urMnuScr urMnuScrUp lsElement--invisible&quot;>&lt;span class=&quot;lsPopupMenuItem_Spacer&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot;>&lt;/span>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-cnt&quot; class=&quot;lsMnuCnt&quot; data-sap-ls-style=&quot;;width:100%;overflow:hidden&quot;>&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;M0:46:1:2:1:2B257:1_mnu&quot; ct=&quot;POMN&quot; lsdata=&quot; , &quot;'&quot; , &quot;{&quot;x&quot;:0,&quot;5&quot;:{&quot;Type&quot;:&quot;GuiMenu&quot;,&quot;ModalNo&quot;:0}}&quot; , &quot;'&quot; , &quot; lsevents=&quot; , &quot;'&quot; , &quot;{&quot;Select&quot;:[{},{}]}&quot; , &quot;'&quot; , &quot; class=&quot;lsMnuTable&quot; role=&quot;menu&quot; data-sap-ls-style=&quot;;width:100%&quot;>&lt;col/>&lt;col/>&lt;col/>&lt;col/>&lt;col/>&lt;tbody>&lt;tr ct=&quot;POMNI&quot; lsdata=&quot; , &quot;'&quot; , &quot;{&quot;x&quot;:0,&quot;1&quot;:&quot;Referencia de pedido&quot;}&quot; , &quot;'&quot; , &quot; id=&quot;M0:46:1:2:1:2B257:1::0:0_mnuid&quot; role=&quot;menuitem&quot; aria-posinset=&quot;1&quot; aria-setsize=&quot;2&quot; aria-label=&quot;Referencia&amp;#x20;de&amp;#x20;pedido&quot; td=&quot;ltr&quot; class=&quot;urMnuRowOff lsMnuItemHeight&quot;>&lt;td class=&quot;urMnuColumn urMnuColumnColor&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuIconColumnColor lsMenuItemIcon lsMnuNoIcon&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt&quot;>&lt;span data-sap-ls-style=&quot;;white-space:nowrap&quot;>Referencia de pedido&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt lsMnuHK&quot; data-sap-ls-style=&quot;;white-space:nowrap&quot;>&lt;/td>&lt;td>&lt;span class=&quot;urMnuSub lsMirrorRtl&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;/tr>&lt;tr ct=&quot;POMNI&quot; lsdata=&quot; , &quot;'&quot; , &quot;{&quot;x&quot;:0,&quot;1&quot;:&quot;Cuenta de mayor&quot;}&quot; , &quot;'&quot; , &quot; id=&quot;M0:46:1:2:1:2B257:1::0:1_mnuid&quot; role=&quot;menuitem&quot; aria-posinset=&quot;2&quot; aria-setsize=&quot;2&quot; aria-label=&quot;Cuenta&amp;#x20;de&amp;#x20;mayor&quot; td=&quot;ltr&quot; class=&quot;urMnuRowOff lsMnuItemHeight&quot;>&lt;td class=&quot;urMnuColumn urMnuColumnColor&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuIconColumnColor lsMenuItemIcon lsMnuNoIcon&quot;>&lt;span class=&quot;lsMnuNbsp&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt&quot;>&lt;span data-sap-ls-style=&quot;;white-space:nowrap&quot;>Cuenta de mayor&lt;/span>&lt;/td>&lt;td class=&quot;urMnuTxt lsMnuHK&quot; data-sap-ls-style=&quot;;white-space:nowrap&quot;>&lt;/td>&lt;td>&lt;span class=&quot;urMnuSub lsMirrorRtl&quot;>&amp;nbsp;&lt;/span>&lt;/td>&lt;/tr>&lt;/tbody>&lt;/table>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-scrldwn&quot; role=&quot;presentation&quot; title=&quot;Abajo&quot; class=&quot;urMnuScr urMnuScrDwn lsElement--invisible&quot;>&lt;span class=&quot;lsPopupMenuItem_Spacer&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot;>&lt;/span>&lt;/div>&lt;div id=&quot;M0:46:1:2:1:2B257:1_mnu-pointer&quot; class=&quot;lsQVPointer&quot;>&lt;/div>&lt;/div>Referencia de pedidoCoincidir todosSaldo Columna de selección de filas ID elem. docum. Est. coinciden.  Doc.compras Posición Material Txt.brv. Importe Cantidad UM de pedido Nota de entrega Tipo condic. Ind. Impuestos Tipo impositivo Texto Sociedad Centro Asignación Doc. material Año doc. mat. Posición Doc. referencia Elem. doc. ref. Clave ref.1 Clave ref.2 Denominación Costes adicion. Costes indic. añadds Importe costes Alternativa Carta de porte   Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. 11050386AMPLIACIÓN SALA CONTR P171.200,001.200,000UNT2 T2 (IVA soportado 21%)AMPLIACIÓN SALA CONTR P171001500235228620251AMPLIACIÓN SALA CONTR P170,00VacíaVacía                           / Líneas de propuestaRechazar líneas Columna de selección de filas Est. coinciden. Doc.compras Posición Material Denominación Importe Cantidad UM de pedido Precio neto Nota de entrega Tipo condic. Doc. material Ejec. doc. mat. Posición Doc. referencia Elem. doc. ref. Carta de porte Texto Nº contrato Posic. contr. Ord. de flete Liq. de flete El. de liq. de flete BOL int. Not. e. aé.   Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. Para seleccionar una línea, pulse la barra espaciadora. VacíaVacíaVacía                      Cuenta de mayor &quot;))]</value>
+      <webElementGuid>cab54ed3-dd63-4f25-adeb-19a2b67b8e35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

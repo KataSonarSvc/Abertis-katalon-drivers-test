@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cerrar Orden Preventivo ITAL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad495cee-966e-4014-af7e-83bf1cc4e334</testCaseGuid>
+</TestCaseEntity>

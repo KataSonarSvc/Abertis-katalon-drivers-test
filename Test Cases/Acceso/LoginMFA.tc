@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginMFA</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c546941-c566-4ff5-9757-cc7961be14c6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4bf157b-bc0a-4b98-ba48-8dd93f96d755</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b25a1b3-531f-4586-b398-74402fd0edd3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'agavinoj@abertis.com'</defaultValue>
+      <description></description>
+      <id>e4bf157b-bc0a-4b98-ba48-8dd93f96d755</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+   <variable>
+      <defaultValue>'Betico09'</defaultValue>
+      <description></description>
+      <id>3b25a1b3-531f-4586-b398-74402fd0edd3</id>
+      <masked>true</masked>
+      <name>Pass</name>
+   </variable>
+</TestCaseEntity>

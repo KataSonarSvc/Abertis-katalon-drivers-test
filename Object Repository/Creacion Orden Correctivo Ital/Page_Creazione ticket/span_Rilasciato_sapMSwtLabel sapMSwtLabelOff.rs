@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rilasciato_sapMSwtLabel sapMSwtLabelOff</name>
+   <tag></tag>
+   <elementGuidId>5befa6e5-d89d-43c5-be5d-e58dd334f6d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sapMSwtLabel.sapMSwtLabelOff</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__xmlview2--iliberado-textoff']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0bd41a80-784b-41aa-bf59-64c4d18653d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMSwtLabel sapMSwtLabelOff</value>
+      <webElementGuid>21b78843-417a-4652-a499-db53739c620a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview2--iliberado-textoff&quot;)/span[@class=&quot;sapMSwtLabel sapMSwtLabelOff&quot;]</value>
+      <webElementGuid>62ecf995-e3ba-410f-8bc3-9c534a2ff27a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__xmlview2--iliberado-textoff']/span</value>
+      <webElementGuid>c480a146-ead2-4865-8188-a5234c888505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div/div/div/div[2]/span</value>
+      <webElementGuid>faec4618-6dc1-4fad-ba36-8c21da36b508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

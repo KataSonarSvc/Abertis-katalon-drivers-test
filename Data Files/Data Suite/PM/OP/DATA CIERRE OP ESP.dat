@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>DATA CIERRE OP ESP</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>f326f3a6-2002-42df-9273-36bd77b24213</dataFileGUID>
+   <dataSourceUrl>C:\Users\alejandra.peco.jover\git\KATALON_STUDIO_ASSIST\Data Files\Excel\PM\O Preventivo\DATA PM CERRAR ORDEN PREVENTIVO ESP.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

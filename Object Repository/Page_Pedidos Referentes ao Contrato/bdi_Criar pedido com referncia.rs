@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Criar pedido com referncia</name>
+   <tag></tag>
+   <elementGuidId>6867f0e0-257b-4f24-8038-02d3bd637ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div/div/div[2]/div/section/div/div[2]/div[2]/div[2]/div/div/div/div/div/div/article/div[2]/div/div/div[1]/div[2]/div/div/div/div/div[1]/button[1]/span/span[2]/bdi</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>188eaa63-89ef-4289-9b48-0c9ebe907d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-BDI-content</value>
+      <webElementGuid>75f5d0ce-919f-40a7-8fcd-9dd4c9a482cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Criar pedido com referência</value>
+      <webElementGuid>0ffc0370-4545-47ca-af82-3f3c2fdfe89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;com.abertis.mm.zpowithcontract::sap.suite.ui.generic.template.ListReport.view.ListReport::ZC_PosContractLR--CreateOrderWithReference-Group-BDI-content&quot;)</value>
+      <webElementGuid>53228235-d81a-4bb3-b9b4-50732d8b3a6d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab_Datos Generales</name>
+   <tag></tag>
+   <elementGuidId>2f9700ae-5c2a-4b77-bbac-c094dc837446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>00d07487-2867-44d3-b555-44a93e522750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor-inner</value>
+      <webElementGuid>1e637998-0a60-43a9-b3ab-837551b4753f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnDefault</value>
+      <webElementGuid>612ffefd-0c79-409c-bce5-d59abdc5f6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Datos Generales</value>
+      <webElementGuid>6475f3a6-8c67-41d7-a7fa-d2899274ba94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor-inner&quot;)</value>
+      <webElementGuid>b8157f0c-0088-4586-9f98-0c10e167d7ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor-inner']</value>
+      <webElementGuid>272c593c-9f51-492b-8040-4b0a123dd03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor']/span</value>
+      <webElementGuid>d0fc9faa-beaf-42da-a7c3-085e0749d854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desplazarse hacia la izquierda'])[1]/following::span[1]</value>
+      <webElementGuid>03f6e317-3840-4349-99dc-341fe94597b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desplegar cabecera'])[1]/following::span[4]</value>
+      <webElementGuid>0aceab96-4f6c-4553-a6e5-1e558941a002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posiciones'])[3]/preceding::span[2]</value>
+      <webElementGuid>d17e8b34-18a0-4537-89c6-c19da7d70524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span</value>
+      <webElementGuid>b09741ad-149a-48cc-88f9-5c397dec077b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'application-zpurchaseorder-displayContract-component---detail--ObjectPageLayout-anchBar-application-zpurchaseorder-displayContract-component---detail--general-anchor-inner' and (text() = 'Datos Generales' or . = 'Datos Generales')]</value>
+      <webElementGuid>8d1ce810-7b16-402e-9d46-c78d7a8fd3bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

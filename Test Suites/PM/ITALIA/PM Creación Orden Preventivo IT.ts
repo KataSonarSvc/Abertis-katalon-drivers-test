@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>PM Creación Orden Preventivo IT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>c6af7f80-7993-4acb-8cc3-953e40062178</testSuiteGuid>
+   <testCaseLink>
+      <guid>6e65c154-d321-4bcd-ba37-85606319fae3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Preventivo/Creación Orden Preventivo IT new ID</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ad813a2b-b398-48a4-bcb6-fe7bb68e8d0a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OP/PM CREACIÓN ORDEN PREVENTIVO IT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ad813a2b-b398-48a4-bcb6-fe7bb68e8d0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CI.ORDEN</value>
+         <variableId>4987cf78-36af-4160-a21f-590d202a74dc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ad813a2b-b398-48a4-bcb6-fe7bb68e8d0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CE.PLANIF</value>
+         <variableId>c8cf6113-1c2a-472d-8877-128635379fe0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ad813a2b-b398-48a4-bcb6-fe7bb68e8d0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TEXTO ORDEN</value>
+         <variableId>5b19c0dd-f92c-4566-bfd5-9c6c8db6deee</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ad813a2b-b398-48a4-bcb6-fe7bb68e8d0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RS.PTO.TR</value>
+         <variableId>738fe205-65ad-4575-a4ff-34ff453d5e7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ad813a2b-b398-48a4-bcb6-fe7bb68e8d0a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIC.TECN</value>
+         <variableId>4480a08f-ecee-43f8-a29d-5fea54b461b7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

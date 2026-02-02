@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Cerrar Orden Preventivo UNAE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8147cbbd-facb-4f8c-a424-905f2097d32c</testCaseGuid>
+</TestCaseEntity>

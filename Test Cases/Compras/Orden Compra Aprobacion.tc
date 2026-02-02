@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Orden Compra Aprobacion</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6042d962-c47d-482c-90d6-6ef376a2b0b3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c6c0604-e159-4c2a-89e5-d1c7b3932f6f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8c6c0604-e159-4c2a-89e5-d1c7b3932f6f</id>
+      <masked>false</masked>
+      <name>num_pedido</name>
+   </variable>
+</TestCaseEntity>

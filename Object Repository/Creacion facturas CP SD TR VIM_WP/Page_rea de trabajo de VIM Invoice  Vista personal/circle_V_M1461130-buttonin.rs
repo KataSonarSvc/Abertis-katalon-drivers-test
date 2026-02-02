@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle_V_M1461130-buttonin</name>
+   <tag></tag>
+   <elementGuidId>8c74c211-c95b-470d-98f9-ec6de9a1d4a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//circle[@id = 'M1:46:1:1::3:0-buttonin']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>7e54762c-ff66-4129-8e65-87b1a20655fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>M1:46:1:1::3:0-buttonin</value>
+      <webElementGuid>8fd2a793-1af7-4ce4-a249-17a0a098c8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lsRadioButton--svg-buttonin</value>
+      <webElementGuid>acd92590-1c82-4930-b508-f4f04a06dd44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>59085a06-4263-4654-bce4-2376a061ecc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M1:46:1:1::3:0-buttonin&quot;)</value>
+      <webElementGuid>19fd556e-981c-4831-a11c-1786da905b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Creacion facturas CP SD TR VIM_WP/Page_rea de trabajo de VIM Invoice  Vista personal/iframe_Ms_application-zgui_opt_vim_wp-displ_b9e7ed</value>
+      <webElementGuid>e216a318-283a-443d-b846-ab720eee0eb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//circle[@id = 'M1:46:1:1::3:0-buttonin']</value>
+      <webElementGuid>5b582fcb-bcaa-4530-a235-c3fec70f86f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

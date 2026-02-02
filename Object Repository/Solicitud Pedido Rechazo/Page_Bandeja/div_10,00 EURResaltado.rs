@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_10,00 EURResaltado</name>
+   <tag></tag>
+   <elementGuidId>e8da719e-e01d-4730-9f5a-e708d4a8b7ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-1-content']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sapMObjLTopRow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fd76d946-c2b2-467f-9870-49031c251cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMObjLTopRow</value>
+      <webElementGuid>a3f4b1ec-eadf-441e-8e4f-5718f5f5e25a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10,00  EURResaltado</value>
+      <webElementGuid>e1496683-c1ff-47c0-b84a-58805eb206cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-1-content&quot;)/div[@class=&quot;sapMObjLTopRow&quot;]</value>
+      <webElementGuid>1a6bcc95-4f56-46e1-9d55-1e3d565397c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__xmlview12--MAIN_LIST_ITEM-__xmlview12--list-1-content']/div</value>
+      <webElementGuid>fae2ce36-0048-4ae1-a336-4798dc0dfe47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selección múltiple'])[1]/following::div[12]</value>
+      <webElementGuid>6f468cd9-1265-47c5-b888-eb9bc01557fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzón general de compras (1)'])[1]/following::div[13]</value>
+      <webElementGuid>f7d22fcb-743a-4516-ae62-0d919c0d1ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fundació Abertis'])[1]/preceding::div[5]</value>
+      <webElementGuid>b3b972df-73c6-49c8-a53d-2215443bbaca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div</value>
+      <webElementGuid>0ac74838-ba83-4538-9354-f32b2f6febce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '10,00  EURResaltado' or . = '10,00  EURResaltado')]</value>
+      <webElementGuid>c2f41b7f-00b4-4002-a187-87a84fcdc928</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

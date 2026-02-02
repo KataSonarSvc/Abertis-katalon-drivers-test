@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_COMP_SANEF</name>
+   <tag></tag>
+   <elementGuidId>ad139801-c844-4d9e-aba5-f1a067b037b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog3-table-rows-row7-col0 > div.sapUiTableCellInner</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'COMP_SANEF' or . = 'COMP_SANEF')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'COMP_SANEF' or . = 'COMP_SANEF')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>828bf4da-6ca5-4815-9605-83eb8609de5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner</value>
+      <webElementGuid>a5eda9ff-94b7-4449-8e7b-6b491aae9f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COMP_SANEF</value>
+      <webElementGuid>54815bee-7b09-4a78-9922-bb7309109286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog3-table-rows-row7-col0&quot;)/div[@class=&quot;sapUiTableCellInner&quot;]</value>
+      <webElementGuid>36ad0c80-3c4d-4856-9bec-e484572e3682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog3-table-rows-row7-col0']/div</value>
+      <webElementGuid>c2fd8b62-03f5-4ef5-a843-ef3e8b63d15d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DIOGO MA_DDUARTEA'])[1]/following::div[1]</value>
+      <webElementGuid>db8f3b4f-e846-4989-8d4c-df26402ceb19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MA_DDUARTEA'])[1]/following::div[2]</value>
+      <webElementGuid>8362caca-8788-4a7a-a712-44ad578dff8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COMP_SANEF'])[2]/preceding::div[1]</value>
+      <webElementGuid>429f054f-e12d-486b-ac72-25783141b619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td/div</value>
+      <webElementGuid>36968d39-2306-4867-9e62-60c24681f8b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'COMP_SANEF' or . = 'COMP_SANEF')]</value>
+      <webElementGuid>2dd3b141-95de-4437-9235-7830ea97b9ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

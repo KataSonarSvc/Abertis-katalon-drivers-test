@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vaca_urSCBBtn urBorderBox lsScrollbar-_1a8776</name>
+   <tag></tag>
+   <elementGuidId>ef7d634e-ca96-4dcb-829f-b6f7ae62dbc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='M0:46:2:3B256:2:2_hscroll-hdl']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.urSCBBtn.urBorderBox.lsScrollbar--inlineBlock.lsScrollbar--expandSize</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c8b7f36e-b65c-4f4a-a1ee-d6f457824e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>iddthreshold</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>f60864c4-c283-4a57-808c-f106b9748c3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urSCBBtn urBorderBox lsScrollbar--inlineBlock lsScrollbar--expandSize</value>
+      <webElementGuid>d883f299-6b40-4632-a821-b401c82ebc04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:2:3B256:2:2_hscroll-hdl&quot;)/span[@class=&quot;urSCBBtn urBorderBox lsScrollbar--inlineBlock lsScrollbar--expandSize&quot;]</value>
+      <webElementGuid>2de70fb8-b2f2-4c2e-b67c-370fe33376df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/SDCreacion pedido todos los campos/Page_Crear Plan factu canti A4 Resumen/iframe_Ms_application-SalesDocument-create-iframe</value>
+      <webElementGuid>f24454ec-0a2a-49da-a08e-20c3c2c00b0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='M0:46:2:3B256:2:2_hscroll-hdl']/span</value>
+      <webElementGuid>3c97dfb9-49ed-4ad5-b799-f7c91759a9fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span/span</value>
+      <webElementGuid>01fd685e-da27-47d0-a6f9-fb1169c3844f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

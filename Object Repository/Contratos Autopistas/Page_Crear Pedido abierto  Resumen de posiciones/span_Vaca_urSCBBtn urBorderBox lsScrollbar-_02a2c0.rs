@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vaca_urSCBBtn urBorderBox lsScrollbar-_02a2c0</name>
+   <tag></tag>
+   <elementGuidId>0c452626-6e76-4ea9-beb3-7b2338b1d95c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.urSCBBtn.urBorderBox.lsScrollbar--inlineBlock.lsScrollbar--expandSize.urSCBGrip</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='M0:46:1_hscroll-hdl']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec6ea742-1dbf-4490-8976-c8c0f549f0a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>iddthreshold</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>7d70b91c-267d-4949-8330-826add1ec951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>urSCBBtn urBorderBox lsScrollbar--inlineBlock lsScrollbar--expandSize urSCBGrip</value>
+      <webElementGuid>97a7dcee-3e2a-4126-8021-247bd54dddd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M0:46:1_hscroll-hdl&quot;)/span[@class=&quot;urSCBBtn urBorderBox lsScrollbar--inlineBlock lsScrollbar--expandSize urSCBGrip&quot;]</value>
+      <webElementGuid>500a1837-33de-448c-bacf-17a903dfaab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Contratos Autopistas/Page_Crear Pedido abierto  Resumen de posiciones/iframe_Ms_application-PurchaseContract-crea_3eec77</value>
+      <webElementGuid>3d0b9700-3c91-4ef3-8c19-dd8c142d213b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='M0:46:1_hscroll-hdl']/span</value>
+      <webElementGuid>85c6ad90-81d5-47db-a06f-6bdbe5112556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/span/span</value>
+      <webElementGuid>0f4af716-b0b3-421e-a0f8-6e5be207e912</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

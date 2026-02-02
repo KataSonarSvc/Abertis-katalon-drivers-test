@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ItemDireccion</name>
+   <tag></tag>
+   <elementGuidId>e74b69ee-9c1e-4e70-96a0-7b5ff5431c65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__dialog2-table-rows-row0-col0 > div.sapUiTableCellInner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div[1]/div/table/tbody/tr[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d8ef8b15-a8af-436f-9201-270329b38d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapUiTableCellInner</value>
+      <webElementGuid>c4c81e68-ce75-4778-bb18-ad8866e0be4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2539812</value>
+      <webElementGuid>0434e563-9688-4645-9606-40a2d8734641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__dialog2-table-rows-row0-col0&quot;)/div[@class=&quot;sapUiTableCellInner&quot;]</value>
+      <webElementGuid>5a1bc3d4-43e5-4eb8-b5dc-eaf2694b5787</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='__dialog2-table-rows-row0-col0']/div</value>
+      <webElementGuid>34f8e076-56a5-47d5-a32c-6163eed9217d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ville'])[3]/following::div[5]</value>
+      <webElementGuid>09de40cb-e0fb-4fd2-80e7-edd95a8fd935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code postal'])[3]/following::div[7]</value>
+      <webElementGuid>8e943fb6-6673-4e6f-a935-4d394ea4eeda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('SANEF CENTRE D', &quot;'&quot;, 'ENTRETIEN DE ARRAS')])[1]/preceding::div[1]</value>
+      <webElementGuid>6bbed90c-988a-415d-99f4-7b8e3f759de9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZAC ARTOIPOLE 2'])[1]/preceding::div[2]</value>
+      <webElementGuid>c706d20f-1ae1-4c87-bdeb-718065d2308f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/table/tbody/tr/td/div</value>
+      <webElementGuid>aeaf15a3-09b0-4891-8615-55c1848aad5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '2539812' or . = '2539812')]</value>
+      <webElementGuid>fa5f0cde-c2d0-4f17-80b3-e596c7f78906</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

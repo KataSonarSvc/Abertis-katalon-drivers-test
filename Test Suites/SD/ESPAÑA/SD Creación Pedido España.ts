@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SD Creación Pedido España</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>df2cd3f3-0772-4007-ba1b-04a2c7c0cc23</testSuiteGuid>
+   <testCaseLink>
+      <guid>05b25b5a-2e5c-4109-8f75-d609b59bf368</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SD/SD Creacion Pedido Flujo</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/SD/data_sd_pedido_espana</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CLASE DE PEDIDO</value>
+         <variableId>de6c86df-6fb4-4ff7-90bd-a6a405ed19ff</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ORGANIZACIÓN</value>
+         <variableId>86edeee8-1d0d-46a1-84c4-b0bbc588bf5d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CANAL</value>
+         <variableId>9d6c29a5-710b-48e5-b492-5fc1d067af5a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SECTOR</value>
+         <variableId>5876b3e6-db10-408a-9877-1f91ae30268f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SOLICITANTE</value>
+         <variableId>e3818b24-d70f-414c-b947-ca6f3abb7ee8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DESTINATARIO</value>
+         <variableId>39285fa8-60be-49d5-acf5-483206a71444</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MATERIAL</value>
+         <variableId>8948b975-6911-4ea6-8267-fba0f5607ca3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CENTRO DE BENEFICIO</value>
+         <variableId>93221692-2cbf-4702-89f6-e091bb7054fc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CANTIDAD PEDIDO</value>
+         <variableId>dc08dbb7-deea-4add-a86d-b740b15dea3e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d2e462f7-293c-4670-81d4-ce30bdaf2c4b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>IMPORTE</value>
+         <variableId>3dd58b5e-f58c-42ba-a5a8-f2ab1aa2b4c0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

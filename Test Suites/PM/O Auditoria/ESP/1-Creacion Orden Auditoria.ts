@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>1-Creacion Orden Auditoria</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>b21b4ce6-d87a-45e7-a260-45494e3d7a22</testSuiteGuid>
+   <testCaseLink>
+      <guid>c4ac10bb-f6b8-4eec-85f2-b3ed1dc341b3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/PM/O Auditorias/Creación Orden Auditoria</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Suite/PM/OA/PM CREACIÓN ORDEN Auditoria UNAE</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CI_ORDEN</value>
+         <variableId>0967e6c7-2b07-4154-9ce8-1ebc84e34ee3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>CE_PLANIF</value>
+         <variableId>77aaf7fc-fcdf-482f-bd88-8621f4c7292f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TEXTO_ORDEN</value>
+         <variableId>05e0b483-ae20-4b58-b808-68cd774e67d1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>RS_PTO_TR</value>
+         <variableId>d25d2b2f-7e77-4d24-b1d4-ec9a466d5419</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UBIC_TECN</value>
+         <variableId>186c36c2-729e-4a97-b215-441892f591f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9b191c8b-d9a9-4afa-a7cd-5272a99262a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EQUIPO</value>
+         <variableId>2cad3b24-031e-42bf-b7b7-444a96be2a56</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
